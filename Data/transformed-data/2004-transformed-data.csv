@@ -22,7 +22,7 @@
 20,20,Andhra Pradesh,20,Tirupati,SC,Chinta Mohan,M,INC,510961,Dr. N. Venkata Swamy,M,BJP,311633,199328,2004
 21,21,Andhra Pradesh,21,Chittoor,GEN,D.K. Audikesavulu,M,TDP,454128,Dr. Ravuri Venkata Swamy,M,INC,391990,62138,2004
 22,22,Andhra Pradesh,22,Rajampet,GEN,Annayyagari Sai Prathap,M,INC,369797,Gunipati Ramaiah,M,TDP,291712,78085,2004
-23,23,Andhra Pradesh,23,Cuddapah,GEN,Y.S. Vivekananda Reddy,M,INC,461431,Venkata Mysura Reddy Mule,M,TDP,329757,131674,2004
+23,23,Andhra Pradesh,23,Kadapa,GEN,Y.S. Vivekananda Reddy,M,INC,461431,Venkata Mysura Reddy Mule,M,TDP,329757,131674,2004
 24,24,Andhra Pradesh,24,Hindupur,GEN,Nizamoddin,M,INC,419744,B.K.Pardhasarathi,M,TDP,417904,1840,2004
 25,25,Andhra Pradesh,25,Anantapur,GEN,Anantha Venkata Rami Reddy,M,INC,458925,Kalava Srinivasulu,M,TDP,385521,73404,2004
 26,26,Andhra Pradesh,26,Kurnool,GEN,Kotla Jayasurya Prakasha Reddy,M,INC,433529,Kambalapadu Ediga Krishnamurthi,M,TDP,332431,101098,2004
@@ -51,13 +51,13 @@
 49,49,Arunachal Pradesh,2,Arunachal East,GEN,Tapir Gao,M,BJP,83335,Wangcha Rajkumar,M,INC,38341,44994,2004
 50,50,Assam,1,Karimganj,SC,Lalit Mohan Suklabaidya,M,INC,321059,Parimal Sukla Baidya,M,BJP,229111,91948,2004
 51,51,Assam,2,Silchar,GEN,Sontosh Mohan Dev,M,INC,246215,Kabindra Purkyastha,M,BJP,224895,21320,2004
-52,52,Assam,3,Autonomous District,ST,Biren Singh Engti,M,INC,125937,Elwin Teron,M,ASDC,101808,24129,2004
+52,52,Assam,3,Diphu,ST,Biren Singh Engti,M,INC,125937,Elwin Teron,M,ASDC,101808,24129,2004
 53,53,Assam,4,Dhubri,GEN,Anwar Hussain,M,INC,376588,Afzalur Rahman,M,AGP,259966,116622,2004
 54,54,Assam,5,Kokrajhar,ST,Sansuma Khunggur Bwiswmuthiary,M,IND,689620,Sabda Ram Rabha,M,IND,205491,484129,2004
 55,55,Assam,6,Barpeta,GEN,A. F. Golam Osmani,M,INC,266972,Kumar Deepak Das,M,AGP,198847,68125,2004
-56,56,Assam,7,Gauhati,GEN,Kirip Chaliha,M,INC,353250,Bhupen Hazarika,M,BJP,292099,61151,2004
-57,57,Assam,8,Mangaldoi,GEN,Narayan Chandra Borkataky,M,BJP,345863,Madhab Rajbangshi,M,INC,315997,29866,2004
-58,58,Assam,9,Tezpur,GEN,Moni Kumar Subba,M,INC,289847,Padma Hazarika,M,AGP,219402,70445,2004
+56,56,Assam,7,Guwahati,GEN,Kirip Chaliha,M,INC,353250,Bhupen Hazarika,M,BJP,292099,61151,2004
+57,57,Assam,8,Darrang–Udalguri,GEN,Narayan Chandra Borkataky,M,BJP,345863,Madhab Rajbangshi,M,INC,315997,29866,2004
+58,58,Assam,9,Sonitpur,GEN,Moni Kumar Subba,M,INC,289847,Padma Hazarika,M,AGP,219402,70445,2004
 59,59,Assam,10,Nowgong,GEN,Rajen Gohain,M,BJP,342704,Bisnu Prasad,M,INC,311292,31412,2004
 60,60,Assam,11,Kaliabor,GEN,Dip Gogoi,M,INC,301893,Keshab Mahanta,M,AGP,234695,67198,2004
 61,61,Assam,12,Jorhat,GEN,Bijoy Krishna Handique,M,INC,223624,Drupad Borgohain,M,CPI,172332,51292,2004
@@ -69,7 +69,7 @@
 67,67,Bihar,4,Gopalganj,GEN,Anirudh Prasad Alias Sadhu Yadav,M,RJD,336016,Prabhu Dayal Singh,M,JD(U),143097,192919,2004
 68,68,Bihar,5,Siwan,GEN,Mohammad Shahabuddin,M,RJD,317511,Om Prakash Yadav,M,JD(U),213933,103578,2004
 69,69,Bihar,6,Maharajganj,GEN,Prabhunath Singh,M,JD(U),283506,Jitendra Swami,M,RJD,237041,46465,2004
-70,70,Bihar,7,Chapra,GEN,Lalu Prasad,M,RJD,228882,Rajeev Pratap Rudy,M,BJP,168459,60423,2004
+70,70,Bihar,7,Saran,GEN,Lalu Prasad,M,RJD,228882,Rajeev Pratap Rudy,M,BJP,168459,60423,2004
 71,71,Bihar,8,Hajipur,SC,Ram Vilas Paswan,M,LJNSP,477495,Chhedi Paswan,M,JD(U),239694,237801,2004
 72,72,Bihar,9,Vaishali,GEN,Raghubansh Prasad Singh,M,RJD,361503,Vijay Kumar Shukla,M,IND,255568,105935,2004
 73,73,Bihar,10,Muzaffarpur,GEN,George Fernandes,M,JD(U),370127,Bhagwan Lal Sahani,M,RJD,360434,9693,2004
@@ -107,9 +107,9 @@
 105,105,Bihar,39,Nawada,SC,Virchandra Paswan,M,RJD,489992,Sanjay Paswan,M,BJP,433986,56006,2004
 106,106,Bihar,40,Gaya,SC,Rajesh Kumar Manjhi,M,RJD,464829,Balbir Chand,M,BJP,361895,102934,2004
 107,107,Goa,1,Panaji,GEN,Shripad Yesso Naik,M,BJP,144842,D'Souza Wilfred,M,NCP,88629,56213,2004
-108,108,Goa,2,Mormugao,GEN,Alemao Churchil Braz,M,INC,164432,Angle Ramakant Soiru,M,BJP,113908,50524,2004
-109,109,Goa,By Polls (2007),Mormugao,GEN,Shri Francisco Sardinha,M,INC,118583,Mesquita Wilfred M.,M,BJP,77681,40902,2004
-110,110,Gujarat,1,Kutch,GEN,Gadhavi Pushpadan Shambhudan,M,BJP,221057,Shailendrasinh Jadeja,M,INC,192067,28990,2004
+108,108,Goa,2,South Goa,GEN,Alemao Churchil Braz,M,INC,164432,Angle Ramakant Soiru,M,BJP,113908,50524,2004
+109,109,Goa,By Polls (2007),South Goa,GEN,Shri Francisco Sardinha,M,INC,118583,Mesquita Wilfred M.,M,BJP,77681,40902,2004
+110,110,Gujarat,1,Kachchh,GEN,Gadhavi Pushpadan Shambhudan,M,BJP,221057,Shailendrasinh Jadeja,M,INC,192067,28990,2004
 111,111,Gujarat,2,Surendranagar,GEN,Koli Patel Somabhai Gandabhai,M,BJP,219872,Savshibhai Kanjibhai Makwana,M,INC,185928,33944,2004
 112,112,Gujarat,3,Jamnagar,GEN,Ahir  Vikrambhai Arjanbhai Madam,M,INC,204468,Koradia Chandreshbhai Valjibhai (Chandresh Patel),M,BJP,198875,5593,2004
 113,113,Gujarat,4,Rajkot,GEN,Dr. Kathiria Vallabhbhai Ramjibhai,M,BJP,320604,Balvantbhai Bachubhai Manvar,M,NCP,176634,143970,2004
@@ -120,7 +120,7 @@
 118,118,Gujarat,9,Dhandhuka,SC,Varma Ratilal Kalidas,M,BJP,249322,Yogendrakumar Mavjibhai Makwana,M,INC,226528,22794,2004
 119,119,Gujarat,10,Ahmedabad,GEN,Harin Pathak,M,BJP,301853,Gupta Rajkumar Gigraj,M,INC,224248,77605,2004
 120,120,Gujarat,11,Gandhinagar,GEN,L. K. Advani,M,BJP,516120,Gabhaji Mangaji Thakor,M,INC,298982,217138,2004
-121,121,Gujarat,12,Mehsana,GEN,Jivabhai Ambalal Patel,M,INC,339643,Nitinbhai Ratilal Patel,M,BJP,325132,14511,2004
+121,121,Gujarat,12,Mahesana,GEN,Jivabhai Ambalal Patel,M,INC,339643,Nitinbhai Ratilal Patel,M,BJP,325132,14511,2004
 122,122,Gujarat,13,Patan,SC,Kanodia Maheshkumar Mithabhai,M,BJP,273970,Rastrapal Pravin Somabhai,M,INC,250346,23624,2004
 123,123,Gujarat,14,Banaskantha,GEN,Chavda Harisinhaji Pratapsinhaji,M,INC,301148,Chaudhary Haribhai Parathibhai,M,BJP,294220,6928,2004
 124,124,Gujarat,15,Sabarkantha,GEN,Madhusudan Mistry,M,INC,316483,Bara Ramilaben Bahecharbhai,M,BJP,276555,39928,2004
@@ -130,11 +130,11 @@
 128,128,Gujarat,19,Kaira,GEN,Dinsha Patel,M,INC,244037,Gaekwad Shubhanginiraje Ranjitsinh,M,BJP,187288,56749,2004
 129,129,Gujarat,20,Anand,GEN,Solanki Bharatsinh Madhavsinh,M,INC,307762,Jayprakash Vaghajibhai Patel (Babalbhai),M,BJP,246677,61085,2004
 130,130,Gujarat,21,Chhota Udaipur,ST,Naranbhai  Rathwa,M,INC,246855,Ramsinh Rathwa,M,BJP,210616,36239,2004
-131,131,Gujarat,22,Baroda,GEN,Jayaben Thakkar,F,BJP,316089,Gaekwad Satyajitsinh Duleepsinh,M,INC,309486,6603,2004
+131,131,Gujarat,22,Vadodara,GEN,Jayaben Thakkar,F,BJP,316089,Gaekwad Satyajitsinh Duleepsinh,M,INC,309486,6603,2004
 132,132,Gujarat,23,Bharuch,GEN,Vasava Mansukhbhai Dhanjibhai,M,BJP,299630,Patel  Muhammad Fansiwala,M,INC,227428,72202,2004
 133,133,Gujarat,24,Surat,GEN,Kashiram Rana,M,BJP,508076,Chandravadan Chhotubhai Pithawala,M,INC,357513,150563,2004
 134,134,Gujarat,25,Mandvi,ST,Chaudhary Tusharbhai Amarsinhbhai,M,INC,386592,Mansinh Patel,M,BJP,213210,173382,2004
-135,135,Gujarat,26,Bulsar,ST,Kishanbhai Vestabhai Patel,M,INC,321769,Chaudhari Manibhai Ramjibhai,M,BJP,277283,44486,2004
+135,135,Gujarat,26,Valsad,ST,Kishanbhai Vestabhai Patel,M,INC,321769,Chaudhari Manibhai Ramjibhai,M,BJP,277283,44486,2004
 136,136,Haryana,1,Ambala,SC,Selja,F,INC,415264,Rattan Lal Kataria,M,BJP,180329,234935,2004
 137,137,Haryana,2,Kurukshetra,GEN,Naveen Jindal,M,INC,362054,Abhay Singh Chautala,M,INLD,201864,160190,2004
 138,138,Haryana,3,Karnal,GEN,Arvind Kumar Sharma,M,INC,318948,I. D. Swami,M,BJP,154186,164762,2004
@@ -142,8 +142,8 @@
 140,140,Haryana,5,Rohtak,GEN,Bhupinder Singh,M,INC,324235,Abhimanyu,M,BJP,173800,150435,2004
 141,141,Haryana,By Polls (2005),Rohtak,GEN,Deependra Singh,M,INC,355074,Abhimanyu,M,BJP,123116,231958,2004
 142,142,Haryana,6,Faridabad,GEN,Avtar Singh Bhadana,M,INC,357284,Mohd. Ilyas,M,INLD,205355,151929,2004
-143,143,Haryana,7,Mahendragarh,GEN,Inderjit Singh,M,INC,358714,Dr. Sudha Yadav,M,BJP,148373,210341,2004
-144,144,Haryana,8,Bhiwani,GEN,Kuldeep Bishnoi,M,INC,290936,Surender Singh,M,HVP,266532,24404,2004
+143,143,Haryana,7,Bhiwani‑Mahendragarh,GEN,Inderjit Singh,M,INC,358714,Dr. Sudha Yadav,M,BJP,148373,210341,2004
+144,144,Haryana,8,Bhiwani‑Mahendragarh,GEN,Kuldeep Bishnoi,M,INC,290936,Surender Singh,M,HVP,266532,24404,2004
 145,145,Haryana,9,Hisar,GEN,Jai Parkash,M,INC,407210,Surender Singh Barwala,M,INLD,224442,182768,2004
 146,146,Haryana,10,Sirsa,SC,Atma Singh Gill,M,INC,349397,Dr. Sushil Indora,M,INLD,277922,71475,2004
 147,147,Himachal Pradesh,1,Shimla,SC,Dhani Ram Shandil,M,INC,311182,Hira Nand Kashyap,M,BJP,203002,108180,2004
@@ -154,7 +154,7 @@
 152,152,Himachal Pradesh,By Polls (2008),Hamirpur,GEN,Anurag Singh Thakur,M,BJP,374339,O.P.Rattan,M,INC,199673,174666,2004
 153,153,Jammu And Kashmir,1,Baramulla,GEN,Abdul Rashid Shaheen,M,JKN,127653,Nizam-Uddin Bhat,M,JKPDP,117758,9895,2004
 154,154,Jammu And Kashmir,2,Srinagar,GEN,Omar Abdullah,M,JKN,98422,Advocate Ghulam Nabi Lone,M,JKPDP,75263,23159,2004
-155,155,Jammu And Kashmir,3,Anantnag,GEN,Mehbooba Mufti,F,JKPDP,74436,Dr. Mehboob Beg,M,JKN,35498,38938,2004
+155,155,Jammu And Kashmir,3,Anantnag‑Rajouri,GEN,Mehbooba Mufti,F,JKPDP,74436,Dr. Mehboob Beg,M,JKN,35498,38938,2004
 156,156,Jammu And Kashmir,4,Ladakh,GEN,Thupstan Chhewang,M,IND,66839,Hassan Khan,M,JKN,41126,25713,2004
 157,157,Jammu And Kashmir,5,Udhampur,GEN,Ch. Lal Singh,M,INC,240872,Prof. Chaman Lal Gupta,M,BJP,193697,47175,2004
 158,158,Jammu And Kashmir,6,Jammu,GEN,Madan Lal Sharma,M,INC,319994,Dr. Nirmal Singh,M,BJP,302426,17568,2004
@@ -175,13 +175,13 @@
 173,173,Karnataka,14,Mandya,GEN,Ambareesh M. H.,M,INC,411116,Dr. S Ramegowda,M,JD(S),286678,124438,2004
 174,174,Karnataka,15,Chamarajanagar,SC,M. Shivanna,M,JD(S),316661,A Siddaraju,M,INC,272672,43989,2004
 175,175,Karnataka,16,Mysore,GEN,C. H. Vijayashankar,M,BJP,316442,A S Guruswamy,M,JD(S),306292,10150,2004
-176,176,Karnataka,17,Mangalore,GEN,D. V. Sadananda Gowda,M,BJP,384760,M Veerappa Moily,M,INC,351345,33415,2004
+176,176,Karnataka,17,Dakshina Kannada,GEN,D. V. Sadananda Gowda,M,BJP,384760,M Veerappa Moily,M,INC,351345,33415,2004
 177,177,Karnataka,18,Udupi,GEN,Manorama Madhwaraj,F,BJP,369627,Vinaya Kumar Sorake,M,INC,340624,29003,2004
 178,178,Karnataka,19,Hassan,GEN,H. D. Devegowda,M,JD(S),462625,H C Srikantaiah  Alias Annaiah,M,INC,272320,190305,2004
 179,179,Karnataka,20,Chikmagalur,GEN,D. C. Srikantappa,M,BJP,341391,B L Shankar,M,INC,267719,73672,2004
 180,180,Karnataka,21,Shimoga,GEN,S. Bangarappa,M,BJP,450097,Ayanur Manjunath,M,INC,373952,76145,2004
 181,181,Karnataka,By Polls (2005),Shimoga,GEN,S.Bangarappa,M,SP,269013,Ayanur Manjunatha,M,INC,252376,16637,2004
-182,182,Karnataka,22,Kanara,GEN,Ananthkumar Hegde,M,BJP,433174,Alva Margaret,M,INC,260948,172226,2004
+182,182,Karnataka,22,Uttara Kannada,GEN,Ananthkumar Hegde,M,BJP,433174,Alva Margaret,M,INC,260948,172226,2004
 183,183,Karnataka,23,Dharwad South,GEN,Manjunath Channappa,M,BJP,442759,Prof. I G Sanadi,M,INC,297647,145112,2004
 184,184,Karnataka,24,Dharwad North,GEN,Pralhad Joshi,M,BJP,385084,B S Patil,M,INC,302006,83078,2004
 185,185,Karnataka,25,Belgaum,GEN,Angadi Suresh Chanabasappa,M,BJP,410843,Amarsinh Vasantrao Patil,M,INC,326090,84753,2004
@@ -189,25 +189,25 @@
 187,187,Karnataka,27,Bagalkot,GEN,Gaddigoudar Parvatagouda Chandanagouda,M,BJP,459451,Patil R S,M,INC,292068,167383,2004
 188,188,Karnataka,28,Bijapur,GEN,Basanagouda R Patil (Yatnal),M,BJP,344905,Basanagouda Somanagouda Patil (Managuli),M,INC,307372,37533,2004
 189,189,Kerala,1,Kasaragod,GEN,P. Karunakaran,M,CPM,437284,N A Mohammed,M,INC,329028,108256,2004
-190,190,Kerala,2,Cannanore,GEN,A. P. Abdullakutty,M,CPM,435058,Mullappally Ramachandran,M,INC,351209,83849,2004
+190,190,Kerala,2,Kannur,GEN,A. P. Abdullakutty,M,CPM,435058,Mullappally Ramachandran,M,INC,351209,83849,2004
 191,191,Kerala,3,Badagara,GEN,P. Satheedevi,F,CPM,429294,M T Padma,M,INC,298705,130589,2004
-192,192,Kerala,4,Calicut,GEN,M. P. Veerendra Kumar,M,JD(S),340111,Adv V Balaram,M,INC,274785,65326,2004
+192,192,Kerala,4,Kozhikode,GEN,M. P. Veerendra Kumar,M,JD(S),340111,Adv V Balaram,M,INC,274785,65326,2004
 193,193,Kerala,5,Manjeri,GEN,T. K. Hamza,M,CPM,426920,K P A Majeed,M,MUL,379177,47743,2004
 194,194,Kerala,6,Ponnani,GEN,E. Ahammed,M,MUL,354051,P P Suneer,M,CPI,251293,102758,2004
-195,195,Kerala,7,Palghat,GEN,N. N. Krishnadas,M,CPM,375144,V S Vijaya Raghavan,M,INC,276986,98158,2004
+195,195,Kerala,7,Palakkad,GEN,N. N. Krishnadas,M,CPM,375144,V S Vijaya Raghavan,M,INC,276986,98158,2004
 196,196,Kerala,8,Ottapalam,SC,S. Ajaya Kumar,M,CPM,395928,K A Thulasi,M,INC,325518,70410,2004
-197,197,Kerala,9,Trichur,GEN,C. K. Chandrappan,M,CPI,320960,A C Jose,M,INC,274999,45961,2004
+197,197,Kerala,9,Thrissur,GEN,C. K. Chandrappan,M,CPI,320960,A C Jose,M,INC,274999,45961,2004
 198,198,Kerala,10,Mukundapuram,GEN,Lonappan Nambadan,M,CPM,375175,Padmaja Venugopal,M,INC,258078,117097,2004
 199,199,Kerala,11,Ernakulam,GEN,Dr. Sebastian Paul,M,IND,323042,Dr Edward Edezhath,M,INC,252943,70099,2004
 200,200,Kerala,12,Muvattupuzha,GEN,P. C. Thomas (Pullolil),M,IFDP,256411,Adv P M Ismail,M,CPM,255882,529,2004
 201,201,Kerala,13,Kottayam,GEN,K. Suresh Kurup,M,CPM,341213,Anto Antony,M,INC,298299,42914,2004
 202,202,Kerala,14,Idukki,GEN,K. Francis George,M,KEC,353905,Benny Behanan,M,INC,284521,69384,2004
-203,203,Kerala,15,Alleppey,GEN,Dr. K. S. Manoj,M,CPM,335494,V M Sudheeran,M,INC,334485,1009,2004
+203,203,Kerala,15,Alappuzha,GEN,Dr. K. S. Manoj,M,CPM,335494,V M Sudheeran,M,INC,334485,1009,2004
 204,204,Kerala,16,Mavelikkara,GEN,C. S. Sujatha,F,CPM,278281,Ramesh Chennithala,M,INC,270867,7414,2004
 205,205,Kerala,17,Adoor,SC,Chengara Surendran,M,CPI,332216,Kodikunnil Suresh,M,INC,277682,54534,2004
-206,206,Kerala,18,Quilon,GEN,P. Rajendran,M,CPM,355279,Sooranad Rajasekharan,M,INC,244208,111071,2004
+206,206,Kerala,18,Kollam,GEN,P. Rajendran,M,CPM,355279,Sooranad Rajasekharan,M,INC,244208,111071,2004
 207,207,Kerala,19,Chirayinkil,GEN,Varkala Radhakrishnan,M,CPM,313615,M I Shanavas,M,INC,262870,50745,2004
-208,208,Kerala,20,Trivandrum,GEN,P. K. Vasudevan Nair,M,CPI,286057,V S Sivakumar,M,INC,231454,54603,2004
+208,208,Kerala,20,Thiruvananthapuram,GEN,P. K. Vasudevan Nair,M,CPI,286057,V S Sivakumar,M,INC,231454,54603,2004
 209,209,Kerala,By Polls (2005),Thiruvananthapuram,GEN,Pannyan Raveendran,M,CPI,390324,Adv.V.S.Sivakumar,M,INC,316124,74200,2004
 210,210,Madhya Pradesh,1,Morena,SC,Ashok Chhaviram Argal,M,BJP,261337,Barelal Jatav,M,INC,114017,147320,2004
 211,211,Madhya Pradesh,2,Bhind,GEN,Dr. Ramlakhan Singh,M,BJP,234712,Satyadev Katare,M,INC,227766,6946,2004
@@ -241,21 +241,21 @@
 239,239,Madhya Pradesh,25,Dhar,ST,Chhatar Singh Darbar,M,BJP,345468,Umang Singhar,M,INC,312857,32611,2004
 240,240,Madhya Pradesh,26,Indore,GEN,Sumitra Mahajan,F,BJP,508107,Rameshwar Patel,M,INC,314171,193936,2004
 241,241,Madhya Pradesh,27,Ujjain,SC,Dr. Satyanarayan Jatiya,M,BJP,369744,Premchand Guddu,M,INC,299341,70403,2004
-242,242,Madhya Pradesh,28,Jhabua,ST,Kantilal Bhuria,M,INC,322257,Relam Chauhan,M,BJP,241975,80282,2004
+242,242,Madhya Pradesh,28,Ratlam,ST,Kantilal Bhuria,M,INC,322257,Relam Chauhan,M,BJP,241975,80282,2004
 243,243,Madhya Pradesh,29,Mandsaur,GEN,Dr Laxminarayan Pandeya,M,BJP,423478,Rajendra Singh Gautam,M,INC,283845,139633,2004
 244,244,Maharashtra,1,Rajapur,GEN,Suresh Prabhakar Prabhu,M,SHS,264001,Sudhir Sawant,M,INC,183102,80899,2004
 245,245,Maharashtra,2,Ratnagiri,GEN,Anant Geete,M,SHS,334690,Govindrao Nikam,M,NCP,185722,148968,2004
-246,246,Maharashtra,3,Kolaba,GEN,A. R. Antulay,M,INC,312225,Vivek Patil,M,PWPI,280355,31870,2004
-247,247,Maharashtra,4,Mumbai-South,GEN,Milind Murli Deora,M,INC,137956,Jayawantiben Mehta,M,BJP,127710,10246,2004
-248,248,Maharashtra,5,Mumbai-South-Central,GEN,Mohan Rawale,M,SHS,128536,Ahir Sachin,M,NCP,106348,22188,2004
-249,249,Maharashtra,6,Mumbai-North-Central,GEN,Eknath M. Gaikwad,M,INC,256282,Manohar Gajanan Joshi,M,SHS,242953,13329,2004
-250,250,Maharashtra,7,Mumbai-North-East,GEN,Kamat Gurudas,M,INC,493420,Kirit Somaiya,M,BJP,394020,99400,2004
-251,251,Maharashtra,8,Mumbai-North-West,GEN,Sunil Dutt,M,INC,385755,Sanjay Nirupam,M,SHS,338397,47358,2004
-252,252,Maharashtra,By Polls (2005),Mumbai-North-West,GEN,Priya Sunil Dutt,F,INC,346294,Madhukar Raghunath Sirpotdar,M,SHS,174750,171544,2004
-253,253,Maharashtra,9,Mumbai-North,GEN,Govinda,M,INC,559763,Ram Naik,M,BJP,511492,48271,2004
+246,246,Maharashtra,3,Raigad,GEN,A. R. Antulay,M,INC,312225,Vivek Patil,M,PWPI,280355,31870,2004
+247,247,Maharashtra,4,Mumbai South,GEN,Milind Murli Deora,M,INC,137956,Jayawantiben Mehta,M,BJP,127710,10246,2004
+248,248,Maharashtra,5,Mumbai South Central,GEN,Mohan Rawale,M,SHS,128536,Ahir Sachin,M,NCP,106348,22188,2004
+249,249,Maharashtra,6,Mumbai North Central,GEN,Eknath M. Gaikwad,M,INC,256282,Manohar Gajanan Joshi,M,SHS,242953,13329,2004
+250,250,Maharashtra,7,Mumbai North East,GEN,Kamat Gurudas,M,INC,493420,Kirit Somaiya,M,BJP,394020,99400,2004
+251,251,Maharashtra,8,Mumbai North West,GEN,Sunil Dutt,M,INC,385755,Sanjay Nirupam,M,SHS,338397,47358,2004
+252,252,Maharashtra,By Polls (2005),Mumbai North West,GEN,Priya Sunil Dutt,F,INC,346294,Madhukar Raghunath Sirpotdar,M,SHS,174750,171544,2004
+253,253,Maharashtra,9,Mumbai North,GEN,Govinda,M,INC,559763,Ram Naik,M,BJP,511492,48271,2004
 254,254,Maharashtra,10,Thane,GEN,Paranjape Prakash Vishvanath,M,SHS,631414,Davkhare Vasant Shankarrao,M,NCP,609156,22258,2004
 255,255,Maharashtra,By Polls (2008),Thane,GEN,Anand Prakash Paranjpe,M,SS,462766,Sanjeev Ganesh Naik,M,NCP,371894,90872,2004
-256,256,Maharashtra,11,Dahanu,ST,Shingada Damodar Barku,M,INC,286004,Adv. Chintaman Wanga,M,BJP,222641,63363,2004
+256,256,Maharashtra,11,Palghar,ST,Shingada Damodar Barku,M,INC,286004,Adv. Chintaman Wanga,M,BJP,222641,63363,2004
 257,257,Maharashtra,12,Nashik,GEN,Pingale Devidas Anandrao,M,NCP,307613,Patil Dasharath Dharmaji,M,SHS,292555,15058,2004
 258,258,Maharashtra,13,Mgaon,ST,Harischandra Devram Chavan,M,BJP,218259,Mahale Haribhau Shankar,M,JD(S),213731,4528,2004
 259,259,Maharashtra,14,Dhule,ST,Chaure Bapu Hari,M,INC,210714,Gavit Ramdas Rupla,M,BJP,202949,7765,2004
@@ -268,11 +268,11 @@
 266,266,Maharashtra,21,Amravati,GEN,Anant Gudhe,M,SHS,203216,Omprakash Alias Bacchu Babaraoji Kadu,M,IND,188982,14234,2004
 267,267,Maharashtra,22,Ramtek,GEN,Mohite Subodh Baburao,M,SHS,276720,Dr. Shrikant Jichkar,M,INC,262618,14102,2004
 268,268,Maharashtra,23,Nagpur,GEN,Vilas Muttemwar,M,INC,373769,Atalbahadursingh,M,BJP,274286,99483,2004
-269,269,Maharashtra,24,Bhandara,GEN,Patle Shishupal Natthu,M,BJP,277388,Praful Patel,M,NCP,274379,3009,2004
-270,270,Maharashtra,25,Chimur,GEN,Shivankar Mahadeorao Sukaji,M,BJP,336711,Prof. Jogendra Kawade,M,PRBP,237937,98774,2004
+269,269,Maharashtra,24,Bhandara‑Gondiya,GEN,Patle Shishupal Natthu,M,BJP,277388,Praful Patel,M,NCP,274379,3009,2004
+270,270,Maharashtra,25,Gadchiroli‑Chimur,GEN,Shivankar Mahadeorao Sukaji,M,BJP,336711,Prof. Jogendra Kawade,M,PRBP,237937,98774,2004
 271,271,Maharashtra,26,Chandrapur,GEN,Ahir Hansraj Gangaram,M,BJP,366014,Naresh Puglia,M,INC,306191,59823,2004
 272,272,Maharashtra,27,Wardha,GEN,Wagmare Suresh Ganapat,M,BJP,269045,Prabhatai Rau,M,INC,265857,3188,2004
-273,273,Maharashtra,28,Yavatmal,GEN,Rathod Harising Nasaru,M,BJP,298513,Patil Uttamrao Deoraoji,M,INC,241709,56804,2004
+273,273,Maharashtra,28,Yavatmal‑Washim,GEN,Rathod Harising Nasaru,M,BJP,298513,Patil Uttamrao Deoraoji,M,INC,241709,56804,2004
 274,274,Maharashtra,29,Hingoli,GEN,Suryakanta Patil,F,NCP,327944,Shivaji Gyanbarao Mane,M,SHS,315399,12545,2004
 275,275,Maharashtra,30,Nanded,GEN,D. B. Patil,M,BJP,361282,Khatgaonkar Bhaskarrao Bapurao,M,INC,336947,24335,2004
 276,276,Maharashtra,31,Parbhani,GEN,Tukaram Ganpatrao Renge Patil,M,SHS,339318,Suresh Ambadasrao Warpudkar,M,NCP,283147,56171,2004
@@ -311,11 +311,11 @@
 309,309,Odisha,8,Puri,GEN,Braja Kishore Tripathy,M,BJD,462248,Pinaki Misra,M,INC,401288,60960,2004
 310,310,Odisha,9,Bhubaneswar,GEN,Prasanna Kumar Patasani,M,BJD,437762,Soumya Ranjan Patnaik,M,INC,325483,112279,2004
 311,311,Odisha,10,Aska,GEN,Hari Har Swain,M,BJD,381526,Ramkrushana Patnaik,M,INC,248924,132602,2004
-312,312,Odisha,11,Berhampur,GEN,Chandra Sekhar Sahu,M,INC,355973,Anadi Sahu,M,BJP,304316,51657,2004
+312,312,Odisha,11,Brahmapur,GEN,Chandra Sekhar Sahu,M,INC,355973,Anadi Sahu,M,BJP,304316,51657,2004
 313,313,Odisha,12,Koraput,ST,Giridhar Gamang,M,INC,334748,Papanna Mutika,M,BJD,291481,43267,2004
 314,314,Odisha,13,Nowrangpur,ST,Parsuram Majhi,M,BJP,359989,Chandra Sekhar Majhi,M,INC,335099,24890,2004
 315,315,Odisha,14,Kalahandi,GEN,Bikram Keshari Deo,M,BJP,357079,Bhakta Charan Das,M,INC,322957,34122,2004
-316,316,Odisha,15,Phulbani,SC,Sugrib Singh,M,BJD,337951,Abhimanyu Behera,M,INC,318679,19272,2004
+316,316,Odisha,15,Kandhamal,SC,Sugrib Singh,M,BJD,337951,Abhimanyu Behera,M,INC,318679,19272,2004
 317,317,Odisha,16,Bolangir,GEN,Sangeeta Kumari Singh Deo,F,BJP,322912,Sarat Pattanayak,M,INC,222230,100682,2004
 318,318,Odisha,17,Sambalpur,GEN,Prasanna Acharya,M,BJD,390556,Sanjay Bhoi,M,INC,375786,14770,2004
 319,319,Odisha,18,Deogarh,GEN,Dharmendra Pradhan,M,BJP,426092,Sriballav Panigrahi,M,INC,346996,79096,2004
@@ -362,11 +362,11 @@
 360,360,Rajasthan,24,Jodhpur,GEN,Jaswant Singh Bishnoi,M,BJP,434352,Badri Ram Jakhar,M,INC,391857,42495,2004
 361,361,Rajasthan,25,Nagaur,GEN,Bhanwar Singh Dangawas,M,BJP,284657,Ramraghunath,M,INC,214030,70627,2004
 362,362,Sikkim,1,Sikkim,GEN,Nakul Das Rai,M,SDF,153409,Biraj Adhikari,M,INC,60258,93151,2004
-363,363,Tamil Nadu,1,Madras North,GEN,Kuppusami. C,M,DMK,570122,Sukumar Nambiar. M N,M,BJP,316583,253539,2004
-364,364,Tamil Nadu,2,Madras Central,GEN,Dayanidhi Maran,M,DMK,316329,Balaganga N.,M,ADMK,182151,134178,2004
-365,365,Tamil Nadu,3,Madras South,GEN,"Baalu, T. R.",M,DMK,564578,Bader Sayeed ( Tmt),M,ADMK,343838,220740,2004
+363,363,Tamil Nadu,1,Chennai North,GEN,Kuppusami. C,M,DMK,570122,Sukumar Nambiar. M N,M,BJP,316583,253539,2004
+364,364,Tamil Nadu,2,Chennai Central,GEN,Dayanidhi Maran,M,DMK,316329,Balaganga N.,M,ADMK,182151,134178,2004
+365,365,Tamil Nadu,3,Chennai South,GEN,"Baalu, T. R.",M,DMK,564578,Bader Sayeed ( Tmt),M,ADMK,343838,220740,2004
 366,366,Tamil Nadu,4,Sriperumbudur,SC,Krishnaswamy. A,M,DMK,517617,Venugopal. Dr. P,M,ADMK,282271,235346,2004
-367,367,Tamil Nadu,5,Chengalpattu,GEN,"Moorthy, A.K.",M,PMK,431643,Ramachandran. K N,M,ADMK,282919,148724,2004
+367,367,Tamil Nadu,5,Kancheepuram,GEN,"Moorthy, A.K.",M,PMK,431643,Ramachandran. K N,M,ADMK,282919,148724,2004
 368,368,Tamil Nadu,6,Arakkonam,GEN,"Velu, R.",M,PMK,386911,Shanmugam. N,M,ADMK,284715,102196,2004
 369,369,Tamil Nadu,7,Vellore,GEN,"Kader Mohideen, K. M",M,DMK,436642,Santhanam. A,M,ADMK,258032,178610,2004
 370,370,Tamil Nadu,8,Tiruppattur,GEN,"Venugopal, D.",M,DMK,453786,Subramani. K. G,M,ADMK,272884,180902,2004
@@ -380,7 +380,7 @@
 378,378,Tamil Nadu,16,Salem,GEN,Thangkabalu K. V.,M,INC,444591,Rajasekaran. A,M,ADMK,268964,175627,2004
 379,379,Tamil Nadu,17,Tiruchengode,GEN,Subbulakshmi Jagadeesan,F,DMK,501569,Palaniswami. K,M,ADMK,322172,179397,2004
 380,380,Tamil Nadu,18,Nilgiris,GEN,Prabhu R.,M,INC,494121,Master Mathan. M,M,BJP,257619,236502,2004
-381,381,Tamil Nadu,19,Gobichettipalayam,GEN,"Elangovan, E. V. K. S.",M,INC,426826,"Govindarajar, N. R.",M,ADMK,212349,214477,2004
+381,381,Tamil Nadu,19,Tiruppur,GEN,"Elangovan, E. V. K. S.",M,INC,426826,"Govindarajar, N. R.",M,ADMK,212349,214477,2004
 382,382,Tamil Nadu,20,Coimbatore,GEN,"Subbarayan, K.",M,CPI,504981,Radhakishnan. C. P,M,BJP,340476,164505,2004
 383,383,Tamil Nadu,21,Pollachi,SC,"Krishnan, Dr. C",M,MDMK,364988,Murugan. G,M,ADMK,244067,120921,2004
 384,384,Tamil Nadu,22,Palani,GEN,"Kharventhan, S. K.",M,INC,448900,Kishore Kumar. K,M,ADMK,217407,231493,2004
@@ -515,7 +515,7 @@
 513,513,West Bengal,20,Dum Dum,GEN,Amitava Nandy,M,CPM,619325,Tapan Sikdar,M,BJP,521073,98252,2004
 514,514,West Bengal,21,Calcutta North West,GEN,Sudhangshu Seal,M,CPM,151772,Subrata Mukherjee,M,AITC,108768,43004,2004
 515,515,West Bengal,22,Calcutta North East,GEN,Md. Salim,M,CPM,284427,"Ajit Kumar Panja (250, Chittaranjan Avenue, Kolkata-700 006)",M,AITC,210647,73780,2004
-516,516,West Bengal,23,Calcutta South,GEN,Mamata Banerjee,F,AITC,393561,Rabin Deb,M,CPM,295132,98429,2004
+516,516,West Bengal,23,Kolkata Dakshin,GEN,Mamata Banerjee,F,AITC,393561,Rabin Deb,M,CPM,295132,98429,2004
 517,517,West Bengal,24,Howrah,GEN,Swadesh Chakrabortty,M,CPM,489444,Dr. Bikram Sarkar,M,AITC,242507,246937,2004
 518,518,West Bengal,25,Uluberia,GEN,Hannan Mollah,M,CPM,424749,Rajib Banerjee,M,AITC,272634,152115,2004
 519,519,West Bengal,26,Serampore,GEN,Santasri Chatterjee,M,CPM,404082,Akbar Ali Khandoker,M,AITC,384395,19687,2004
@@ -523,13 +523,13 @@
 521,521,West Bengal,28,Arambagh,GEN,Anil Basu,M,CPM,744464,Swapan Kumar Nandi,M,BJP,151962,592502,2004
 522,522,West Bengal,29,Panskura,GEN,Gurudas Dasgupta,M,CPI,541513,Hema Choubey,M,AITC,262035,279478,2004
 523,523,West Bengal,30,Tamluk,GEN,Seth Lakshman Chandra,M,CPM,507228,Adhikari Suvendu,M,AITC,449848,57380,2004
-524,524,West Bengal,31,Contai,GEN,Prasanta Pradhan,M,CPM,464743,Nitish Sengupta,M,AITC,405553,59190,2004
-525,525,West Bengal,32,Midnapore,GEN,Prabodh Panda,M,CPI,480034,Rahul ( Biswajit) Sinha,M,BJP,319274,160760,2004
+524,524,West Bengal,31,Kanthi,GEN,Prasanta Pradhan,M,CPM,464743,Nitish Sengupta,M,AITC,405553,59190,2004
+525,525,West Bengal,32,Medinipur,GEN,Prabodh Panda,M,CPI,480034,Rahul ( Biswajit) Sinha,M,BJP,319274,160760,2004
 526,526,West Bengal,33,Jhargram,ST,Rupchand Murmu,M,CPM,509045,Nityananda Hembram,M,AITC,157702,351343,2004
 527,527,West Bengal,34,Purulia,GEN,Bir Singh Mahato,M,AIFB,341057,Shantiram Mahato,M,INC,195339,145718,2004
 528,528,West Bengal,By Polls (2006),Purulia,GEN,Narahari Mahato,M,AIFB,378501,Shantiram Mahato,M,INC,291468,87033,2004
 529,529,West Bengal,35,Bankura,GEN,Acharia Basudeb,M,CPM,417798,Deb Prasad Kundu ( Tara),M,AITC,187469,230329,2004
-530,530,West Bengal,36,Vishnupur,SC,Susmita Bauri,F,CPM,518507,Janardan Saha,M,AITC,186678,331829,2004
+530,530,West Bengal,36,Bishnupur,SC,Susmita Bauri,F,CPM,518507,Janardan Saha,M,AITC,186678,331829,2004
 531,531,West Bengal,37,Durgapur,SC,Sunil Khan,M,CPM,505250,Shib Narayan Saha,M,BJP,227742,277508,2004
 532,532,West Bengal,38,Asansol,GEN,Bikash Chowdhury,M,CPM,369832,Ghatak Moloy,M,AITC,245514,124318,2004
 533,533,West Bengal,By Polls (2005),Asansol,GEN,Bansagopal Choudhury,M,CPI(M),410740,Ghatak Moloy,M,AITC,180799,229941,2004
@@ -540,7 +540,7 @@
 538,538,West Bengal,42,Birbhum,SC,Ram Chandra Dome,M,CPM,372294,Gopal Chandra Das,M,INC,180682,191612,2004
 539,539,Chhattisgarh,1,Surguja,ST,Nand Kumar Sai,M,BJP,357108,Khelsay Singh,M,INC,253656,103452,2004
 540,540,Chhattisgarh,2,Raigarh,ST,Vishnudeo Sai,M,BJP,329057,Rampukar Singh,M,INC,254814,74243,2004
-541,541,Chhattisgarh,3,Janjgir,GEN,Karuna Shukla,F,BJP,303655,Dr. Charandas Mahant,M,INC,292326,11329,2004
+541,541,Chhattisgarh,3,Janjgir‑Champa,GEN,Karuna Shukla,F,BJP,303655,Dr. Charandas Mahant,M,INC,292326,11329,2004
 542,542,Chhattisgarh,4,Bilaspur,SC,Punnulal Mohle,M,BJP,324729,Dr. Basant Pahre,M,INC,243176,81553,2004
 543,543,Chhattisgarh,5,Sarangarh,SC,Guharam Ajgalle,M,BJP,242575,Parasram Bhardwaj,M,INC,183457,59118,2004
 544,544,Chhattisgarh,6,Raipur,GEN,Ramesh Bais,M,BJP,376029,Shyamacharan Shukla,M,INC,246510,129519,2004
@@ -571,9 +571,9 @@
 569,569,Uttarakhand,By Polls (2007),Tehri Garhwal,GEN,Vijay Bahuguna,M,INC,349325,Manujendra Shah,M,BJP,328414,20911,2004
 570,570,Uttarakhand,2,Garhwal,GEN,Maj. Gen. ( Retd) Bhuwan Chandra Khanduri (Avsm),M,BJP,257726,"Lt. General ( Retd.) Tej Pal Singh Rawat  (Pvsm,Vsm)",M,INC,206764,50962,2004
 571,571,Uttarakhand,3,Almora,GEN,Bachi Singh Rawat,M,BJP,225742,Renuka Rawat,M,INC,215690,10052,2004
-572,572,Uttarakhand,4,Nainital,GEN,K. C. Singh Baba,M,INC,275658,Vijay Bansal,M,BJP,226474,49184,2004
-573,573,Uttarakhand,5,Hardwar,SC,Rajendra Kumar,M,SP,157331,Dr. Bhagwandass,M,BSP,119672,37659,2004
-574,574,Andaman and Nicobar Islands,1,Andaman & Nicobar Islands,GEN,Manoranjan Bhakta,M,INC,85794,Bishnu Pada Ray,M,BJP,55294,30500,2004
+572,572,Uttarakhand,4,Nainital‑Udhamsingh Nagar,GEN,K. C. Singh Baba,M,INC,275658,Vijay Bansal,M,BJP,226474,49184,2004
+573,573,Uttarakhand,5,Haridwar,SC,Rajendra Kumar,M,SP,157331,Dr. Bhagwandass,M,BSP,119672,37659,2004
+574,574,Andaman And Nicobar Islands,1,Andaman And Nicobar Islands,GEN,Manoranjan Bhakta,M,INC,85794,Bishnu Pada Ray,M,BJP,55294,30500,2004
 575,575,Chandigarh,1,Chandigarh,GEN,Pawan Kumar Bansal,M,INC,139880,Satya Pal Jain,M,BJP,94632,45248,2004
 576,576,Dadra And Nagar Haveli,1,Dadra And Nagar Haveli,ST,Delkar Mohanbhai Sanjibhai,M,BNP,34665,Gavli Sitaram,M,INC,21772,12893,2004
 577,577,Daman And Diu,1,Daman And Diu,GEN,Patel Dahyabhai Vallabhbhai,M,INC,27523,Gopal K. Tandel,M,BJP,26916,607,2004
@@ -585,4 +585,4 @@
 583,583,Delhi,6,Delhi Sadar,GEN,Jagdish Tytler,M,INC,140073,Vijay Goel,M,BJP,124099,15974,2004
 584,584,Delhi,7,Karol Bagh,SC,Krishna Tirath,F,INC,138596,Anita Arya,M,BJP,100967,37629,2004
 585,585,Lakshadweep,1,Lakshadweep,ST,Dr. P. Pookunhikoya,M,JD(U),15597,P. M. Sayeed,M,INC,15526,71,2004
-586,586,Puducherry,1,Pondicherry,GEN,Ramadass. M.,M,PMK,241653,Lalitha Kumaramangalam,M,BJP,172472,69181,2004
+586,586,Puducherry,1,Puducherry,GEN,Ramadass. M.,M,PMK,241653,Lalitha Kumaramangalam,M,BJP,172472,69181,2004
