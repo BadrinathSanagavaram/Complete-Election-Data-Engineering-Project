@@ -22899,7 +22899,7 @@
 </td>
 <td>GEN
 </td>
-<td><a href="/wiki/Dev_(Bengali_actor)" title="Dev (Bengali actor)">Deepak Adhikari (Dev)</a>
+<td><a class="mw-redirect" href="/wiki/Dev_(Bengali_actor)" title="Dev (Bengali actor)">Deepak Adhikari (Dev)</a>
 </td>
 <td bgcolor="#3CB371">
 </td>
