@@ -1,0 +1,359 @@
+,Name,State,CVI SCORE
+0,Srikakulam,Andhra Pradesh,4.0
+1,Visakhapatnam,Andhra Pradesh,8.0
+2,Anakapalli,Andhra Pradesh,8.0
+3,Kakinada,Andhra Pradesh,8.0
+4,Rajahmundry,Andhra Pradesh,8.0
+5,Amalapuram,Andhra Pradesh,8.0
+7,Narsapuram,Andhra Pradesh,6.0
+8,Eluru,Andhra Pradesh,8.0
+9,Machilipatnam,Andhra Pradesh,7.0
+10,Vijayawada,Andhra Pradesh,6.0
+11,Guntur,Andhra Pradesh,4.0
+12,Bapatla,Andhra Pradesh,8.0
+13,Narasaraopet,Andhra Pradesh,7.0
+14,Ongole,Andhra Pradesh,5.0
+15,Nellore,Andhra Pradesh,6.0
+17,Tirupati,Andhra Pradesh,4.0
+18,Chittoor,Andhra Pradesh,5.0
+19,Rajampet,Andhra Pradesh,4.0
+20,Hindupur,Andhra Pradesh,9.0
+21,Anantapur,Andhra Pradesh,6.0
+22,Kurnool,Andhra Pradesh,5.0
+24,Nandyal,Andhra Pradesh,5.0
+28,Nagarkurnool,Andhra Pradesh,8.0
+29,Mahabubnagar,Andhra Pradesh,7.0
+30,Hyderabad,Andhra Pradesh,3.0
+31,Secunderabad,Andhra Pradesh,4.0
+33,Medak,Andhra Pradesh,5.0
+34,Nizamabad,Andhra Pradesh,5.0
+35,Adilabad,Andhra Pradesh,6.0
+37,Peddapalli,Andhra Pradesh,5.0
+38,Karimnagar,Andhra Pradesh,5.0
+41,Warangal,Andhra Pradesh,6.0
+43,Khammam,Andhra Pradesh,5.0
+44,Nalgonda,Andhra Pradesh,6.0
+45,Arunachal West,Arunachal Pradesh,5.0
+46,Arunachal East,Arunachal Pradesh,6.0
+47,Gopalganj,Bihar,7.0
+48,Siwan,Bihar,5.0
+49,Maharajganj,Bihar,4.0
+57,Maharajganj,Uttar Pradesh,5.0
+61,Hajipur,Bihar,6.0
+62,Vaishali,Bihar,4.0
+63,Muzaffarpur,Bihar,4.0
+64,Sitamarhi,Bihar,6.0
+65,Sheohar,Bihar,6.0
+66,Madhubani,Bihar,5.0
+67,Madhubani,Bihar,6.0
+68,Jhanjharpur,Bihar,7.0
+69,Darbhanga,Bihar,6.0
+70,Samastipur,Bihar,7.0
+71,Madhepura,Bihar,6.0
+73,Araria,Bihar,5.0
+74,Kishanganj,Bihar,5.0
+75,Kishanganj,Bihar,7.0
+76,Katihar,Bihar,5.0
+77,Banka,Bihar,6.0
+83,Bhagalpur,Bihar,5.0
+85,Khagaria,Bihar,6.0
+86,Begusarai,Bihar,5.0
+87,Nalanda,Bihar,4.0
+89,Arrah,Bihar,7.0
+90,Buxar,Bihar,4.0
+91,Sasaram,Bihar,5.0
+92,Aurangabad,Bihar,7.0
+96,Aurangabad,Maharashtra,7.0
+100,Jahanabad,Bihar,7.0
+101,Nawada,Bihar,8.0
+102,Gaya,Bihar,6.0
+103,Surendranagar,Gujarat,6.0
+104,Jamnagar,Gujarat,2.0
+105,Rajkot,Gujarat,2.0
+106,Porbandar,Gujarat,3.0
+107,Porbandar,Gujarat,2.0
+108,Junagadh,Gujarat,4.0
+109,Amreli,Gujarat,4.0
+110,Bhavnagar,Gujarat,1.0
+111,Gandhinagar,Gujarat,1.0
+113,Patan,Gujarat,5.0
+114,Banaskantha,Gujarat,6.0
+115,Banaskantha,Gujarat,7.0
+116,Sabarkantha,Gujarat,5.0
+118,Anand,Gujarat,4.0
+119,Chhota Udaipur,Gujarat,6.0
+120,Bharuch,Gujarat,1.0
+122,Ambala,Haryana,6.0
+123,Kurukshetra,Haryana,7.0
+124,Karnal,Haryana,4.0
+125,Sonipat,Haryana,8.0
+126,Rohtak,Haryana,7.0
+130,Faridabad,Haryana,2.0
+131,Faridabad,Haryana,4.0
+132,Hisar,Haryana,10.0
+134,Sirsa,Haryana,7.0
+135,Sirsa,Haryana,8.0
+136,Shimla,Himachal Pradesh,3.0
+137,Mandi,Himachal Pradesh,4.0
+138,Kangra,Himachal Pradesh,5.0
+139,Hamirpur,Himachal Pradesh,3.0
+140,Hamirpur,Himachal Pradesh,4.0
+151,Hamirpur,Uttar Pradesh,5.0
+152,Hamirpur,Uttar Pradesh,6.0
+155,Bidar,Karnataka,3.0
+157,Gulbarga,Karnataka,5.0
+159,Raichur,Karnataka,5.0
+161,Koppal,Karnataka,6.0
+162,Bellary,Karnataka,2.0
+164,Davanagere,Karnataka,4.0
+165,Chitradurga,Karnataka,6.0
+166,Tumkur,Karnataka,6.0
+167,Kolar,Karnataka,4.0
+168,Bangalore North,Karnataka,3.0
+169,Bangalore South,Karnataka,2.0
+170,Mandya,Karnataka,7.0
+171,Chamarajanagar,Karnataka,6.0
+172,Mysore,Karnataka,4.0
+173,Hassan,Karnataka,5.0
+174,Shimoga,Karnataka,4.0
+175,Shimoga,Karnataka,5.0
+176,Belgaum,Karnataka,4.0
+177,Chikkodi,Karnataka,6.0
+178,Bagalkot,Karnataka,4.0
+179,Bijapur,Karnataka,5.0
+180,Kasaragod,Kerala,3.0
+181,Ponnani,Kerala,3.0
+182,Ernakulam,Kerala,4.0
+186,Kottayam,Kerala,4.0
+187,Idukki,Kerala,4.0
+188,Mavelikkara,Kerala,4.0
+189,Morena,Madhya Pradesh,3.0
+190,Bhind,Madhya Pradesh,1.0
+191,Gwalior,Madhya Pradesh,6.0
+192,Gwalior,Madhya Pradesh,4.0
+193,Guna,Madhya Pradesh,3.0
+195,Sagar,Madhya Pradesh,3.0
+196,Sagar,Madhya Pradesh,4.0
+197,Khajuraho,Madhya Pradesh,3.0
+198,Damoh,Madhya Pradesh,1.0
+199,Satna,Madhya Pradesh,4.0
+200,Rewa,Madhya Pradesh,7.0
+201,Sidhi,Madhya Pradesh,4.0
+202,Sidhi,Madhya Pradesh,6.0
+203,Shahdol,Madhya Pradesh,4.0
+204,Balaghat,Madhya Pradesh,3.0
+205,Mandla,Madhya Pradesh,2.0
+206,Jabalpur,Madhya Pradesh,3.0
+207,Jabalpur,Madhya Pradesh,4.0
+208,Chhindwara,Madhya Pradesh,1.0
+209,Chhindwara,Madhya Pradesh,3.0
+210,Betul,Madhya Pradesh,3.0
+212,Hoshangabad,Madhya Pradesh,2.0
+213,Bhopal,Madhya Pradesh,1.0
+214,Vidisha,Madhya Pradesh,1.0
+218,Rajgarh,Madhya Pradesh,5.0
+220,Khandwa,Madhya Pradesh,4.0
+221,Khargone,Madhya Pradesh,3.0
+223,Dhar,Madhya Pradesh,4.0
+224,Indore,Madhya Pradesh,1.0
+225,Ujjain,Madhya Pradesh,3.0
+226,Mandsaur,Madhya Pradesh,2.0
+227,Thane,Maharashtra,4.0
+231,Nashik,Maharashtra,7.0
+232,Dhule,Maharashtra,6.0
+233,Nandurbar,Maharashtra,1.0
+235,Jalgaon,Maharashtra,3.0
+236,Buldhana,Maharashtra,5.0
+237,Akola,Maharashtra,4.0
+238,Amravati,Maharashtra,7.0
+239,Ramtek,Maharashtra,3.0
+240,Nagpur,Maharashtra,2.0
+241,Chandrapur,Maharashtra,4.0
+242,Wardha,Maharashtra,6.0
+243,Hingoli,Maharashtra,7.0
+244,Nanded,Maharashtra,6.0
+246,Parbhani,Maharashtra,5.0
+247,Jalna,Maharashtra,4.0
+248,Beed,Maharashtra,6.0
+249,Latur,Maharashtra,3.0
+250,Osmanabad,Maharashtra,5.0
+251,Solapur,Maharashtra,5.0
+253,Ahmednagar,Maharashtra,5.0
+254,Pune,Maharashtra,4.0
+255,Baramati,Maharashtra,4.0
+259,Satara,Maharashtra,4.0
+260,Sangli,Maharashtra,1.0
+262,Kolhapur,Maharashtra,4.0
+263,Inner Manipur,Manipur,7.0
+264,Outer Manipur,Manipur,6.0
+265,Tura,Meghalaya,4.0
+266,Tura,Meghalaya,2.0
+269,Nagaland,Nagaland,6.0
+270,Mayurbhanj,Orissa,6.0
+272,Balasore,Orissa,5.0
+273,Bhadrak,Orissa,4.0
+274,Jajpur,Orissa,4.0
+275,Kendrapara,Orissa,4.0
+277,Cuttack,Orissa,3.0
+278,Cuttack,Orissa,4.0
+281,Jagatsinghpur,Orissa,5.0
+282,Puri,Orissa,4.0
+283,Bhubaneswar,Orissa,4.0
+284,Aska,Orissa,5.0
+288,Koraput,Orissa,2.0
+289,Kalahandi,Orissa,6.0
+290,Bolangir,Orissa,5.0
+291,Sambalpur,Orissa,5.0
+292,Dhenkanal,Orissa,6.0
+293,Sundargarh,Orissa,4.0
+294,Keonjhar,Orissa,5.0
+295,Ganganagar,Rajasthan,7.0
+296,Bikaner,Rajasthan,5.0
+297,Churu,Rajasthan,6.0
+299,Jhunjhunu,Rajasthan,7.0
+300,Sikar,Rajasthan,6.0
+301,Jaipur,Rajasthan,3.0
+302,Dausa,Rajasthan,4.0
+304,Alwar,Rajasthan,5.0
+305,Bharatpur,Rajasthan,6.0
+306,Ajmer,Rajasthan,4.0
+307,Kota,Rajasthan,5.0
+308,Banswara,Rajasthan,5.0
+309,Udaipur,Rajasthan,6.0
+311,Chittorgarh,Rajasthan,4.0
+312,Bhilwara,Rajasthan,6.0
+313,Pali,Rajasthan,4.0
+315,Jalore,Rajasthan,5.0
+316,Barmer,Rajasthan,5.0
+317,Jodhpur,Rajasthan,4.0
+318,Nagaur,Rajasthan,5.0
+319,Nagaur,Rajasthan,7.0
+320,Sikkim,Sikkim,4.0
+321,Sikkim,Sikkim,3.0
+322,Sriperumbudur,Tamil Nadu,5.0
+323,Arakkonam,Tamil Nadu,6.0
+324,Vellore,Tamil Nadu,6.0
+325,Cuddalore,Tamil Nadu,6.0
+326,Chidambaram,Tamil Nadu,5.0
+327,Dharmapuri,Tamil Nadu,6.0
+328,Krishnagiri,Tamil Nadu,4.0
+329,Salem,Tamil Nadu,7.0
+330,Nilgiris,Tamil Nadu,5.0
+331,Coimbatore,Tamil Nadu,6.0
+332,Pollachi,Tamil Nadu,6.0
+333,Dindigul,Tamil Nadu,6.0
+334,Madurai,Tamil Nadu,5.0
+335,Karur,Tamil Nadu,6.0
+336,Tiruchirappalli,Tamil Nadu,7.0
+337,Tiruchirappalli,Tamil Nadu,8.0
+338,Perambalur,Tamil Nadu,5.0
+339,Mayiladuthurai,Tamil Nadu,5.0
+340,Nagapattinam,Tamil Nadu,6.0
+342,Sivaganga,Tamil Nadu,3.0
+343,Ramanathapuram,Tamil Nadu,6.0
+344,Tirunelveli,Tamil Nadu,6.0
+345,Tenkasi,Tamil Nadu,4.0
+346,Tripura West,Tripura,3.0
+348,Tripura East,Tripura,3.0
+349,Bijnor,Uttar Pradesh,8.0
+351,Amroha,Uttar Pradesh,10.0
+352,Moradabad,Uttar Pradesh,7.0
+353,Rampur,Uttar Pradesh,6.0
+354,Sambhal,Uttar Pradesh,5.0
+355,Aonla,Uttar Pradesh,8.0
+356,Bareilly,Uttar Pradesh,3.0
+357,Bareilly,Uttar Pradesh,2.0
+358,Pilibhit,Uttar Pradesh,5.0
+359,Shahjahanpur,Uttar Pradesh,5.0
+360,Kheri,Uttar Pradesh,4.0
+362,Sitapur,Uttar Pradesh,5.0
+363,Misrikh,Uttar Pradesh,4.0
+364,Hardoi,Uttar Pradesh,5.0
+365,Lucknow,Uttar Pradesh,2.0
+366,Mohanlalganj,Uttar Pradesh,4.0
+367,Unnao,Uttar Pradesh,5.0
+368,Rae Bareli,Uttar Pradesh,2.0
+372,Pratapgarh,Uttar Pradesh,8.0
+373,Amethi,Uttar Pradesh,4.0
+377,Sultanpur,Uttar Pradesh,5.0
+378,Akbarpur,Uttar Pradesh,4.0
+379,Akbarpur,Uttar Pradesh,5.0
+382,Faizabad,Uttar Pradesh,7.0
+383,Barabanki,Uttar Pradesh,9.0
+384,Kaiserganj,Uttar Pradesh,2.0
+385,Bahraich,Uttar Pradesh,6.0
+386,Gonda,Uttar Pradesh,5.0
+387,Basti,Uttar Pradesh,4.0
+388,Domariyaganj,Uttar Pradesh,6.0
+389,Bansgaon,Uttar Pradesh,5.0
+390,Gorakhpur,Uttar Pradesh,2.0
+391,Deoria,Uttar Pradesh,6.0
+392,Salempur,Uttar Pradesh,7.0
+393,Ballia,Uttar Pradesh,7.0
+395,Ghosi,Uttar Pradesh,8.0
+396,Azamgarh,Uttar Pradesh,8.0
+398,Lalganj,Uttar Pradesh,9.0
+399,Machhlishahr,Uttar Pradesh,7.0
+400,Jaunpur,Uttar Pradesh,10.0
+401,Ghazipur,Uttar Pradesh,8.0
+402,Chandauli,Uttar Pradesh,7.0
+403,Varanasi,Uttar Pradesh,4.0
+404,Robertsganj,Uttar Pradesh,7.0
+406,Mirzapur,Uttar Pradesh,8.0
+410,Phulpur,Uttar Pradesh,4.0
+411,Allahabad,Uttar Pradesh,4.0
+412,Allahabad,Uttar Pradesh,5.0
+415,Fatehpur,Uttar Pradesh,6.0
+416,Banda,Uttar Pradesh,7.0
+417,Jhansi,Uttar Pradesh,4.0
+418,Jalaun,Uttar Pradesh,6.0
+419,Etawah,Uttar Pradesh,7.0
+420,Kannauj,Uttar Pradesh,7.0
+424,Farrukhabad,Uttar Pradesh,6.0
+425,Mainpuri,Uttar Pradesh,4.0
+427,Etah,Uttar Pradesh,5.0
+428,Firozabad,Uttar Pradesh,7.0
+430,Agra,Uttar Pradesh,4.0
+431,Mathura,Uttar Pradesh,5.0
+432,Hathras,Uttar Pradesh,4.0
+433,Aligarh,Uttar Pradesh,5.0
+434,Bulandshahr,Uttar Pradesh,4.0
+435,Baghpat,Uttar Pradesh,6.0
+436,Muzaffarnagar,Uttar Pradesh,7.0
+437,Kairana,Uttar Pradesh,7.0
+438,Saharanpur,Uttar Pradesh,8.0
+439,Cooch Behar,West Bengal,3.0
+440,Alipurduars,West Bengal,1.0
+441,Jalpaiguri,West Bengal,1.0
+442,Darjeeling,West Bengal,5.0
+443,Raiganj,West Bengal,3.0
+444,Balurghat,West Bengal,1.0
+445,Jangipur,West Bengal,4.0
+447,Murshidabad,West Bengal,2.0
+448,Barasat,West Bengal,5.0
+449,Basirhat,West Bengal,1.0
+450,Mathurapur,West Bengal,3.0
+452,Diamond Harbour,West Bengal,1.0
+454,Jadavpur,West Bengal,6.0
+455,Barrackpore,West Bengal,5.0
+456,Dum Dum,West Bengal,5.0
+457,Howrah,West Bengal,6.0
+459,Uluberia,West Bengal,1.0
+460,Serampore,West Bengal,6.0
+462,Hooghly,West Bengal,5.0
+463,Arambagh,West Bengal,0.0
+464,Tamluk,West Bengal,4.0
+465,Jhargram,West Bengal,2.0
+466,Purulia,West Bengal,2.0
+470,Bankura,West Bengal,2.0
+471,Asansol,West Bengal,2.0
+473,Bolpur,West Bengal,0.0
+475,Birbhum,West Bengal,
+476,Chandigarh,Chandigarh,5.0
+477,New Delhi,Delhi,3.0
+478,New Delhi,Delhi,5.0
+479,South Delhi,Delhi,2.0
+480,South Delhi,Delhi,3.0
+481,East Delhi,Delhi,2.0
+483,Chandni Chowk,Delhi,4.0
+484,Lakshadweep,Lakshadweep,2.0
