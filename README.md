@@ -49,6 +49,8 @@ The goal is to produce clean, structured, and analyzable datasets across electio
 
 <img width="1225" height="521" alt="image" src="https://github.com/user-attachments/assets/86589a5d-1efa-4ccb-8873-5b98bd9caed7" />
 
+<img width="1377" height="853" alt="image" src="https://github.com/user-attachments/assets/1ce1510a-3907-4342-b47d-d3b198b83f60" />
+
 
 ---
 
