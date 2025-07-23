@@ -1,544 +1,544 @@
-,State,No,Name,Type,Winning Candidate,Winning Party,Winner's Votes,Runner Up Candidate,Runner Up Party,Runner Up Votes,Margin Votes,Year,Party_clean
-0,Andaman & Nicobar,1,Andaman & Nicobar Islands,GEN,Bishnu Pada Ray,BJP,90969,Kuldeep Rai Sharma,INC,83157,7812,2014,BJP
-1,Andhra Pradesh,1,Araku,ST,Kothapalli Geetha,YSRCP,413191,Gummidi Sandhyarani,TDP,321793,91398,2014,YSRCP
-2,Andhra Pradesh,2,Srikakulam,GEN,Rammohan Naidu Kinjarapu,TDP,556163,Reddy Shanthi,YSRC,428591,127572,2014,TDP
-3,Andhra Pradesh,3,Vizianagaram,GEN,Ashok Gajapathi Raju Pusapati,TDP,536549,Venkata Swetha Chalapathi Kumara Krishna Rangarao Ravu,YSRC,429638,106911,2014,TDP
-4,Andhra Pradesh,4,Visakhapatnam,GEN,Kambhampati Hari Babu,BJP,566832,Y.S Vijayamma,YSRC,476344,90488,2014,BJP
-5,Andhra Pradesh,5,Anakapalli,GEN,Muttamsetti Srinivasa Rao (Avanthi),TDP,568463,Gudivada Amarnadh,YSRC,520531,47932,2014,TDP
-6,Andhra Pradesh,6,Kakinada,GEN,Thota Narasimham,TDP,514402,Chalamalasetty Sunil,YSRC,510971,3431,2014,TDP
-7,Andhra Pradesh,7,Amalapuram,SC,Dr Pandula Ravindra Babu,TDP,594547,Pinipe Viswarupu,YSRC,473971,120576,2014,TDP
-8,Andhra Pradesh,8,Rajahmundry,GEN,Murali Mohan Maganti,TDP,630573,Boddu Venkataramana Chowdary,YSRC,463139,167434,2014,TDP
-9,Andhra Pradesh,9,Narsapuram,GEN,Gokaraju Ganga Raju,BJP,540306,Vanka Ravindranath,YSRC,454955,85351,2014,BJP
-10,Andhra Pradesh,10,Eluru,GEN,Maganti Venkateswara Rao (Babu),TDP,623471,Thota Chandra Sekhar,YSRC,521545,101926,2014,TDP
-11,Andhra Pradesh,11,Machilipatnam,GEN,Konakalla Narayana Rao,TDP,587280,Kolusu Partha Sarathy,YSRC,506223,81057,2014,TDP
-12,Andhra Pradesh,12,Vijayawada,GEN,Kesineni Srinivas,TDP,592696,Koneru Rajendra Prasad,YSRC,517834,74862,2014,TDP
-13,Andhra Pradesh,13,Guntur,GEN,Jayadev Galla,TDP,618417,Balashowry Vallabhaneni,YSRC,549306,69111,2014,TDP
-14,Andhra Pradesh,14,Narasaraopet,GEN,Sambasiva Rao Rayapati,TDP,632464,Ayodhya Ramireddy Alla,YSRC,597184,35280,2014,TDP
-15,Andhra Pradesh,15,Bapatla,SC,Malyadri Sriram,TDP,578145,Varikuti Amruthapani,YSRC,545391,32754,2014,TDP
-16,Andhra Pradesh,16,Ongole,GEN,Y.V.Subba Reddy,YSRCP,589960,Magunta Sreenivasulu Reddy,TDP,574302,15658,2014,YSRCP
-17,Andhra Pradesh,17,Nandyal,GEN,S.P.Y Reddy,YSRCP,622411,N.Md.Farook,TDP,516645,105766,2014,YSRCP
-18,Andhra Pradesh,18,Kurnool,GEN,Butta Renuka,YSRCP,472782,B.T. Naidu,TDP,428651,44131,2014,YSRCP
-19,Andhra Pradesh,19,Anantapur,GEN,J.C. Divakar Reddi,TDP,606509,Anantha Venkataramireddy,YSRC,545240,61269,2014,TDP
-20,Andhra Pradesh,20,Hindupur,GEN,Kristappa Nimmala,TDP,604291,Duddukunta Sreedhar Reddy,YSRC,506966,97325,2014,TDP
-21,Andhra Pradesh,21,Kadapa,GEN,Y.S. Avinash Reddy,YSRCP,671983,Srinivasa Reddy Reddeppagari,TDP,481660,190323,2014,YSRCP
-22,Andhra Pradesh,22,Nellore,GEN,Mekapati Rajamohan Reddy,YSRCP,576396,Adala Prabhakara Reddy,TDP,562918,13478,2014,YSRCP
-23,Andhra Pradesh,23,Tirupati,SC,Varaprasad Rao Velagapalli,YSRCP,580376,Karumanchi Jayaram,BJP,542951,37425,2014,YSRCP
-24,Andhra Pradesh,24,Rajampet,GEN,P.V.Midhun Reddy,YSRCP,601752,D. Purandeswari,BJP,426990,174762,2014,YSRCP
-25,Andhra Pradesh,25,Chittoor,SC,Naramalli Sivaprasad,TDP,594862,G.Samanyakiran,YSRC,550724,44138,2014,TDP
-26,Arunachal Pradesh,1,Arunachal West,ST,Kiren Rijiju,BJP,169367,Takam Sanjoy,INC,127629,41738,2014,BJP
-27,Arunachal Pradesh,2,Arunachal East,ST,Ninong Ering,INC,118455,Tapir Gao,BJP,105977,12478,2014,INC
-28,Assam,1,Karimganj,SC,Radheshyam Biswas,AUDF,362866,Krishna Das,BJP,260772,102094,2014,AUDF
-29,Assam,2,Silchar,GEN,Sushmita Dev,INC,336451,Kabindra Purkayastha,BJP,301210,35241,2014,INC
-30,Assam,3,Autonomous District,ST,Biren Singh Engti,INC,213152,Joy Ram Engleng,BJP,189057,24095,2014,INC
-31,Assam,4,Dhubri,GEN,Badruddin Ajmal,AUDF,592569,Wazed Ali Choudhury,INC,362839,229730,2014,AUDF
-32,Assam,5,Kokrajhar,ST,Naba Kumar Sarania (Hira),IND,634428,Urkhao Gwra Brahma,IND,278649,355779,2014,IND
-33,Assam,6,Barpeta,GEN,Siraj Uddin Ajmal,AUDF,394702,Chandra Mohan Patowary,BJP,352361,42341,2014,AUDF
-34,Assam,7,Gauhati,GEN,Smt. Bijoya Chakraborty,BJP,764985,Manash Borah,INC,449201,315784,2014,BJP
-35,Assam,8,Mangaldoi,GEN,Ramen Deka,BJP,486357,Kirip Chaliha,INC,463473,22884,2014,BJP
-36,Assam,9,Tezpur,GEN,Ram Prasad Sarmah,BJP,446511,Bhupen Kumar Borah,INC,360491,86020,2014,BJP
-37,Assam,10,Nawgong,GEN,Rajen Gohain,BJP,494146,Jonjonali Baruah,INC,350587,143559,2014,BJP
-38,Assam,11,Kaliabor,GEN,Gourav Gogoi,INC,443315,Mrinal Kumar Saikia,BJP,349441,93874,2014,INC
-39,Assam,12,Jorhat,GEN,Kamakhya Prasad Tasa,BJP,456420,Bijoy Krishna Handique,INC,354000,102420,2014,BJP
-40,Assam,13,Dibrugarh,ST,Rameswar Teli,BJP,494364,Paban Singh Ghatowar,INC,309017,185347,2014,BJP
-41,Assam,14,Lakhimpur,GEN,Sarbananda Sonowal,BJP,612543,Ranee Narah,INC,320405,292138,2014,BJP
-42,Bihar,1,Valmiki Nagar,GEN,Satish Chandra Dubey,BJP,364011,Purnmasi Ram,INC,246218,117793,2014,BJP
-43,Bihar,2,Paschim Champaran,GEN,Dr. Sanjay Jaiswal,BJP,371232,Prakash Jha,JD(U),260978,110254,2014,BJP
-44,Bihar,3,Purvi Champaran,GEN,Radha Mohan Singh,BJP,400452,Binod Kumar Srivastava,RJD,208289,192163,2014,BJP
-45,Bihar,4,Sheohar,GEN,Rama Devi,BJP,372506,Md Anwarul Haque,RJD,236267,136239,2014,BJP
-46,Bihar,5,Sitamarhi,GEN,Ram Kumar Sharma,RLSP,411265,Sitaram Yadav,RJD,263300,147965,2014,RLSP
-47,Bihar,6,Madhubani,GEN,Hukm Deo Narayan Yadav,BJP,358040,Abdul Bari Siddiqui,RJD,337505,20535,2014,BJP
-48,Bihar,7,Jhanjharpur,GEN,Birendra Kumar Chaudhary,BJP,335481,Mangani Lal Mandal,RJD,280073,55408,2014,BJP
-49,Bihar,8,Supaul,GEN,Ranjeet Ranjan,INC,332927,Dileshwar Kamait,JD(U),273255,59672,2014,INC
-50,Bihar,9,Araria,GEN,Tasleem Uddin,RJD,407978,Pradeep Kumar Singh,BJP,261474,146504,2014,RJD
-51,Bihar,10,Kishanganj,GEN,Mohammad Asrarul Haque,INC,493461,Dr Dilip Kumar Jaiswal,BJP,298849,194612,2014,INC
-52,Bihar,11,Katihar,GEN,Tariq Anwar,NCP,431292,Nikhil Kumar Choudhary,BJP,316552,114740,2014,NCP
-53,Bihar,12,Purnia,GEN,Santosh Kumar,JD(U),418826,Uday Singh Alias Pappu Singh,BJP,302157,116669,2014,JD(U)
-54,Bihar,13,Madhepura,GEN,Rajesh Ranjan (Pappu Yadav),RJD,368937,Sharad Yadav,JD(U),312728,56209,2014,RJD
-55,Bihar,14,Darbhanga,GEN,Kirti Azad,BJP,314949,Md. Ali Ashraf Fatmi,RJD,279906,35043,2014,BJP
-56,Bihar,15,Muzaffarpur,GEN,Ajay Nishad,BJP,469295,Akhilesh Prasad Singh,INC,246873,222422,2014,BJP
-57,Bihar,16,Vaishali,GEN,Rama Kishore Singh,LJP,305450,Raghuvansh Prasad Singh,RJD,206183,99267,2014,LJP
-58,Bihar,17,Gopalganj,SC,Janak Ram,BJP,478773,Dr. Jyoti Bharti,INC,191837,286936,2014,BJP
-59,Bihar,18,Siwan,GEN,Om Prakash Yadav,BJP,372670,Hena Shahab,RJD,258823,113847,2014,BJP
-60,Bihar,19,Maharajganj,GEN,Janardan Singh (Sigriwal),BJP,320753,Prabhu Nath Singh,RJD,282338,38415,2014,BJP
-61,Bihar,20,Saran,GEN,Rajiv Pratap Rudy,BJP,355120,Rabri Devi,RJD,314172,40948,2014,BJP
-62,Bihar,21,Hajipur,SC,Ramvilas Paswan,LJP,455652,Sanjeev Prasad Toni,INC,230152,225500,2014,LJP
-63,Bihar,22,Ujiarpur,GEN,Nityanand Rai,BJP,317352,Alok Kumar Mehta,RJD,256883,60469,2014,BJP
-64,Bihar,23,Samastipur,SC,Ram Chandra Paswan,LJP,270401,Dr. Ashok Kumar,INC,263529,6872,2014,LJP
-65,Bihar,24,Begusarai,GEN,Bhola Singh,BJP,428227,Md. Tanveer Hassan,RJD,369892,58335,2014,BJP
-66,Bihar,25,Khagaria,GEN,Choudhary Mahboob Ali Kaiser,LJP,313806,Krishna Kumari Yadav,RJD,237803,76003,2014,LJP
-67,Bihar,26,Bhagalpur,GEN,Shailesh Kumar Urph Bulo Mandal,RJD,367623,Syed Shahnawaz Hussain,BJP,358138,9485,2014,RJD
-68,Bihar,27,Banka,GEN,Jai Prakash Narayan Yadav,RJD,285150,Putul Kumari,BJP,275006,10144,2014,RJD
-69,Bihar,28,Munger,GEN,Veena Devi,LJP,352911,Rajiv Ranjan Singh Alias Lalan Singh,JD(U),243827,109084,2014,LJP
-70,Bihar,29,Nalanda,GEN,Kaushlendra Kumar,JD(U),321982,Satya Nand Sharma,LJP,312355,9627,2014,JD(U)
-71,Bihar,30,Patna Sahib,GEN,Shatrughana Sinha,BJP,485905,Kunal Singh,INC,220100,265805,2014,BJP
-72,Bihar,31,Pataliputra,GEN,Ram Kripal Yadav,BJP,383262,Misha Bharti,RJD,342940,40322,2014,BJP
-73,Bihar,32,Arrah,GEN,Raj Kumar Singh,BJP,391074,Sribhagwan Singh Kushwaha,RJD,255204,135870,2014,BJP
-74,Bihar,33,Buxar,GEN,Ashwini Kumar Choubey,BJP,319012,Jagadanand Singh,RJD,186674,132338,2014,BJP
-75,Bihar,34,Sasaram,SC,Chhedi Paswan,BJP,366087,Meira Kumar,INC,302760,63327,2014,BJP
-76,Bihar,35,Karakat,GEN,Upendra Kushwaha,RLSP,338892,Kanti Singh,RJD,233651,105241,2014,RLSP
-77,Bihar,36,Jahanabad,GEN,Dr. Arun Kumar,RLSP,322647,Surendra Prasad Yadav,RJD,280307,42340,2014,RLSP
-78,Bihar,37,Aurangabad,GEN,Sushil Kumar Singh,BJP,307941,Nikhil Kumar,INC,241594,66347,2014,BJP
-79,Bihar,38,Gaya,SC,Hari Manjhi,BJP,326230,Ramji Manjhi,RJD,210726,115504,2014,BJP
-80,Bihar,39,Nawada,GEN,Giriraj Singh,BJP,390248,Raj Ballabh Prasad,RJD,250091,140157,2014,BJP
-81,Bihar,40,Jamui,SC,Chirag Kumar Paswan,LJP,285354,Sudhansu Shekhar Bhaskar,RJD,199407,85947,2014,LJP
-82,Chandigarh,1,Chandigarh,GEN,Smt. Kirron Kher Anupam,BJP,191362,Pawan Kumar Bansal,INC,121720,69642,2014,BJP
-83,Chhattisgarh,1,Surguja,ST,Kamalbhan Singh Marabi,BJP,585336,Ram Dev Ram,INC,438100,147236,2014,BJP
-84,Chhattisgarh,2,Raigarh,ST,Vishnu Deo Sai,BJP,662478,Arti Singh,INC,445728,216750,2014,BJP
-85,Chhattisgarh,3,Janjgir-Champa,SC,Smt. Kamla Patle,BJP,518909,Prem Chand Jayasi,INC,343948,174961,2014,BJP
-86,Chhattisgarh,4,Korba,GEN,Dr. Banshilal Mahto,BJP,439002,Charan Das Mahant,INC,434737,4265,2014,BJP
-87,Chhattisgarh,5,Bilaspur,GEN,Lakhan Lal Sahu,BJP,561387,Karuna Shukla,INC,384951,176436,2014,BJP
-88,Chhattisgarh,6,Rajnandgaon,GEN,Abhishek Singh,BJP,643473,Kamleshwar Verma,INC,407562,235911,2014,BJP
-89,Chhattisgarh,7,Durg,GEN,Tamradhwaj Sahu,INC,570687,Saroj Pandey,BJP,553839,16848,2014,INC
-90,Chhattisgarh,8,Raipur,GEN,Ramesh Bais,BJP,654922,Satya Narayan Sharma (Sattu Bhaiya),INC,483276,171646,2014,BJP
-91,Chhattisgarh,9,Mahasamund,GEN,Chandu Lal Sahu (Chandu Bhaiya),BJP,503514,Ajit Jogi,INC,502297,1217,2014,BJP
-92,Chhattisgarh,10,Bastar,ST,Dinesh Kashyap,BJP,385829,Deepak Karma (Bunty),INC,261470,124359,2014,BJP
-93,Chhattisgarh,11,Kanker,ST,Vikram Dev Usendi,BJP,465215,Foolodevi Netam,INC,430057,35158,2014,BJP
-94,Dadar & Nagar Haveli,1,Dadra And Nagar Haveli,ST,Patel Natubhai Gomanbhai,BJP,80790,Delkar Mohanbhai Sanjibhai,INC,74576,6214,2014,BJP
-95,Daman & diu,1,Daman And Diu,GEN,Patel Lalubhai Babubhai,BJP,46960,Ketan Dahyabhai Patel,INC,37738,9222,2014,BJP
-96,Delhi,1,Chandni Chowk,GEN,Dr. Harsh Vardhan,BJP,437938,Ashutosh,AAP,301618,136320,2014,BJP
-97,Delhi,2,North East Delhi,GEN,Manoj Tiwari,BJP,596125,Anand Kumar,AAP,452041,144084,2014,BJP
-98,Delhi,3,East Delhi,GEN,Maheish Girri,BJP,572202,Rajmohan Gandhi,AAP,381739,190463,2014,BJP
-99,Delhi,4,New Delhi,GEN,Smt. Meenakshi Lekhi,BJP,453350,Ashish Khetan,AAP,290642,162708,2014,BJP
-100,Delhi,5,North West Delhi,SC,Udit Raj,BJP,629860,Rakhi Birla,AAP,523058,106802,2014,BJP
-101,Delhi,6,West Delhi,GEN,Parvesh Sahib Singh Verma,BJP,651395,Jarnail Singh,AAP,382809,268586,2014,BJP
-102,Delhi,7,South Delhi,GEN,Ramesh Bidhuri,BJP,497980,Col Devinder Sehrawat,AAP,390980,107000,2014,BJP
-103,Goa,1,North Goa,GEN,Shripad Yesso Naik,BJP,237903,Ravi Naik,INC,132304,105599,2014,BJP
-104,Goa,2,South Goa,GEN,Adv. Narendra Keshav Sawaikar,BJP,198776,Aleixo Reginaldo Lourenco,INC,166446,32330,2014,BJP
-105,Gujarat,1,Kutch,SC,Chavda Vinod Lakhamashi,BJP,562855,Dr.Dinesh Parmar,INC,308373,254482,2014,BJP
-106,Gujarat,2,Banaskantha,GEN,Chaudhary Haribhai Parthibhai,BJP,507856,Patel Joitabhai Kasnabhai,INC,305522,202334,2014,BJP
-107,Gujarat,3,Patan,GEN,Liladharbhai Khodaji Vaghela,BJP,518538,Rathod Bhavsinhbhai Dahyabhai,INC,379819,138719,2014,BJP
-108,Gujarat,4,Mehsana,GEN,Patel Jayshreeben Kanubhai,BJP,580250,Patel Jivabhai Ambalal,INC,371359,208891,2014,BJP
-109,Gujarat,5,Sabarkantha,GEN,Rathod Dipsinh Shankarsinh,BJP,552205,Shankersinh Vaghela Bapu,INC,467750,84455,2014,BJP
-110,Gujarat,6,Gandhinagar,GEN,L.K.Advani,BJP,773539,Kiritbhai Ishvarbhai Patel,INC,290418,483121,2014,BJP
-111,Gujarat,7,Ahmedabad East,GEN,Paresh Rawal,BJP,633582,Patel Himmatsingh Prahladsingh,INC,306949,326633,2014,BJP
-112,Gujarat,8,Ahmedabad West,SC,Dr. Kirit P Solanki,BJP,617104,Ishwarbahi Dhanabhai Makwana,INC,296793,320311,2014,BJP
-113,Gujarat,9,Surendranagar,GEN,Fatepara Devajibhai Govindbhai,BJP,529003,Koli Patel Somabhai Gandalal,INC,326096,202907,2014,BJP
-114,Gujarat,10,Rajkot,GEN,Kundariya Mohanbhai Kalyanjibhai,BJP,621524,Kunvarjibhai Mohanbhai Bavaliya,INC,375096,246428,2014,BJP
-115,Gujarat,11,Porbandar,GEN,Radadiya Vithalbhai Hansrajbhai,BJP,508437,Jadeja Kandhalbhai Sarmanbhai,NCP,240466,267971,2014,BJP
-116,Gujarat,12,Jamnagar,GEN,Poonamben Hematbhai Maadam,BJP,484412,Ahir Vikrambhai Arjanbhai Madam,INC,309123,175289,2014,BJP
-117,Gujarat,13,Junagadh,GEN,Chudasama Rajeshbhai Naranbhai,BJP,513179,Punjabhai Bhimabhai Vansh,INC,377347,135832,2014,BJP
-118,Gujarat,14,Amreli,GEN,Kachhadiya Naranbhai Bhikhabhai,BJP,436715,Thummar Virjibhai Keshavbhai (Virjibhai Thummar),INC,280483,156232,2014,BJP
-119,Gujarat,15,Bhavnagar,GEN,Dr. Bharatiben Dhirubhai Shiyal,BJP,549529,Rathod Pravinbhai Jinabhai,INC,254041,295488,2014,BJP
-120,Gujarat,16,Anand,GEN,Dilip Patel,BJP,490829,Solanki Bharatbhai Madhavsinh,INC,427403,63426,2014,BJP
-121,Gujarat,17,Kheda,GEN,Chauhan Devusinh Jesingbhai (Chauhan Devusinh),BJP,568235,Dinsha Patel,INC,335334,232901,2014,BJP
-122,Gujarat,18,Panchmahal,GEN,Chauhan Prabhatsinh Pratapsinh,BJP,508274,Ramsinh Parmar,INC,337678,170596,2014,BJP
-123,Gujarat,19,Dahod,ST,Jasvantsinh Sumanbhai Bhabhor,BJP,511111,Taviyad Dr. Prabhaben Kishorsinh,INC,280757,230354,2014,BJP
-124,Gujarat,20,Vadodara,GEN,Ranjanaben Dhananjay Bhatt,BJP,526763,Narendra Ravat,INC,197256,329507,2014,BJP
-125,Gujarat,21,Chhota Udaipur,ST,Ramsinh Rathwa,BJP,607916,Naranbhai Jemalabhai Rathva,INC,428187,179729,2014,BJP
-126,Gujarat,22,Bharuch,GEN,Vasava Mansukhbhai Dhanjibhai,BJP,548902,Patel Jayeshbhai Ambalalbhai (Jayesh Kaka),INC,395629,153273,2014,BJP
-127,Gujarat,23,Bardoli,ST,Vasava Parbhubhai Nagarbhai,BJP,622769,Chaudhari Tusharbhai Amarsinhbhai,INC,498885,123884,2014,BJP
-128,Gujarat,24,Surat,GEN,Jardosh Darshnaben Vikrambhai,BJP,718412,Desai Naishadhbhai Bhupatbhai,INC,185222,533190,2014,BJP
-129,Gujarat,25,Navsari,GEN,C. R. Patil,BJP,820831,Maksud Mirza,INC,262715,558116,2014,BJP
-130,Gujarat,26,Valsad,ST,Dr. K.C.Patel,BJP,617772,Kishanbhai Vestabhai Patel,INC,409768,208004,2014,BJP
-131,Haryana,1,Ambala,SC,Rattan Lal Kataria,BJP,612121,Raj Kumar Balmiki,INC,272047,340074,2014,BJP
-132,Haryana,2,Kurukshetra,GEN,Raj Kumar Saini,BJP,418112,Balbir Singh Saini,INLD,288376,129736,2014,BJP
-133,Haryana,3,Sirsa,SC,Charanjeet Singh Rori,INLD,506370,Ashok Tanwar,INC,390634,115736,2014,INLD
-134,Haryana,4,Hisar,GEN,Dushyant Chautala,INLD,494478,Kuldeep Bishnoi,HJC (BL),462631,31847,2014,INLD
-135,Haryana,5,Karnal,GEN,Ashwini Kumar,BJP,594817,Arvind Kumar Sharma,INC,234670,360147,2014,BJP
-136,Haryana,6,Sonipat,GEN,Ramesh Chander,BJP,347203,Jagbir Singh Malik,INC,269789,77414,2014,BJP
-137,Haryana,7,Rohtak,GEN,Deepender Singh Hooda,INC,490063,Om Parkash Dhankar,BJP,319436,170627,2014,INC
-138,Haryana,8,Bhiwani-Mahendragarh,GEN,Dharambir S/O Bhale Ram,BJP,404542,Bahadur Singh,INLD,275148,129394,2014,BJP
-139,Haryana,9,Gurgaon,GEN,Inderjit Singh Rao,BJP,644780,Zakir Hussain,INLD,370058,274722,2014,BJP
-140,Haryana,10,Faridabad,GEN,Krishan Pal,BJP,652516,Avtar Singh Bhadana,INC,185643,466873,2014,BJP
-141,Himachal Pradesh,1,Kangra,GEN,Shanta Kumar,BJP,456163,Chander Kumar,INC,286091,170072,2014,BJP
-142,Himachal Pradesh,2,Mandi,GEN,Ram Swaroop Sharma,BJP,362824,Pratibha Singh,INC,322968,39856,2014,BJP
-143,Himachal Pradesh,3,Hamirpur,GEN,Anurag Singh Thakur,BJP,448035,Rajinder Singh Rana,INC,349632,98403,2014,BJP
-144,Himachal Pradesh,4,Shimla,SC,Virender Kashyap,BJP,385973,Mohan Lal Brakta,INC,301786,84187,2014,BJP
-145,Jammu & Kashmir,1,Baramulla,GEN,Muzaffar Hussain Baig,PDP,175277,Sharief Ud-Din Shariq,JKNPP,146058,29219,2014,PDP
-146,Jammu & Kashmir,2,Srinagar,GEN,Tariq Hameed Karra,PDP,157923,Farooq Abdullah,JKNPP,115643,42280,2014,PDP
-147,Jammu & Kashmir,3,Anantnag,GEN,Mehbooba Mufti,PDP,200429,Mirza Mehboob Beg,JKNPP,135012,65417,2014,PDP
-148,Jammu & Kashmir,4,Ladakh,ST,Thupstan Chhewang,BJP,31111,Ghulam Raza,IND,31075,36,2014,BJP
-149,Jammu & Kashmir,5,Udhampur,GEN,Dr. Jitendra Singh,BJP,487369,Ghulam Nabi Azad,INC,426393,60976,2014,BJP
-150,Jammu & Kashmir,6,Jammu,GEN,Jugal Kishore,BJP,619995,Madan Lal Sharma,INC,362715,257280,2014,BJP
-151,Jharkhand,1,Rajmahal,ST,Vijay Kumar Hansdak,JMM,379507,Hemlal Murmu,BJP,338170,41337,2014,JMM
-152,Jharkhand,2,Dumka,ST,Shibu Soren,JMM,335815,Sunil Soren,BJP,296785,39030,2014,JMM
-153,Jharkhand,3,Godda,GEN,Nishikant Dubey,BJP,380500,Furkan Ansari,INC,319818,60682,2014,BJP
-154,Jharkhand,4,Chatra,GEN,Sunil Kumar Singh,BJP,295862,Dhiraj Prasad Sahu,INC,117836,178026,2014,BJP
-155,Jharkhand,5,Kodarma,GEN,Ravindra Kr. Ray,BJP,365410,Rajkumar Yadav,CPI(ML)(L),266756,98654,2014,BJP
-156,Jharkhand,6,Giridih,GEN,Ravindra Kumar Pandey,BJP,391913,Jagarnath Mahto,JMM,351600,40313,2014,BJP
-157,Jharkhand,7,Dhanbad,GEN,Pashupati Nath Singh,BJP,543491,Ajay Kumar Dubey,INC,250537,292954,2014,BJP
-158,Jharkhand,8,Ranchi,GEN,Ram Tahal Choudhary,BJP,448729,Subodh Kant Sahay,INC,249426,199303,2014,BJP
-159,Jharkhand,9,Jamshedpur,GEN,Bidyut Baran Mahato,BJP,464153,Ajay Kumar,JVM(P),364277,99876,2014,BJP
-160,Jharkhand,10,Singhbhum,SC,Laxman Giluwa,BJP,303131,Geeta Kora,JBSP,215607,87524,2014,BJP
-161,Jharkhand,11,Khunti,ST,Karia Munda,BJP,269185,Anosh Ekka,JKP,176937,92248,2014,BJP
-162,Jharkhand,12,Lohardaga,ST,Sudarshan Bhagat,BJP,226666,Rameshwar Oraon,INC,220177,6489,2014,BJP
-163,Jharkhand,13,Palamu,SC,Vishnu Dayal Ram,BJP,476513,Manoj Kumar,RJD,212571,263942,2014,BJP
-164,Jharkhand,14,Hazaribagh,GEN,Jayant Sinha,BJP,406931,Saurabh Narain Singh,INC,247803,159128,2014,BJP
-165,Karnataka,1,Chikkodi,GEN,Prakash Babanna Hukkeri,INC,474373,Katti Ramesh Vishwanath,BJP,471370,3003,2014,INC
-166,Karnataka,2,Belgaum,GEN,Angadi Suresh Channabasappa,BJP,554417,Laxmi R. Hebbalkar,INC,478557,75860,2014,BJP
-167,Karnataka,3,Bagalkot,GEN,Gaddigoudar Parvtagouda Chandanagouda,BJP,571548,Ajay Kumar Sarnaik,INC,454988,116560,2014,BJP
-168,Karnataka,4,Bijapur,SC,Ramesh Jigajinagi,BJP,471757,Prakash Rathod,INC,401938,69819,2014,BJP
-169,Karnataka,5,Gulbarga,SC,Mallikarjun Kharge,INC,507193,Revunaik Belamagi,BJP,432460,74733,2014,INC
-170,Karnataka,6,Raichur,ST,B.V.Nayak,INC,443659,Arakera Shivanagouda Nayak,BJP,442160,1499,2014,INC
-171,Karnataka,7,Bidar,GEN,Bhagwanth Khuba,BJP,459290,N. Dharam Singh,INC,367068,92222,2014,BJP
-172,Karnataka,8,Koppal,GEN,Karadi Sanganna Amarappa,BJP,486383,Basavaraj Hitnal,INC,453969,32414,2014,BJP
-173,Karnataka,9,Bellary,ST,B. Sreeramulu,BJP,534406,N.Y. Hanumantappa,INC,449262,85144,2014,BJP
-174,Karnataka,10,Haveri,GEN,Udasi Shivakumar Channabasappa,BJP,566790,Saleem Ahmed,INC,479219,87571,2014,BJP
-175,Karnataka,11,Dharwad,GEN,Pralhad Joshi,BJP,545395,Vinay Kulkarni,INC,431738,113657,2014,BJP
-176,Karnataka,12,Uttara Kannada,GEN,Anantkumar Hegde,BJP,546939,Prashant R Deshpande,INC,406239,140700,2014,BJP
-177,Karnataka,13,Davanagere,GEN,G M Siddeshwara,BJP,518894,S.S. Mallikarjun,INC,501287,17607,2014,BJP
-178,Karnataka,14,Shimoga,GEN,B. S. Yeddyurappa,BJP,606216,Manjunath Bhandary,INC,242911,363305,2014,BJP
-179,Karnataka,15,Udupi Chikmagalur,GEN,Shobha Karandlaje,BJP,581168,K Jayaprakash Hegde,INC,399525,181643,2014,BJP
-180,Karnataka,16,Hassan,GEN,H.D. Devegowda,JD(S),509841,Manju. A.,INC,409379,100462,2014,JD(S)
-181,Karnataka,17,Dakshina Kannada,GEN,Nalin Kumar Kateel,BJP,642739,Janardhana Poojary,INC,499030,143709,2014,BJP
-182,Karnataka,18,Chitradurga,SC,B.N.Chandrappa,INC,467511,Janardhana Swamy,BJP,366220,101291,2014,INC
-183,Karnataka,19,Tumkur,GEN,Muddahanumegowda.S.P.,INC,429868,G.S.Basavaraj,BJP,355827,74041,2014,INC
-184,Karnataka,20,Mandya,GEN,C.S.Puttaraju,JD(S),524370,Ramya,INC,518852,5518,2014,JD(S)
-185,Karnataka,21,Mysore,GEN,Prathap Simha,BJP,503908,Adagooru H Vishwanath,INC,472300,31608,2014,BJP
-186,Karnataka,22,Chamarajanagar,SC,R. Dhruvanarayana,INC,567782,A. R. Krishna Murthy,BJP,426600,141182,2014,INC
-187,Karnataka,23,Bangalore Rural,GEN,D K Suresh,INC,652723,Muniraju Gowda . P,BJP,421243,231480,2014,INC
-188,Karnataka,24,Bangalore North,GEN,D.V Sadananda Gowda,BJP,718326,C.Narayana Swamy,INC,488562,229764,2014,BJP
-189,Karnataka,25,Bangalore Central,GEN,P.C. Mohan,BJP,557130,Rizwan Arshad,INC,419630,137500,2014,BJP
-190,Karnataka,26,Bangalore South,GEN,Ananth Kumar,BJP,633816,Nandan Nilekani,INC,405241,228575,2014,BJP
-191,Karnataka,27,Chikkaballapur,GEN,M Veerappa Moily,INC,424800,B N Bache Gowda,BJP,415280,9520,2014,INC
-192,Karnataka,28,Kolar,GEN,K.H.Muniyappa,INC,418926,Kolar Kesava,JD(S),371076,47850,2014,INC
-193,Kerala,1,Kasaragod,GEN,P Karunakaran,CPI,384964,Adv. T Siddique,INC,378043,6921,2014,CPI
-194,Kerala,2,Kannur,GEN,P K Sreemathi Teacher,CPI,427622,K Sudhakaran,INC,421056,6566,2014,CPI
-195,Kerala,3,Vatakara,GEN,Mullappally Ramachandran,INC,416479,Adv.A.N.Shamseer,CPM,413173,3306,2014,INC
-196,Kerala,4,Wayanad,GEN,M I Shanavas,INC,377035,Sathyan Mokeri,CPI,356165,20870,2014,INC
-197,Kerala,5,Kozhikode,GEN,M .K Raghavan,INC,397615,A.Vijayaraghavan,CPM,380732,16883,2014,INC
-198,Kerala,6,Malappuram,GEN,E. Ahamed,IUML,437723,P.K.Sainaba,CPM,242984,194739,2014,IUML
-199,Kerala,7,Ponnani,GEN,E. T. Mohammed Basheer,IUML,378503,V.Abdurahman,IND,353093,25410,2014,IUML
-200,Kerala,8,Palakkad,GEN,M B Rajesh,CPI,412897,M P Veerendrakumar,SJ(D),307597,105300,2014,CPI
-201,Kerala,9,Alathur,SC,P.K.Biju,CPI,411808,Sheeba K.A,INC,374496,37312,2014,CPI
-202,Kerala,10,Thrissur,GEN,C. N. Jayadevan,CPI,389209,K. P. Dhanapalan,INC,350982,38227,2014,CPI
-203,Kerala,11,Chalakudy,GEN,Innocent,IND,358440,P C Chacko,INC,344556,13884,2014,IND
-204,Kerala,12,Ernakulam,GEN,Prof. K.V. Thomas,INC,353841,Christy Fernandez,IND,266794,87047,2014,INC
-205,Kerala,13,Idukki,GEN,Adv.Joice George,IND,382019,Adv.Dean Kuriakose,INC,331477,50542,2014,IND
-206,Kerala,14,Kottayam,GEN,Jose K. Mani,KC(M),424194,Adv.Mathew T. Thomas,JD(S),303595,120599,2014,KC(M)
-207,Kerala,15,Alappuzha,GEN,K C Venugopal,INC,462525,C B Chandrababu,CPM,443118,19407,2014,INC
-208,Kerala,16,Mavelikkara,SC,Kodikunnil Suresh,INC,402432,Chengara Surendran,CPI,369695,32737,2014,INC
-209,Kerala,17,Pathanamthitta,GEN,Anto Antony,INC,358842,Adv. Peelipose Thomas,IND,302651,56191,2014,INC
-210,Kerala,18,Kollam,GEN,N.K.Premachandran,RSP,408528,M.A. Baby,CPM,370879,37649,2014,RSP
-211,Kerala,19,Attingal,GEN,Dr.A .Sampath,CPI,392478,Adv.Bindhu Krishna,INC,323100,69378,2014,CPI
-212,Kerala,20,Thiruvananthapuram,GEN,Dr. Shashi Tharoor,INC,297806,Sri. O Rajagopal,BJP,282336,15470,2014,INC
-213,Lakshadweep,1,Lakshadweep,ST,Mohammed Faizal P.P.,NCP,21665,Hamdullah Sayeed,INC,20130,1535,2014,NCP
-214,Madhya Pradesh,1,Morena,GEN,Anoop Mishra,BJP,375567,Brindawan Singh Sikarwar,BSP,242586,132981,2014,BJP
-215,Madhya Pradesh,2,Bhind,SC,Dr. Bhagirath Prasad,BJP,404474,Imarti Devi,INC,244513,159961,2014,BJP
-216,Madhya Pradesh,3,Gwalior,GEN,Narendra Singh Tomar,BJP,442796,Ashok Singh,INC,413097,29699,2014,BJP
-217,Madhya Pradesh,4,Guna,GEN,Jyotiraditya M Scindia,INC,517036,Jaibhansingh Pawaiya,BJP,396244,120792,2014,INC
-218,Madhya Pradesh,5,Sagar,GEN,Laxmi Narayan Yadav,BJP,482580,Govind Singh Rajput,INC,361843,120737,2014,BJP
-219,Madhya Pradesh,6,Tikamgarh,SC,Dr. Virendra Kumar,BJP,422979,Ahirwar Dr. Kamlesh Verma,INC,214248,208731,2014,BJP
-220,Madhya Pradesh,7,Damoh,GEN,Prahalad Singh Patel,BJP,513079,Choudhary Mahendra Pratap Singh,INC,299780,213299,2014,BJP
-221,Madhya Pradesh,8,Khajuraho,GEN,Nagendra Singh,BJP,474966,Raja Pateria,INC,227476,247490,2014,BJP
-222,Madhya Pradesh,9,Satna,GEN,Ganesh Singh,BJP,375288,Ajay Singh Rahul Bhaiyya,INC,366600,8688,2014,BJP
-223,Madhya Pradesh,10,Rewa,GEN,Janardan Mishra,BJP,383320,Sunderlal Tiwari,INC,214594,168726,2014,BJP
-224,Madhya Pradesh,11,Sidhi,GEN,Riti Pathak,BJP,475678,Indrajeet Kumar,INC,367632,108046,2014,BJP
-225,Madhya Pradesh,12,Shahdol,ST,Dalpat Singh Paraste,BJP,525419,Rajesh Nandini Singh,INC,284118,241301,2014,BJP
-226,Madhya Pradesh,13,Jabalpur,GEN,Rakesh Singh,BJP,564609,Vivek Krishna Tankha,INC,355970,208639,2014,BJP
-227,Madhya Pradesh,14,Mandla,ST,Faggan Singh Kulaste,BJP,585720,Omkar Singh Markam,INC,475251,110469,2014,BJP
-228,Madhya Pradesh,15,Balaghat,GEN,Bodhsingh Bhagat,BJP,480594,Hina Likhiram Kawre,INC,384553,96041,2014,BJP
-229,Madhya Pradesh,16,Chhindwara,GEN,Kamal Nath,INC,559755,Choudhary Chandrabhan Kuber Singh,BJP,443218,116537,2014,INC
-230,Madhya Pradesh,17,Hoshangabad,GEN,Uday Pratap Singh,BJP,669128,Devendra Patel (Guddu Bhaiya),INC,279168,389960,2014,BJP
-231,Madhya Pradesh,18,Vidisha,GEN,Sushma Swaraj,BJP,714348,Lakshman Singh,INC,303650,410698,2014,BJP
-232,Madhya Pradesh,19,Bhopal,GEN,Alok Sanjar,BJP,714178,P C Sharma (Prakash Mangilal Sharma ),INC,343482,370696,2014,BJP
-233,Madhya Pradesh,20,Rajgarh,GEN,Rodmal Nagar,BJP,596727,Amlabe Narayan Singh,INC,367990,228737,2014,BJP
-234,Madhya Pradesh,21,Dewas,SC,Manohar Untwal,BJP,665646,Sajjan Singh Verma,INC,405333,260313,2014,BJP
-235,Madhya Pradesh,22,Ujjain,SC,Prof. Chintamani Malviya,BJP,641101,Premchand Guddu,INC,331438,309663,2014,BJP
-236,Madhya Pradesh,23,Mandsaur,GEN,Sudhir Gupta,BJP,698335,Meenakshi Natarajan,INC,394686,303649,2014,BJP
-237,Madhya Pradesh,24,Ratlam,ST,Dileepsingh Bhuria,BJP,545970,Kantilal Bhuria,INC,437523,108447,2014,BJP
-238,Madhya Pradesh,25,Dhar,ST,Savitri Thakur,BJP,558387,Umang Singhar,INC,454059,104328,2014,BJP
-239,Madhya Pradesh,26,Indore,GEN,Sumitra Mahajan (Tai),BJP,854972,Satyanarayan Patel,INC,388071,466901,2014,BJP
-240,Madhya Pradesh,27,Khargone,ST,Subhash Patel,BJP,649354,Ramesh Patel,INC,391475,257879,2014,BJP
-241,Madhya Pradesh,28,Khandwa,GEN,Nandkumar Singh Chouhan (Nandu Bhaiya),BJP,717357,Arun Subhash Chandra Yadav,INC,457643,259714,2014,BJP
-242,Madhya Pradesh,29,Betul,ST,Jyoti Dhurve,BJP,643651,Ajay Shah (Makrai),INC,315037,328614,2014,BJP
-243,Maharashtra,1,Nandurbar,ST,Dr.Gavit Heena Vaijaykumar,BJP,579486,Gavit Manikrao Hodlya,INC,472581,106905,2014,BJP
-244,Maharashtra,2,Dhule,GEN,Dr. Bhamre Subhash Ramrao,BJP,529450,Amrishbhai Rasiklal Patel,INC,398727,130723,2014,BJP
-245,Maharashtra,3,Jalgaon,GEN,A.T. Nana Patil,BJP,647773,Annasaheb Dr.Satish Bhaskarrao Patil,NCP,264248,383525,2014,BJP
-246,Maharashtra,4,Raver,GEN,Khadase Raksha Nikhil,BJP,605452,Manishdada Jain,NCP,287384,318068,2014,BJP
-247,Maharashtra,5,Buldhana,GEN,Jadhav Prataprao Ganpatrao,SHS,509145,Ingle Krushanarao Ganpatrao,NCP,349566,159579,2014,SHS
-248,Maharashtra,6,Akola,GEN,Dhotre Sanjay Shamrao,BJP,456472,Patel Hidayat Ulla Barkat Ulla,INC,253356,203116,2014,BJP
-249,Maharashtra,7,Amravati,SC,Adsul Anandrao Vithoba,SHS,467212,Navneet Ravi Rana,NCP,329280,137932,2014,SHS
-250,Maharashtra,8,Wardha,GEN,Ramdas Chandrabhanji Tadas,BJP,537518,Meghe Sagar Dattatraya,INC,321735,215783,2014,BJP
-251,Maharashtra,9,Ramtek,SC,Krupal Balaji Tumane,SHS,519892,Mukul Wasnik,INC,344101,175791,2014,SHS
-252,Maharashtra,10,Nagpur,GEN,Gadkari Nitin Jairam,BJP,587767,Vilas Muttemwar,INC,302939,284828,2014,BJP
-253,Maharashtra,11,Bhandara-Gondiya,GEN,Nanabhau Falgunrao Patole,BJP,606129,Patel Praful Manoharbhai,NCP,456875,149254,2014,BJP
-254,Maharashtra,12,Gadchiroli-Chimur,ST,Ashok Mahadeorao Nete,BJP,535982,Dr. Namdeo Dalluji Usendi,INC,299112,236870,2014,BJP
-255,Maharashtra,13,Chandrapur,GEN,Ahir Hansraj Gangaram,BJP,508049,Deotale Sanjay Wamanrao,INC,271780,236269,2014,BJP
-256,Maharashtra,14,Yavatmal-Washim,GEN,Gawali Bhavana Pundlikrao,SHS,477905,Adv.Shivajirao Shivaramji Moghe,INC,384089,93816,2014,SHS
-257,Maharashtra,15,Hingoli,GEN,Rajeev Shankarrao Satav,INC,467397,Wankhede Subhash Bapurao,SHS,465765,1632,2014,INC
-258,Maharashtra,16,Nanded,GEN,Ashok Shankarrao Chavan,INC,493075,D. B. Patil,BJP,411620,81455,2014,INC
-259,Maharashtra,17,Parbhani,GEN,Jadhav Sanjay (Bandu) Haribhau,SHS,578455,Bhambale Vijay Manikrao,NCP,451300,127155,2014,SHS
-260,Maharashtra,18,Jalna,GEN,Danve Raosaheb Dadarao,BJP,591428,Autade Vilas Keshavrao,INC,384630,206798,2014,BJP
-261,Maharashtra,19,Aurangabad,GEN,Chandrakant Bhaurao Khaire,SHS,520902,Patil Nitin Suresh,INC,358902,162000,2014,SHS
-262,Maharashtra,20,Dindori,ST,Chavan Harishchandra Deoram,BJP,542784,Dr. Bharati Pravin Pawar,NCP,295165,247619,2014,BJP
-263,Maharashtra,21,Nashik,GEN,Godse Hemant Tukaram,SHS,494735,Chhagan Bhujbal,NCP,307399,187336,2014,SHS
-264,Maharashtra,22,Palghar,ST,Adv. Chintaman Navasha Wanga,BJP,533201,Baliram Sukur Jadhav,BVA,293681,239520,2014,BJP
-265,Maharashtra,23,Bhiwandi,GEN,Kapil Moreshwar Patil,BJP,411070,Patil Vishwanath Ramchandra,INC,301620,109450,2014,BJP
-266,Maharashtra,24,Kalyan,GEN,Dr.Shrikant Eknath Shinde,SHS,440892,Anand Prakash Paranjpe,NCP,190143,250749,2014,SHS
-267,Maharashtra,25,Thane,GEN,Vichare Rajan Baburao,SHS,595364,Sanjeev Ganesh Naik,NCP,314065,281299,2014,SHS
-268,Maharashtra,26,Mumbai-North,GEN,Gopal Chinayya Shetty,BJP,664004,Sanjay Brijkishorlal Nirupam,INC,217422,446582,2014,BJP
-269,Maharashtra,27,Mumbai-North-West,GEN,Gajanan Chandrakant Kirtikar,SHS,464820,Kamat Gurudas Vasant,INC,281792,183028,2014,SHS
-270,Maharashtra,28,Mumbai-North-East,GEN,Kirit Somaiya,BJP,525285,Sanjay Dina Patil,NCP,208163,317122,2014,BJP
-271,Maharashtra,29,Mumbai-North-Central,GEN,Poonam Mahajan Alias Poonam Vajendla Rao,BJP,478535,Dutt Priya Sunil,INC,291764,186771,2014,BJP
-272,Maharashtra,30,Mumbai-South-Central,GEN,Rahul Ramesh Shewale,SHS,381275,Eknath M. Gaikwad,INC,242933,138342,2014,SHS
-273,Maharashtra,31,Mumbai-South,GEN,Arvind Sawant,SHS,374780,Deora Milind Murli,INC,246632,128148,2014,SHS
-274,Maharashtra,32,Raigad,GEN,Anant Geete,SHS,396178,Tatkare Sunil Dattatrey,NCP,394068,2110,2014,SHS
-275,Maharashtra,33,Maval,GEN,Appa Alias Shrirang Chandu Barne,SHS,512226,Jagtap Laxmanbhau Pandurang,PWPI,354829,157397,2014,SHS
-276,Maharashtra,34,Pune,GEN,Anil Shirole,BJP,569825,Dr.Vishwajeet Patangrao Kadam,INC,254056,315769,2014,BJP
-277,Maharashtra,35,Baramati,GEN,Supriya Sule,NCP,521562,Mahadev Jagannath Jankar,RSP,451843,69719,2014,NCP
-278,Maharashtra,36,Shirur,GEN,Adhalrao Shivaji Dattatrey,SHS,643415,Nikam Devdatta Jaywant,NCP,341601,301814,2014,SHS
-279,Maharashtra,37,Ahmednagar,GEN,Gandhi Dilipkumar Mansukhlal,BJP,605185,Rajeev Appasaheb Rajale,NCP,396063,209122,2014,BJP
-280,Maharashtra,38,Shirdi,SC,Lokhande Sadashiv Kisan,SHS,532936,Bhausaheb Rajaram Wakchaure,INC,333014,199922,2014,SHS
-281,Maharashtra,39,Beed,GEN,Pritam Munde,BJP,922416,Ashokrao Shankarrao Patil,INC,226095,696321,2014,BJP
-282,Maharashtra,40,Osmanabad,GEN,Gaikwad Ravindra Vishwanath,SHS,607699,Patil Padmasinha Bajirao,NCP,373374,234325,2014,SHS
-283,Maharashtra,41,Latur,SC,Dr. Sunil Baliram Gaikwad,BJP,616509,Bansode Dattatray Gunderao,INC,363114,253395,2014,BJP
-284,Maharashtra,42,Solapur,SC,Sharad Bansode,BJP,517879,Shinde Sushilkumar Sambhajirao,INC,368205,149674,2014,BJP
-285,Maharashtra,43,Madha,GEN,Mohite Patil Vijaysinh Shankarrao,NCP,489989,Sadabhau Ramchandra Khot,SWP,464645,25344,2014,NCP
-286,Maharashtra,44,Sangli,GEN,Sanjaykaka Patil,BJP,611563,Patil Pratik Prakashbapu,INC,372271,239292,2014,BJP
-287,Maharashtra,45,Satara,GEN,Shrimant Chh. Udayanraje Pratapsinha Bhonsale,NCP,522531,Purushottam Jadhav,IND,155937,366594,2014,NCP
-288,Maharashtra,46,Ratnagiri-Sindhudurg,GEN,Vinayak Bhaurao Raut,SHS,493088,Nilesh Narayan Rane,INC,343037,150051,2014,SHS
-289,Maharashtra,47,Kolhapur,GEN,Dhananjay Bhimrao Mahadik,NCP,607665,Sanjay Sadashiv Mandalik,SHS,574406,33259,2014,NCP
-290,Maharashtra,48,Hatkanangle,GEN,Raju Shetty,SWP,640428,Awade Kallappa Baburao,INC,462618,177810,2014,SWP
-291,Manipur,1,Inner Manipur,GEN,Dr. Thokchom Meinya,INC,292102,Moirangthem Nara,CPI,197428,94674,2014,INC
-292,Manipur,2,Outer Manipur,ST,Thangso Baite,INC,296770,Soso Lorho,NPF,281133,15637,2014,INC
-293,Meghalaya,1,Shillong,ST,Vincent H. Pala,INC,209340,Prechard B. M. Basaiawmoit,IND,168961,40379,2014,INC
-294,Meghalaya,2,Tura,ST,Purno Agitok Sangma,NPP,239301,Daryl William Ch Momin,INC,199585,39716,2014,NPP
-295,Mizoram,1,Mizoram,ST,C. L. Ruala,INC,210485,Robert Romawia Royte,IND,204331,6154,2014,INC
-296,Nagaland,1,Nagaland,ST,Neiphiu Rio,NPF,713372,K. V. Pusa,INC,313147,400225,2014,NPF
-297,Odisha,1,Bargarh,GEN,Prabhas Kumar Singh,BJD,383230,Subash Chouhan,BJP,372052,11178,2014,BJD
-298,Odisha,2,Sundargarh,ST,Jual (Juel Oram),BJP,340508,Dilip Kumar Tirkey,BJD,321679,18829,2014,BJP
-299,Odisha,3,Sambalpur,GEN,Nagendra Kumar Pradhan,BJD,358618,Suresh Pujari,BJP,328042,30576,2014,BJD
-300,Odisha,4,Keonjhar,ST,Sakuntala Laguri,BJD,434471,Ananta Nayak,BJP,277154,157317,2014,BJD
-301,Odisha,5,Mayurbhanj,ST,Rama Chandra Hansdah,BJD,393779,Nepole Raghu Murmu,BJP,270913,122866,2014,BJD
-302,Odisha,6,Balasore,GEN,Rabindra Kumar Jena,BJD,433768,Pratap Chandra Sarangi,BJP,291943,141825,2014,BJD
-303,Odisha,7,Bhadrak,SC,Arjun Charan Sethi,BJD,502338,Sangram Keshari Jena,INC,322979,179359,2014,BJD
-304,Odisha,8,Jajpur,SC,Rita Tarai,BJD,541349,Asok Das,INC,221078,320271,2014,BJD
-305,Odisha,9,Dhenkanal,GEN,Tathagata Satpathy,BJD,453277,Rudra Narayan Pany,BJP,315937,137340,2014,BJD
-306,Odisha,10,Bolangir,GEN,Kalikesh Narayan Singh Deo,BJD,453519,Sangeeta Kumari Singh Deo,BJP,349220,104299,2014,BJD
-307,Odisha,11,Kalahandi,GEN,Arka Keshari Deo,BJD,370871,Pradipta Kumar Naik,BJP,314524,56347,2014,BJD
-308,Odisha,12,Nabarangpur,ST,Balabhadra Majhi,BJD,373887,Pradeep Kumar Majhi,INC,371845,2042,2014,BJD
-309,Odisha,13,Kandhamal,GEN,Pratyusha Rajeshwari Singh,BJD,477529,Rudra Madhab Ray,BJP,178661,298868,2014,BJD
-310,Odisha,14,Cuttack,GEN,Bhartruhari Mahatab,BJD,526085,Aparajita Mohanty,INC,219323,306762,2014,BJD
-311,Odisha,15,Kendrapara,GEN,Baijayant Panda,BJD,601574,Dharanidhar Nayak,INC,392466,209108,2014,BJD
-312,Odisha,16,Jagatsinghpur,SC,Kulamani Samal,BJD,624492,Bibhu Prasad Tarai,INC,348098,276394,2014,BJD
-313,Odisha,17,Puri,GEN,Pinaki Misra,BJD,523161,Sucharita Mohanty,INC,259800,263361,2014,BJD
-314,Odisha,18,Bhubaneswar,GEN,Prasanna Kumar Patasani,BJD,439252,Prithiviraj Harichandan,BJP,249775,189477,2014,BJD
-315,Odisha,19,Aska,GEN,Ladu Kishore Swain,BJD,541473,Srilokanath Ratha,INC,229476,311997,2014,BJD
-316,Odisha,20,Berhampur,GEN,Sidhant Mohapatra,BJD,398107,Chandra Sekhar Sahu,INC,270387,127720,2014,BJD
-317,Odisha,21,Koraput,ST,Jhina Hikaka,BJD,395109,Giridhar Gamang,INC,375781,19328,2014,BJD
-318,Puducherry,1,Puducherry,GEN,R. Radhakrishnan,AINRC,255826,V. Narayanasamy,INC,194972,60854,2014,AINRC
-319,Punjab,1,Gurdaspur,GEN,Vinod Khanna,BJP,482255,Partap Singh Bajwa,INC,346190,136065,2014,BJP
-320,Punjab,2,Amritsar,GEN,Captain Amarinder Singh,INC,482876,Arun Jaitley,BJP,380106,102770,2014,INC
-321,Punjab,3,Khadoor Sahib,GEN,Ranjit Singh Brahmpura,SAD,467332,Harminder Singh Gill,INC,366763,100569,2014,SAD
-322,Punjab,4,Jalandhar,SC,Santokh Singh Chaudhary,INC,380479,Pawan Kumar Tinu,SAD,309498,70981,2014,INC
-323,Punjab,5,Hoshiarpur,SC,Vijay Sampla,BJP,346643,Mohinder Singh Kaypee,INC,333061,13582,2014,BJP
-324,Punjab,6,Anandpur Sahib,GEN,Prem Singh Chandumajra,SAD,347394,Ambika Soni,INC,323697,23697,2014,SAD
-325,Punjab,7,Ludhiana,GEN,Ravneet Singh Bittu,INC,300459,Harvinder Singh Phoolka,AAP,280750,19709,2014,INC
-326,Punjab,8,Fatehgarh Sahib,SC,Harinder Singh Khalsa,AAP,367293,Sadhu Singh,INC,313149,54144,2014,AAP
-327,Punjab,9,Faridkot,SC,Prof. Sadhu Singh,AAP,450751,Paramjit Kaur Gulshan,SAD,278235,172516,2014,AAP
-328,Punjab,10,Ferozpur,GEN,Sher Singh Ghubaya,SAD,487932,Sunil Jakhar,INC,456512,31420,2014,SAD
-329,Punjab,11,Bathinda,GEN,Harsimrat Kaur Badal,SAD,514727,Manpreet Singh Badal S/O Gurdas Singh,INC,495332,19395,2014,SAD
-330,Punjab,12,Sangrur,GEN,Bhagwant Mann,AAP,533237,Sukhdev Singh Dhindsa,SAD,321516,211721,2014,AAP
-331,Punjab,13,Patiala,GEN,Dr. Dharam Vira Gandhi,AAP,365671,Preneet Kaur,INC,344729,20942,2014,AAP
-332,Rajasthan,1,Ganganagar,SC,Nihalchand,BJP,658130,Master Bhanwarlal Meghwal,INC,366389,291741,2014,BJP
-333,Rajasthan,2,Bikaner,SC,Arjun Ram Meghwal,BJP,584932,Er. Shankar Pannu,INC,276853,308079,2014,BJP
-334,Rajasthan,3,Churu,GEN,Rahul Kaswan,BJP,595756,Abhinesh Maharshi,BSP,301017,294739,2014,BJP
-335,Rajasthan,4,Jhunjhunu,GEN,Santosh Ahlawat,BJP,488182,Raj Bala Ola,INC,254347,233835,2014,BJP
-336,Rajasthan,5,Sikar,GEN,Sumedhanand Saraswati,BJP,499428,Pratap Singh Jat,INC,260232,239196,2014,BJP
-337,Rajasthan,6,Jaipur Rural,GEN,Rajyavardhan Singh Rathore,BJP,632930,Dr. C.P. Joshi,INC,300034,332896,2014,BJP
-338,Rajasthan,7,Jaipur,GEN,Ramcharan Bohara,BJP,863358,Dr. Mahesh Joshi,INC,324013,539345,2014,BJP
-339,Rajasthan,8,Alwar,GEN,Chand Nath,BJP,642278,Bhanwar Jitendra Singh,INC,358383,283895,2014,BJP
-340,Rajasthan,9,Bharatpur,SC,Bahadur Singh,BJP,579825,Dr.Suresh Jatav,INC,334357,245468,2014,BJP
-341,Rajasthan,10,Karauli-Dholpur,SC,Manoj Rajoria,BJP,402407,Lakkhiram,INC,375191,27216,2014,BJP
-342,Rajasthan,11,Dausa,ST,Harish Chandra Meena,BJP,315059,Dr. Kirodi Lal,NPP,269655,45404,2014,BJP
-343,Rajasthan,12,Tonk-Sawai Madhopur,GEN,Sukhbir Singh Jaunapuria,BJP,548179,Mohammed Azharuddin,INC,412868,135311,2014,BJP
-344,Rajasthan,13,Ajmer,GEN,Sanwar Lal Jat,BJP,637874,Sachin Pilot,INC,465891,171983,2014,BJP
-345,Rajasthan,14,Nagaur,GEN,C R Choudhary,BJP,414791,Dr Jyoti Mirdha,INC,339573,75218,2014,BJP
-346,Rajasthan,15,Pali,GEN,P P Choudhary,BJP,711772,Munni Devi Godara,INC,312733,399039,2014,BJP
-347,Rajasthan,16,Jodhpur,GEN,Gajendrasingh Shekhawat,BJP,713515,Chandresh Kumari,INC,303464,410051,2014,BJP
-348,Rajasthan,17,Barmer,GEN,Col. Sona Ram,BJP,488747,Jaswant Singh,IND,401286,87461,2014,BJP
-349,Rajasthan,18,Jalore,SC,Devji Patel,BJP,580508,Anjana Udai Lal,INC,199363,381145,2014,BJP
-350,Rajasthan,19,Udaipur,ST,Arjunlal Meena,BJP,660373,Raghuvir Singh,INC,423611,236762,2014,BJP
-351,Rajasthan,20,Banswara,ST,Manshankar Ninama,BJP,577433,Resham Malviya,INC,485517,91916,2014,BJP
-352,Rajasthan,21,Chittorgarh,GEN,Chandra Prakash Joshi,BJP,703236,Girija Vyas,INC,386379,316857,2014,BJP
-353,Rajasthan,22,Rajsamand,GEN,Hariom Singh Rathore,BJP,644794,Gopal Singh Shekhawat,INC,249089,395705,2014,BJP
-354,Rajasthan,23,Bhilwara,GEN,Subhash Baheria,BJP,630317,Ashok Chandna,INC,384053,246264,2014,BJP
-355,Rajasthan,24,Kota,GEN,Om Birla,BJP,644822,Ijyaraj Singh,INC,444040,200782,2014,BJP
-356,Rajasthan,25,Jhalawar-Baran,GEN,Dushyant Singh,BJP,676102,Pramod Bhaya,INC,394556,281546,2014,BJP
-357,Sikkim,1,Sikkim,GEN,Prem Das Rai,SDF,163698,Tek Nath Dhakal,SKM,121956,41742,2014,SDF
-358,Tamil Nadu,1,Tiruvallur,SC,Venugopal.P.(Dr),AIADMK,628499,Ravikumar.D,VCK,305069,323430,2014,AIADMK
-359,Tamil Nadu,2,Chennai North,GEN,Venkatesh Babu .T.G,AIADMK,406704,Girirajan .R,DMK,307000,99704,2014,AIADMK
-360,Tamil Nadu,3,Chennai South,GEN,Dr. J. Jayavardhan,AIADMK,438404,T.K.S.Elangovan,DMK,301779,136625,2014,AIADMK
-361,Tamil Nadu,4,Chennai Central,GEN,S.R. Vijayakumar,AIADMK,333296,Dayanidhi Maran,DMK,287455,45841,2014,AIADMK
-362,Tamil Nadu,5,Sriperumbudur,GEN,"Ramachandran, K.N. Thiru",AIADMK,545820,"Jagathrakshakan, S. Thiru",DMK,443174,102646,2014,AIADMK
-363,Tamil Nadu,6,Kancheepuram,SC,Maragatham K,AIADMK,499395,Selvam G,DMK,352529,146866,2014,AIADMK
-364,Tamil Nadu,7,Arakkonam,GEN,"Hari, G.",AIADMK,493534,N.R Elango,DMK,252768,240766,2014,AIADMK
-365,Tamil Nadu,8,Vellore,GEN,"Senguttuvan, B.",AIADMK,383719,"Shanmugam, A.C.",BJP,324326,59393,2014,AIADMK
-366,Tamil Nadu,9,Krishnagiri,GEN,Ashok Kumar.K,AIADMK,480491,Chinna Pillappa.P,DMK,273900,206591,2014,AIADMK
-367,Tamil Nadu,10,Dharmapuri,GEN,Anbumani Ramadoss,PMK,468194,Mohan.P.S,AIADMK,391048,77146,2014,PMK
-368,Tamil Nadu,11,Tiruvannamalai,GEN,Vanaroja R,AIADMK,500751,Annadurai C N,DMK,332145,168606,2014,AIADMK
-369,Tamil Nadu,12,Arani,GEN,V.Elumalai,AIADMK,502721,R.Sivanandam,DMK,258877,243844,2014,AIADMK
-370,Tamil Nadu,13,Viluppuram,SC,Rajendran S,AIADMK,482704,Muthaiyan K Dr,DMK,289337,193367,2014,AIADMK
-371,Tamil Nadu,14,Kallakurichi,GEN,Kamaraj. K,AIADMK,533383,Manimaran. R,DMK,309876,223507,2014,AIADMK
-372,Tamil Nadu,15,Salem,GEN,Pannerselvam.V,AIADMK,556546,Umarani. S,DMK,288936,267610,2014,AIADMK
-373,Tamil Nadu,16,Namakkal,GEN,Sundaram P.R,AIADMK,563272,Gandhiselvan.S,DMK,268898,294374,2014,AIADMK
-374,Tamil Nadu,17,Erode,GEN,Selvakumara Chinnayan S,AIADMK,466995,Ganeshamurthi.A,MDMK,255432,211563,2014,AIADMK
-375,Tamil Nadu,18,Tiruppur,GEN,V.Sathyabama,AIADMK,442778,N.Dineshkumar,DMDK,263463,179315,2014,AIADMK
-376,Tamil Nadu,19,Nilgiris,SC,"Gopalakrishnan, C.",AIADMK,463700,"Raja, A.",DMK,358760,104940,2014,AIADMK
-377,Tamil Nadu,20,Coimbatore,GEN,"Nagarajan, P.",AIADMK,431717,"Radhakrishnan, C.P.",BJP,389701,42016,2014,AIADMK
-378,Tamil Nadu,21,Pollachi,GEN,Mahendran.C,AIADMK,417092,Eswaran.E.R.,BJP,276118,140974,2014,AIADMK
-379,Tamil Nadu,22,Dindigul,GEN,Udhaya Kumar .M,AIADMK,510462,Gandhirajan S,DMK,382617,127845,2014,AIADMK
-380,Tamil Nadu,23,Karur,GEN,"Thambidurai,M.",AIADMK,540722,"Chinnasamy, M.",DMK,345475,195247,2014,AIADMK
-381,Tamil Nadu,24,Tiruchirappalli,GEN,Kumar.P,AIADMK,458478,Anbhalagan.Mu,DMK,308002,150476,2014,AIADMK
-382,Tamil Nadu,25,Perambalur,GEN,"Marutharajaa, R.P.",AIADMK,462693,"Seemanur Prabu, S.",DMK,249645,213048,2014,AIADMK
-383,Tamil Nadu,26,Cuddalore,GEN,Arunmozhithevan.A,AIADMK,481429,Nandagopalakrishnan.K.,DMK,278304,203125,2014,AIADMK
-384,Tamil Nadu,27,Chidambaram,SC,"Chandrakasi, M",AIADMK,429536,"Thirumaavalavan, Thol",VCK,301041,128495,2014,AIADMK
-385,Tamil Nadu,28,Mayiladuthurai,GEN,Bharathi Mohan R.K,AIADMK,513729,Hyder Ali.S,MAMAK,236679,277050,2014,AIADMK
-386,Tamil Nadu,29,Nagapattinam,SC,Gopal. Dr. K,AIADMK,434174,Vijayan. A.K.S,DMK,328095,106079,2014,AIADMK
-387,Tamil Nadu,30,Thanjavur,GEN,Parasuraman.K,AIADMK,510307,Baalu.T.R,DMK,366188,144119,2014,AIADMK
-388,Tamil Nadu,31,Sivaganga,GEN,Senthilnathan Pr,AIADMK,475993,Dhurai Raaj Subha,DMK,246608,229385,2014,AIADMK
-389,Tamil Nadu,32,Madurai,GEN,R.Gopalakrishnan,AIADMK,454167,V Velusamy,DMK,256731,197436,2014,AIADMK
-390,Tamil Nadu,33,Theni,GEN,"Parthipan, R.",AIADMK,571254,Pon. Muthuramalingam,DMK,256722,314532,2014,AIADMK
-391,Tamil Nadu,34,Virudhunagar,GEN,Radhakrishnan T,AIADMK,406694,Vaiko,MDMK,261143,145551,2014,AIADMK
-392,Tamil Nadu,35,Ramanathapuram,GEN,Anwhar Raajhaa.A,AIADMK,405945,Mohamed Jaleel .S,DMK,286621,119324,2014,AIADMK
-393,Tamil Nadu,36,Thoothukkudi,GEN,Jeyasingh Thiyagaraj Natterjee.J,AIADMK,366052,Jegan. P,DMK,242050,124002,2014,AIADMK
-394,Tamil Nadu,37,Tenkasi,SC,Vasanthi.M,AIADMK,424586,Dr.Krishnasamy.K.,PT,262812,161774,2014,AIADMK
-395,Tamil Nadu,38,Tirunelveli,GEN,Prabakaran.K.R.P,AIADMK,398139,Devadasa Sundaram,DMK,272040,126099,2014,AIADMK
-396,Tamil Nadu,39,Kanniyakumari,GEN,Radhakrishnan P.,BJP,372906,Vasantha Kumar H.,INC,244244,128662,2014,BJP
-397,Telangana,1,Adilabad,ST,Godam Nagesh,TRS,430847,Naresh,INC,259557,171290,2014,TRS
-398,Telangana,2,Peddapalli,SC,Balka Suman,TRS,565496,G. Vivekanand,INC,274338,291158,2014,TRS
-399,Telangana,3,Karimnagar,GEN,Vinod Kumar Boinapally,TRS,505783,Ponnam Prabhakar,INC,300706,205077,2014,TRS
-400,Telangana,4,Nizamabad,GEN,Kalvakuntla Kavitha,TRS,439307,Madhu Yaskhi Goud,INC,272123,167184,2014,TRS
-401,Telangana,5,Zahirabad,GEN,B.B. Patil,TRS,508661,Suresh Kumar Shetkar,INC,364030,144631,2014,TRS
-402,Telangana,6,Medak,GEN,Kotha Prabhakar Reddy,TRS,571800,V Sunita Laxma Reddy,INC,210523,361277,2014,TRS
-403,Telangana,7,Malkajgiri,GEN,Ch.Malla Reddy,TDP,523336,Hanumanth Rao Mynampally,TRS,494965,28371,2014,TDP
-404,Telangana,8,Secunderabad,GEN,Bandaru Dattatreya,BJP,438271,M.Anjan Kumar Yadav,INC,183536,254735,2014,BJP
-405,Telangana,9,Hyderabad,GEN,Asaduddin Owaisi,AIMIM,513868,Dr.Bhagavanth Rao,BJP,311414,202454,2014,AIMIM
-406,Telangana,10,Chelvella,GEN,Konda Vishweshwar Reddy,TRS,435077,Patlolla Kartik Reddy,INC,362054,73023,2014,TRS
-407,Telangana,11,Mahabubnagar,GEN,Ap Jithender Reddy,TRS,334228,Jaipal Reddy Sudini,INC,331638,2590,2014,TRS
-408,Telangana,12,Nagarkurnool,SC,Yellaiah Nandi,INC,420075,Dr. Manda Jagannath,TRS,403399,16676,2014,INC
-409,Telangana,13,Nalgonda,GEN,Gutha Sukhender Reddy,INC,472093,Tera Chinnapa Reddy,TDP,278937,193156,2014,INC
-410,Telangana,14,Bhongir,GEN,Dr. Boora Narsaiah Goud,TRS,448245,Komatireddy Rajgopal Reddy,INC,417751,30494,2014,TRS
-411,Telangana,15,Warangal,SC,Kadiyam Srihari,TRS,661639,Rajaiah Siricilla,INC,269065,392574,2014,TRS
-412,Telangana,16,Mahabubabad,ST,Prof. Azmeera Seetaram Naik,TRS,320569,P. Balram,INC,285577,34992,2014,TRS
-413,Telangana,17,Khammam,GEN,Ponguleti Srinivasa Reddy,YSRCP,421957,Nama Nageswara Rao,TDP,409983,11974,2014,YSRCP
-414,Tripura,1,Tripura West,GEN,Sankar Prasad Datta,CPI,671665,Arunoday Saha,INC,168179,503486,2014,CPI
-415,Tripura,2,Tripura East,ST,Jitendera Choudhury,CPI,623771,Sachitra Debbarma,INC,139413,484358,2014,CPI
-416,Uttar Pradesh,1,Saharanpur,GEN,Raghav Lakhanpal,BJP,472999,Imran Masood,INC,407909,65090,2014,BJP
-417,Uttar Pradesh,2,Kairana,GEN,Hukum Singh,BJP,565909,Nahid Hasan,SP,329081,236828,2014,BJP
-418,Uttar Pradesh,3,Muzaffarnagar,GEN,(Dr.) Sanjeev Kumar Balyan,BJP,653391,Kadir Rana,BSP,252241,401150,2014,BJP
-419,Uttar Pradesh,4,Bijnor,GEN,Kunwar Bhartendra,BJP,486913,Shahnawaz Rana,SP,281139,205774,2014,BJP
-420,Uttar Pradesh,5,Nagina,SC,Yashwant Singh,BJP,367825,Yashvir Singh,SP,275435,92390,2014,BJP
-421,Uttar Pradesh,6,Moradabad,GEN,Kunwer Sarvesh Kumar,BJP,485224,Dr S T Hasan,SP,397720,87504,2014,BJP
-422,Uttar Pradesh,7,Rampur,GEN,Dr. Nepal Singh,BJP,358616,Naseer Ahmad Khan,SP,335181,23435,2014,BJP
-423,Uttar Pradesh,8,Sambhal,GEN,Satyapal Singh,BJP,360242,Dr Shafiq Ur Rahman Barq,SP,355068,5174,2014,BJP
-424,Uttar Pradesh,9,Amroha,GEN,Kanwar Singh Tanwar,BJP,528880,Humera Akhtar,SP,370666,158214,2014,BJP
-425,Uttar Pradesh,10,Meerut,GEN,Rajendra Agarwal,BJP,532981,Mohd.Shahid Akhlak,BSP,300655,232326,2014,BJP
-426,Uttar Pradesh,11,Baghpat,GEN,Dr. Satya Pal Singh,BJP,423475,Ghulam Mohammed,SP,213609,209866,2014,BJP
-427,Uttar Pradesh,12,Ghaziabad,GEN,Vijay Kumar Singh,BJP,758482,Raj Babbar,INC,191222,567260,2014,BJP
-428,Uttar Pradesh,13,Gautam Buddha Nagar,GEN,Dr.Mahesh Sharma,BJP,599702,Narendra Bhati,SP,319490,280212,2014,BJP
-429,Uttar Pradesh,14,Bulandshahr,SC,Bhola Singh,BJP,604449,Pradeep Kumar Jatav,BSP,182476,421973,2014,BJP
-430,Uttar Pradesh,15,Aligarh,GEN,Satish Kumar,BJP,514622,Dr. Arvind Kumar Singh,BSP,227886,286736,2014,BJP
-431,Uttar Pradesh,16,Hathras,SC,Rajesh Kumar Diwaker,BJP,544277,Manoj Kumar Soni,BSP,217891,326386,2014,BJP
-432,Uttar Pradesh,17,Mathura,GEN,Hema Malini Dharmendra,BJP,574633,Jayant Chaudhary,RLD,243890,330743,2014,BJP
-433,Uttar Pradesh,18,Agra,SC,Dr. Ram Shankar Katheria,BJP,583716,Narayan Singh Suman,BSP,283453,300263,2014,BJP
-434,Uttar Pradesh,19,Fatehpur Sikri,GEN,Babulal,BJP,426589,Seema Upadhyay,BSP,253483,173106,2014,BJP
-435,Uttar Pradesh,20,Firozabad,GEN,Akshay Yadav,SP,534583,Prof. S.P. Singh Baghel,BJP,420524,114059,2014,SP
-436,Uttar Pradesh,21,Mainpuri,GEN,Tej Pratap Singh Yadav,SP,653686,Prem Singh Shakya,BJP,332537,321149,2014,SP
-437,Uttar Pradesh,22,Etah,GEN,Rajveer Singh (Raju Bhaiya),BJP,474978,Ku. Devendra Singh Yadav,SP,273977,201001,2014,BJP
-438,Uttar Pradesh,23,Badaun,GEN,Dharmendra Yadav,SP,498378,Vagish Pathak,BJP,332031,166347,2014,SP
-439,Uttar Pradesh,24,Aonla,GEN,Dharmendra Kumar,BJP,409907,Kunwar Sarvraj Singh,SP,271478,138429,2014,BJP
-440,Uttar Pradesh,25,Bareilly,GEN,Santosh Kumar Gangwar,BJP,518258,Ayesha Islam,SP,277573,240685,2014,BJP
-441,Uttar Pradesh,26,Pilibhit,GEN,Maneka Sanjay Gandhi,BJP,546934,Budhsen Verma,SP,239882,307052,2014,BJP
-442,Uttar Pradesh,27,Shahjahanpur,SC,Krishna Raj,BJP,525132,Umed Singh Kashyap,BSP,289603,235529,2014,BJP
-443,Uttar Pradesh,28,Kheri,GEN,Ajay Kumar,BJP,398578,Arvind Giri,BSP,288304,110274,2014,BJP
-444,Uttar Pradesh,29,Dhaurahra,GEN,Rekha,BJP,360357,Daud Ahmad,BSP,234682,125675,2014,BJP
-445,Uttar Pradesh,30,Sitapur,GEN,Rajesh Verma,BJP,417546,Kaiser Jahan,BSP,366519,51027,2014,BJP
-446,Uttar Pradesh,31,Hardoi,SC,Anshul Verma,BJP,360501,Shive Prasad Verma,BSP,279158,81343,2014,BJP
-447,Uttar Pradesh,32,Misrikh,SC,Anju Bala,BJP,412575,Ashok Kumar Rawat,BSP,325212,87363,2014,BJP
-448,Uttar Pradesh,33,Unnao,GEN,Swami Sachchidanand Hari Sakshi,BJP,518834,Arun Shankar Shukla,SP,208661,310173,2014,BJP
-449,Uttar Pradesh,34,Mohanlalganj,SC,Kaushal Kishore,BJP,455274,R.K Chaudhary,BSP,309858,145416,2014,BJP
-450,Uttar Pradesh,35,Lucknow,GEN,Raj Nath Singh,BJP,561106,Prof. Rita Bahuguna Joshi,INC,288357,272749,2014,BJP
-451,Uttar Pradesh,36,Rae Bareli,GEN,Sonia Gandhi,INC,526434,Ajay Agrawal,BJP,173721,352713,2014,INC
-452,Uttar Pradesh,37,Amethi,GEN,Rahul Gandhi,INC,408651,Smriti Zubin Irani,BJP,300748,107903,2014,INC
-453,Uttar Pradesh,38,Sultanpur,GEN,Feroze Varun Gandhi,BJP,410348,Pawan Pandey,BSP,231446,178902,2014,BJP
-454,Uttar Pradesh,39,Pratapgarh,GEN,Kuwar Harivansh Singh,AD,375789,Asif Nizamuddin Siddique,BSP,207567,168222,2014,AD
-455,Uttar Pradesh,40,Farrukhabad,GEN,Mukesh Rajput,BJP,406195,Rameshwar Singh Yadav,SP,255693,150502,2014,BJP
-456,Uttar Pradesh,41,Etawah,SC,Ashok Kumar Doharey,BJP,439646,Premdas Kateriya,SP,266700,172946,2014,BJP
-457,Uttar Pradesh,42,Kannauj,GEN,Dimple Yadav,SP,489164,Subrat Pathak,BJP,469257,19907,2014,SP
-458,Uttar Pradesh,43,Kanpur,GEN,Dr.Murli Manohar Joshi,BJP,474712,Sriprakash Jaiswal,INC,251766,222946,2014,BJP
-459,Uttar Pradesh,44,Akbarpur,GEN,Devendra Singh (Bhole Singh),BJP,481584,Anil Shukla Warsi,BSP,202587,278997,2014,BJP
-460,Uttar Pradesh,45,Jalaun,SC,Bhanu Pratap Singh Verma,BJP,548631,Brijlal Khabri,BSP,261429,287202,2014,BJP
-461,Uttar Pradesh,46,Jhansi,GEN,Uma Bharti,BJP,575889,Dr. Chandrapal Singh Yadav,SP,385422,190467,2014,BJP
-462,Uttar Pradesh,47,Hamirpur,GEN,Kunwar Pushpendra Singh Chandel,BJP,453884,Bishambhar Prasad Nishad,SP,187096,266788,2014,BJP
-463,Uttar Pradesh,48,Banda,GEN,Bhairon Prasad Mishra,BJP,342066,R. K. Singh Patel,BSP,226278,115788,2014,BJP
-464,Uttar Pradesh,49,Fatehpur,GEN,Sadhavi Niranjan Jyoti,BJP,485994,Afzal Siddiqui,BSP,298788,187206,2014,BJP
-465,Uttar Pradesh,50,Kaushambi,SC,Vinod Kumar Sonkar,BJP,331593,Shailendra Kumar,SP,288746,42847,2014,BJP
-466,Uttar Pradesh,51,Phulpur,GEN,Keshav Prasad Maurya,BJP,503564,Dharam Raj Singh Patel,SP,195256,308308,2014,BJP
-467,Uttar Pradesh,52,Allahabad,GEN,Shyama Charan Gupta,BJP,313772,Kunwar Rewati Raman Singh Alias Mani,SP,251763,62009,2014,BJP
-468,Uttar Pradesh,53,Barabanki,SC,Priyanka Singh Rawat,BJP,454214,P. L. Punia,INC,242336,211878,2014,BJP
-469,Uttar Pradesh,54,Faizabad,GEN,Lallu Singh,BJP,491761,Mitrasen Yadav,SP,208986,282775,2014,BJP
-470,Uttar Pradesh,55,Ambedkar Nagar,GEN,Hari Om Pandey,BJP,432104,Rakesh Pandey,BSP,292675,139429,2014,BJP
-471,Uttar Pradesh,56,Bahraich,SC,Sadhvi Savitri Bai Foole,BJP,432392,Shabbir Ahmad,SP,336747,95645,2014,BJP
-472,Uttar Pradesh,57,Kaiserganj,GEN,Brij Bhusan Sharan Singh,BJP,381500,Vinod Kumar Alias Pandit Singh,SP,303282,78218,2014,BJP
-473,Uttar Pradesh,58,Shravasti,GEN,Daddan Mishra,BJP,345964,Atiq Ahmad,SP,260051,85913,2014,BJP
-474,Uttar Pradesh,59,Gonda,GEN,Kirti Vardhan Singh,BJP,359643,Nandita Shukla,SP,199227,160416,2014,BJP
-475,Uttar Pradesh,60,Domariyaganj,GEN,Jagdambika Pal,BJP,298845,Muhammad Muqeem,BSP,195257,103588,2014,BJP
-476,Uttar Pradesh,61,Basti,GEN,Harish Chandra Alias Harish Dwivedi,BJP,357680,Brij Kishor Singh (Dimpal),SP,324118,33562,2014,BJP
-477,Uttar Pradesh,62,Sant Kabir Nagar,GEN,Sharad Tripathi,BJP,348892,Bhism Shankar Alias Kushal Tiwari,BSP,250914,97978,2014,BJP
-478,Uttar Pradesh,63,Maharajganj,GEN,Pankaj,BJP,471542,Kashi Nath Shukla,BSP,231084,240458,2014,BJP
-479,Uttar Pradesh,64,Gorakhpur,GEN,Adityanath,BJP,539127,Rajmati Nishad,SP,226344,312783,2014,BJP
-480,Uttar Pradesh,65,Kushi Nagar,GEN,Rajesh Pandey Urf Guddu,BJP,370051,Kunwar Ratanjit Pratap Narain Singh,INC,284511,85540,2014,BJP
-481,Uttar Pradesh,66,Deoria,GEN,Kalraj Mishra,BJP,496500,Niyaj Ahmad,BSP,231114,265386,2014,BJP
-482,Uttar Pradesh,67,Bansgaon,SC,Kamlesh Paswan,BJP,417959,Sadal Prasad,BSP,228443,189516,2014,BJP
-483,Uttar Pradesh,68,Lalganj,SC,Neelam Sonkar,BJP,324016,Bechai Saroj,SP,260930,63086,2014,BJP
-484,Uttar Pradesh,69,Azamgarh,GEN,Mulayam Singh Yadav,SP,340306,Ramakant Yadav,BJP,277102,63204,2014,SP
-485,Uttar Pradesh,70,Ghosi,GEN,Harinarayan Rajbhar,BJP,379797,Dara Singh Chauhan,BSP,233782,146015,2014,BJP
-486,Uttar Pradesh,71,Salempur,GEN,Ravindra Kushawaha,BJP,392213,Ravi Shanker Singh (Pappu),BSP,159871,232342,2014,BJP
-487,Uttar Pradesh,72,Ballia,GEN,Bharat Singh,BJP,359758,Neeraj Shekhar,SP,220324,139434,2014,BJP
-488,Uttar Pradesh,73,Jaunpur,GEN,Krishna Pratap (K.P.),BJP,367149,Subhash Pandey,BSP,220839,146310,2014,BJP
-489,Uttar Pradesh,74,Machhlishahr,SC,Ram Charitra Nishad,BJP,438210,Bholanath Alias B.P. Saroj,BSP,266055,172155,2014,BJP
-490,Uttar Pradesh,75,Ghazipur,GEN,Manoj Sinha,BJP,306929,Smt Shivkanya Kushwaha,SP,274477,32452,2014,BJP
-491,Uttar Pradesh,76,Chandauli,GEN,Dr Mahendra Nath Pandey,BJP,414135,Anil Kumar Maurya,BSP,257379,156756,2014,BJP
-492,Uttar Pradesh,77,Varanasi,GEN,Narendra Modi,BJP,581022,Arvind Kejriwal,AAP,209238,371784,2014,BJP
-493,Uttar Pradesh,78,Bhadohi,GEN,Virendra Singh,BJP,403544,Rakesh Dhar Tripathi,BSP,245505,158039,2014,BJP
-494,Uttar Pradesh,79,Mirzapur,GEN,Anupriya Singh Patel,AD,436536,Samudra Bind,BSP,217457,219079,2014,AD
-495,Uttar Pradesh,80,Robertsganj,SC,Chhotelal,BJP,378211,Sharada Prasad,BSP,187725,190486,2014,BJP
-496,Uttarakhand,1,Tehri Garhwal,GEN,Mala Rajya Laxmi Shah,BJP,446733,Saket Bahuguna,INC,254230,192503,2014,BJP
-497,Uttarakhand,2,Garhwal,GEN,(Maj Gen (Retd.) ) Bhuwan Chandra Khanduri (Avsm),BJP,405690,(Dr) Harak Singh Rawat,INC,221164,184526,2014,BJP
-498,Uttarakhand,3,Almora,SC,Ajay Tamta,BJP,348186,Pradeep Tamta,INC,252496,95690,2014,BJP
-499,Uttarakhand,4,Nainital-Udhamsingh Nagar,GEN,Bhagat Singh Koshyari,BJP,636769,K.C.Singh Baba,INC,352052,284717,2014,BJP
-500,Uttarakhand,5,Hardwar,GEN,Ramesh Pokhriyal Nishank,BJP,592320,Renuka Rawat,INC,414498,177822,2014,BJP
-501,West Bengal,1,Cooch Behar,SC,Renuka Sinha,AITC,526499,Dipak Kumar Roy,AIFB,439392,87107,2014,AITC
-502,West Bengal,2,Alipurduars,SC,Dasrath Tirkey,AITC,362453,Manohar Tirkey,RSP,341056,21397,2014,AITC
-503,West Bengal,3,Jalpaiguri,SC,Bijoy Chandra Barman,AITC,494773,Mahendra Kumar Roy,CPM,425167,69606,2014,AITC
-504,West Bengal,4,Darjeeling,GEN,S.S.Ahluwalia,BJP,488257,Bhai Chung Bhutia,AITC,291018,197239,2014,BJP
-505,West Bengal,5,Raiganj,GEN,Md. Salim,CPI,317515,Deepa Dasmunsi,INC,315881,1634,2014,CPI
-506,West Bengal,6,Balurghat,GEN,Arpita Ghosh,AITC,409641,Bimalendu Sarkar (Bimal),RSP,302677,106964,2014,AITC
-507,West Bengal,7,Maldaha Uttar,GEN,Mausam Noor,INC,388609,Khagen Murmu,CPM,322904,65705,2014,INC
-508,West Bengal,8,Maldaha Dakshin,GEN,Abu Hasem Khan Chowdhury,INC,380291,Bisnu Pada Roy,BJP,216180,164111,2014,INC
-509,West Bengal,9,Jangipur,GEN,Abhijit Mukherjee,INC,378201,Muzaffar Hossain,CPM,370040,8161,2014,INC
-510,West Bengal,10,Baharampur,GEN,Adhir Ranjan Chowdhury,INC,583549,Indranil Sen,AITC,226982,356567,2014,INC
-511,West Bengal,11,Murshidabad,GEN,Badaruddoza Khan,CPI,426947,Abdul Mannan Hossain,INC,408494,18453,2014,CPI
-512,West Bengal,12,Krishnanagar,GEN,Tapas Paul,AITC,438789,Jha Shantanu,CPM,367534,71255,2014,AITC
-513,West Bengal,13,Ranaghat,SC,Tapas Mandal,AITC,590451,Archana Biswas,CPM,388684,201767,2014,AITC
-514,West Bengal,14,Bangaon,SC,Mamata Thakur,AITC,539999,Debesh Das,CPM,328214,211785,2014,AITC
-515,West Bengal,15,Barrackpore,GEN,Dinesh Trivedi,AITC,479206,Subhashini Ali,CPM,272433,206773,2014,AITC
-516,West Bengal,16,Dum Dum,GEN,Saugata Roy,AITC,483244,Asim Kumar Dasgupta,CPM,328310,154934,2014,AITC
-517,West Bengal,17,Barasat,GEN,Dr. Kakali Ghoshdostidar,AITC,525387,Dr. Mortoza Hossain,AIFB,352246,173141,2014,AITC
-518,West Bengal,18,Basirhat,GEN,Idris Ali,AITC,492326,Nurul Huda,CPI,382667,109659,2014,AITC
-519,West Bengal,19,Joynagar,SC,Pratima Mondal,AITC,494746,Subhas Naskar,RSP,386362,108384,2014,AITC
-520,West Bengal,20,Mathurapur,SC,Choudhury Mohan Jatua,AITC,627761,Rinku Naskar,CPM,489325,138436,2014,AITC
-521,West Bengal,21,Diamond Harbour,GEN,Abhishek Banerjee,AITC,508481,Dr. Abul Hasnat,CPM,437183,71298,2014,AITC
-522,West Bengal,22,Jadavpur,GEN,Sugata Bose,AITC,584244,Sujan Chakraborty,CPM,459041,125203,2014,AITC
-523,West Bengal,23,Kolkata Dakshin,GEN,Subrata Bakshi,AITC,431715,Tathagata Roy,BJP,295376,136339,2014,AITC
-524,West Bengal,24,Kolkata Uttar,GEN,Sudip Bandyopadhyay,AITC,343687,Rahul (Biswajit) Sinha,BJP,247461,96226,2014,AITC
-525,West Bengal,25,Howrah,GEN,Prasun Banerjee,AITC,488461,Sridip Bhattacharya,CPM,291505,196956,2014,AITC
-526,West Bengal,26,Uluberia,GEN,Sultan Ahmed,AITC,570785,Sabir Uddin Molla,CPM,369563,201222,2014,AITC
-527,West Bengal,27,Serampore,GEN,Kalyan Banerjee,AITC,514933,Tirthankar Ray,CPM,362407,152526,2014,AITC
-528,West Bengal,28,Hooghly,GEN,Dr. Ratna De (Nag),AITC,614312,Pradip Saha,CPM,425228,189084,2014,AITC
-529,West Bengal,29,Arambagh,SC,Aparupa Poddar (Afrin Ali),AITC,748764,Saktimohan Malik,CPM,401919,346845,2014,AITC
-530,West Bengal,30,Tamluk,GEN,Adhikari Suvendu,AITC,716928,Sekh Ibrahim Ali,CPM,470447,246481,2014,AITC
-531,West Bengal,31,Kanthi,GEN,Adhikari Sisir Kumar,AITC,676749,Sinha Tapas,CPM,447259,229490,2014,AITC
-532,West Bengal,32,Ghatal,GEN,Adhikari Deepak (Dev),AITC,685696,Santosh Rana,CPI,424805,260891,2014,AITC
-533,West Bengal,33,Jhargram,ST,Uma Saren,AITC,674504,Dr. Pulin Bihari Baske,CPM,326621,347883,2014,AITC
-534,West Bengal,34,Medinipur,GEN,Sandhya Roy,AITC,579860,Prabodh Panda,CPI,395194,184666,2014,AITC
-535,West Bengal,35,Purulia,GEN,Dr. Mriganka Mahato,AITC,468277,Narahari Mahato,AIFB,314400,153877,2014,AITC
-536,West Bengal,36,Bankura,GEN,Sreemati Dev Varma (Moon Moon Sen),AITC,483455,Acharia Basudeb,CPM,384949,98506,2014,AITC
-537,West Bengal,37,Bishnupur,SC,Khan Saumitra,AITC,578870,Susmita Bauri,CPM,429185,149685,2014,AITC
-538,West Bengal,38,Bardhaman Purba,SC,Sunil Kumar Mondal,AITC,574660,Iswar Chandra Das,CPM,460181,114479,2014,AITC
-539,West Bengal,39,Bardhaman-Durgapur,GEN,Dr. Mamtaz Sanghamita,AITC,554521,Sk. Saidul Haque,CPM,447190,107331,2014,AITC
-540,West Bengal,40,Asansol,GEN,Babul Supriya Baral (Babul Supriyo),BJP,419983,Dola Sen,AITC,349503,70480,2014,BJP
-541,West Bengal,41,Bolpur,SC,Anupam Hazra,AITC,630693,Dome Ramchandra,CPM,394581,236112,2014,AITC
-542,West Bengal,42,Birbhum,GEN,Satabdi Roy (Banerjee),AITC,460568,Dr. Elahi Kamre Muhammad,CPM,393305,67263,2014,AITC
+,Unnamed: 0,State,No,Name,Type,Winning Candidate,Winning Party,Winner's Votes,Runner Up Candidate,Runner Up Party,Runner Up Votes,Margin Votes,Year,Party_clean
+0,0,Andaman & Nicobar,1,Andaman & Nicobar Islands,GEN,Bishnu Pada Ray,BJP,90969,Kuldeep Rai Sharma,INC,83157,7812,2014,BJP
+1,1,Andhra Pradesh,1,Araku,ST,Kothapalli Geetha,YSRCP,413191,Gummidi Sandhyarani,TDP,321793,91398,2014,YSRCP
+2,2,Andhra Pradesh,2,Srikakulam,GEN,Rammohan Naidu Kinjarapu,TDP,556163,Reddy Shanthi,YSRC,428591,127572,2014,TDP
+3,3,Andhra Pradesh,3,Vizianagaram,GEN,Ashok Gajapathi Raju Pusapati,TDP,536549,Venkata Swetha Chalapathi Kumara Krishna Rangarao Ravu,YSRC,429638,106911,2014,TDP
+4,4,Andhra Pradesh,4,Visakhapatnam,GEN,Kambhampati Hari Babu,BJP,566832,Y.S Vijayamma,YSRC,476344,90488,2014,BJP
+5,5,Andhra Pradesh,5,Anakapalli,GEN,Muttamsetti Srinivasa Rao (Avanthi),TDP,568463,Gudivada Amarnadh,YSRC,520531,47932,2014,TDP
+6,6,Andhra Pradesh,6,Kakinada,GEN,Thota Narasimham,TDP,514402,Chalamalasetty Sunil,YSRC,510971,3431,2014,TDP
+7,7,Andhra Pradesh,7,Amalapuram,SC,Dr Pandula Ravindra Babu,TDP,594547,Pinipe Viswarupu,YSRC,473971,120576,2014,TDP
+8,8,Andhra Pradesh,8,Rajahmundry,GEN,Murali Mohan Maganti,TDP,630573,Boddu Venkataramana Chowdary,YSRC,463139,167434,2014,TDP
+9,9,Andhra Pradesh,9,Narsapuram,GEN,Gokaraju Ganga Raju,BJP,540306,Vanka Ravindranath,YSRC,454955,85351,2014,BJP
+10,10,Andhra Pradesh,10,Eluru,GEN,Maganti Venkateswara Rao (Babu),TDP,623471,Thota Chandra Sekhar,YSRC,521545,101926,2014,TDP
+11,11,Andhra Pradesh,11,Machilipatnam,GEN,Konakalla Narayana Rao,TDP,587280,Kolusu Partha Sarathy,YSRC,506223,81057,2014,TDP
+12,12,Andhra Pradesh,12,Vijayawada,GEN,Kesineni Srinivas,TDP,592696,Koneru Rajendra Prasad,YSRC,517834,74862,2014,TDP
+13,13,Andhra Pradesh,13,Guntur,GEN,Jayadev Galla,TDP,618417,Balashowry Vallabhaneni,YSRC,549306,69111,2014,TDP
+14,14,Andhra Pradesh,14,Narasaraopet,GEN,Sambasiva Rao Rayapati,TDP,632464,Ayodhya Ramireddy Alla,YSRC,597184,35280,2014,TDP
+15,15,Andhra Pradesh,15,Bapatla,SC,Malyadri Sriram,TDP,578145,Varikuti Amruthapani,YSRC,545391,32754,2014,TDP
+16,16,Andhra Pradesh,16,Ongole,GEN,Y.V.Subba Reddy,YSRCP,589960,Magunta Sreenivasulu Reddy,TDP,574302,15658,2014,YSRCP
+17,17,Andhra Pradesh,17,Nandyal,GEN,S.P.Y Reddy,YSRCP,622411,N.Md.Farook,TDP,516645,105766,2014,YSRCP
+18,18,Andhra Pradesh,18,Kurnool,GEN,Butta Renuka,YSRCP,472782,B.T. Naidu,TDP,428651,44131,2014,YSRCP
+19,19,Andhra Pradesh,19,Anantapur,GEN,J.C. Divakar Reddi,TDP,606509,Anantha Venkataramireddy,YSRC,545240,61269,2014,TDP
+20,20,Andhra Pradesh,20,Hindupur,GEN,Kristappa Nimmala,TDP,604291,Duddukunta Sreedhar Reddy,YSRC,506966,97325,2014,TDP
+21,21,Andhra Pradesh,21,Kadapa,GEN,Y.S. Avinash Reddy,YSRCP,671983,Srinivasa Reddy Reddeppagari,TDP,481660,190323,2014,YSRCP
+22,22,Andhra Pradesh,22,Nellore,GEN,Mekapati Rajamohan Reddy,YSRCP,576396,Adala Prabhakara Reddy,TDP,562918,13478,2014,YSRCP
+23,23,Andhra Pradesh,23,Tirupati,SC,Varaprasad Rao Velagapalli,YSRCP,580376,Karumanchi Jayaram,BJP,542951,37425,2014,YSRCP
+24,24,Andhra Pradesh,24,Rajampet,GEN,P.V.Midhun Reddy,YSRCP,601752,D. Purandeswari,BJP,426990,174762,2014,YSRCP
+25,25,Andhra Pradesh,25,Chittoor,SC,Naramalli Sivaprasad,TDP,594862,G.Samanyakiran,YSRC,550724,44138,2014,TDP
+26,26,Arunachal Pradesh,1,Arunachal West,ST,Kiren Rijiju,BJP,169367,Takam Sanjoy,INC,127629,41738,2014,BJP
+27,27,Arunachal Pradesh,2,Arunachal East,ST,Ninong Ering,INC,118455,Tapir Gao,BJP,105977,12478,2014,INC
+28,28,Assam,1,Karimganj,SC,Radheshyam Biswas,AUDF,362866,Krishna Das,BJP,260772,102094,2014,AUDF
+29,29,Assam,2,Silchar,GEN,Sushmita Dev,INC,336451,Kabindra Purkayastha,BJP,301210,35241,2014,INC
+30,30,Assam,3,Autonomous District,ST,Biren Singh Engti,INC,213152,Joy Ram Engleng,BJP,189057,24095,2014,INC
+31,31,Assam,4,Dhubri,GEN,Badruddin Ajmal,AUDF,592569,Wazed Ali Choudhury,INC,362839,229730,2014,AUDF
+32,32,Assam,5,Kokrajhar,ST,Naba Kumar Sarania (Hira),IND,634428,Urkhao Gwra Brahma,IND,278649,355779,2014,IND
+33,33,Assam,6,Barpeta,GEN,Siraj Uddin Ajmal,AUDF,394702,Chandra Mohan Patowary,BJP,352361,42341,2014,AUDF
+34,34,Assam,7,Gauhati,GEN,Smt. Bijoya Chakraborty,BJP,764985,Manash Borah,INC,449201,315784,2014,BJP
+35,35,Assam,8,Mangaldoi,GEN,Ramen Deka,BJP,486357,Kirip Chaliha,INC,463473,22884,2014,BJP
+36,36,Assam,9,Tezpur,GEN,Ram Prasad Sarmah,BJP,446511,Bhupen Kumar Borah,INC,360491,86020,2014,BJP
+37,37,Assam,10,Nawgong,GEN,Rajen Gohain,BJP,494146,Jonjonali Baruah,INC,350587,143559,2014,BJP
+38,38,Assam,11,Kaliabor,GEN,Gourav Gogoi,INC,443315,Mrinal Kumar Saikia,BJP,349441,93874,2014,INC
+39,39,Assam,12,Jorhat,GEN,Kamakhya Prasad Tasa,BJP,456420,Bijoy Krishna Handique,INC,354000,102420,2014,BJP
+40,40,Assam,13,Dibrugarh,ST,Rameswar Teli,BJP,494364,Paban Singh Ghatowar,INC,309017,185347,2014,BJP
+41,41,Assam,14,Lakhimpur,GEN,Sarbananda Sonowal,BJP,612543,Ranee Narah,INC,320405,292138,2014,BJP
+42,42,Bihar,1,Valmiki Nagar,GEN,Satish Chandra Dubey,BJP,364011,Purnmasi Ram,INC,246218,117793,2014,BJP
+43,43,Bihar,2,Paschim Champaran,GEN,Dr. Sanjay Jaiswal,BJP,371232,Prakash Jha,JD(U),260978,110254,2014,BJP
+44,44,Bihar,3,Purvi Champaran,GEN,Radha Mohan Singh,BJP,400452,Binod Kumar Srivastava,RJD,208289,192163,2014,BJP
+45,45,Bihar,4,Sheohar,GEN,Rama Devi,BJP,372506,Md Anwarul Haque,RJD,236267,136239,2014,BJP
+46,46,Bihar,5,Sitamarhi,GEN,Ram Kumar Sharma,RLSP,411265,Sitaram Yadav,RJD,263300,147965,2014,RLSP
+47,47,Bihar,6,Madhubani,GEN,Hukm Deo Narayan Yadav,BJP,358040,Abdul Bari Siddiqui,RJD,337505,20535,2014,BJP
+48,48,Bihar,7,Jhanjharpur,GEN,Birendra Kumar Chaudhary,BJP,335481,Mangani Lal Mandal,RJD,280073,55408,2014,BJP
+49,49,Bihar,8,Supaul,GEN,Ranjeet Ranjan,INC,332927,Dileshwar Kamait,JD(U),273255,59672,2014,INC
+50,50,Bihar,9,Araria,GEN,Tasleem Uddin,RJD,407978,Pradeep Kumar Singh,BJP,261474,146504,2014,RJD
+51,51,Bihar,10,Kishanganj,GEN,Mohammad Asrarul Haque,INC,493461,Dr Dilip Kumar Jaiswal,BJP,298849,194612,2014,INC
+52,52,Bihar,11,Katihar,GEN,Tariq Anwar,NCP,431292,Nikhil Kumar Choudhary,BJP,316552,114740,2014,NCP
+53,53,Bihar,12,Purnia,GEN,Santosh Kumar,JD(U),418826,Uday Singh Alias Pappu Singh,BJP,302157,116669,2014,JD(U)
+54,54,Bihar,13,Madhepura,GEN,Rajesh Ranjan (Pappu Yadav),RJD,368937,Sharad Yadav,JD(U),312728,56209,2014,RJD
+55,55,Bihar,14,Darbhanga,GEN,Kirti Azad,BJP,314949,Md. Ali Ashraf Fatmi,RJD,279906,35043,2014,BJP
+56,56,Bihar,15,Muzaffarpur,GEN,Ajay Nishad,BJP,469295,Akhilesh Prasad Singh,INC,246873,222422,2014,BJP
+57,57,Bihar,16,Vaishali,GEN,Rama Kishore Singh,LJP,305450,Raghuvansh Prasad Singh,RJD,206183,99267,2014,LJP
+58,58,Bihar,17,Gopalganj,SC,Janak Ram,BJP,478773,Dr. Jyoti Bharti,INC,191837,286936,2014,BJP
+59,59,Bihar,18,Siwan,GEN,Om Prakash Yadav,BJP,372670,Hena Shahab,RJD,258823,113847,2014,BJP
+60,60,Bihar,19,Maharajganj,GEN,Janardan Singh (Sigriwal),BJP,320753,Prabhu Nath Singh,RJD,282338,38415,2014,BJP
+61,61,Bihar,20,Saran,GEN,Rajiv Pratap Rudy,BJP,355120,Rabri Devi,RJD,314172,40948,2014,BJP
+62,62,Bihar,21,Hajipur,SC,Ramvilas Paswan,LJP,455652,Sanjeev Prasad Toni,INC,230152,225500,2014,LJP
+63,63,Bihar,22,Ujiarpur,GEN,Nityanand Rai,BJP,317352,Alok Kumar Mehta,RJD,256883,60469,2014,BJP
+64,64,Bihar,23,Samastipur,SC,Ram Chandra Paswan,LJP,270401,Dr. Ashok Kumar,INC,263529,6872,2014,LJP
+65,65,Bihar,24,Begusarai,GEN,Bhola Singh,BJP,428227,Md. Tanveer Hassan,RJD,369892,58335,2014,BJP
+66,66,Bihar,25,Khagaria,GEN,Choudhary Mahboob Ali Kaiser,LJP,313806,Krishna Kumari Yadav,RJD,237803,76003,2014,LJP
+67,67,Bihar,26,Bhagalpur,GEN,Shailesh Kumar Urph Bulo Mandal,RJD,367623,Syed Shahnawaz Hussain,BJP,358138,9485,2014,RJD
+68,68,Bihar,27,Banka,GEN,Jai Prakash Narayan Yadav,RJD,285150,Putul Kumari,BJP,275006,10144,2014,RJD
+69,69,Bihar,28,Munger,GEN,Veena Devi,LJP,352911,Rajiv Ranjan Singh Alias Lalan Singh,JD(U),243827,109084,2014,LJP
+70,70,Bihar,29,Nalanda,GEN,Kaushlendra Kumar,JD(U),321982,Satya Nand Sharma,LJP,312355,9627,2014,JD(U)
+71,71,Bihar,30,Patna Sahib,GEN,Shatrughana Sinha,BJP,485905,Kunal Singh,INC,220100,265805,2014,BJP
+72,72,Bihar,31,Pataliputra,GEN,Ram Kripal Yadav,BJP,383262,Misha Bharti,RJD,342940,40322,2014,BJP
+73,73,Bihar,32,Arrah,GEN,Raj Kumar Singh,BJP,391074,Sribhagwan Singh Kushwaha,RJD,255204,135870,2014,BJP
+74,74,Bihar,33,Buxar,GEN,Ashwini Kumar Choubey,BJP,319012,Jagadanand Singh,RJD,186674,132338,2014,BJP
+75,75,Bihar,34,Sasaram,SC,Chhedi Paswan,BJP,366087,Meira Kumar,INC,302760,63327,2014,BJP
+76,76,Bihar,35,Karakat,GEN,Upendra Kushwaha,RLSP,338892,Kanti Singh,RJD,233651,105241,2014,RLSP
+77,77,Bihar,36,Jahanabad,GEN,Dr. Arun Kumar,RLSP,322647,Surendra Prasad Yadav,RJD,280307,42340,2014,RLSP
+78,78,Bihar,37,Aurangabad,GEN,Sushil Kumar Singh,BJP,307941,Nikhil Kumar,INC,241594,66347,2014,BJP
+79,79,Bihar,38,Gaya,SC,Hari Manjhi,BJP,326230,Ramji Manjhi,RJD,210726,115504,2014,BJP
+80,80,Bihar,39,Nawada,GEN,Giriraj Singh,BJP,390248,Raj Ballabh Prasad,RJD,250091,140157,2014,BJP
+81,81,Bihar,40,Jamui,SC,Chirag Kumar Paswan,LJP,285354,Sudhansu Shekhar Bhaskar,RJD,199407,85947,2014,LJP
+82,82,Chandigarh,1,Chandigarh,GEN,Smt. Kirron Kher Anupam,BJP,191362,Pawan Kumar Bansal,INC,121720,69642,2014,BJP
+83,83,Chhattisgarh,1,Surguja,ST,Kamalbhan Singh Marabi,BJP,585336,Ram Dev Ram,INC,438100,147236,2014,BJP
+84,84,Chhattisgarh,2,Raigarh,ST,Vishnu Deo Sai,BJP,662478,Arti Singh,INC,445728,216750,2014,BJP
+85,85,Chhattisgarh,3,Janjgir-Champa,SC,Smt. Kamla Patle,BJP,518909,Prem Chand Jayasi,INC,343948,174961,2014,BJP
+86,86,Chhattisgarh,4,Korba,GEN,Dr. Banshilal Mahto,BJP,439002,Charan Das Mahant,INC,434737,4265,2014,BJP
+87,87,Chhattisgarh,5,Bilaspur,GEN,Lakhan Lal Sahu,BJP,561387,Karuna Shukla,INC,384951,176436,2014,BJP
+88,88,Chhattisgarh,6,Rajnandgaon,GEN,Abhishek Singh,BJP,643473,Kamleshwar Verma,INC,407562,235911,2014,BJP
+89,89,Chhattisgarh,7,Durg,GEN,Tamradhwaj Sahu,INC,570687,Saroj Pandey,BJP,553839,16848,2014,INC
+90,90,Chhattisgarh,8,Raipur,GEN,Ramesh Bais,BJP,654922,Satya Narayan Sharma (Sattu Bhaiya),INC,483276,171646,2014,BJP
+91,91,Chhattisgarh,9,Mahasamund,GEN,Chandu Lal Sahu (Chandu Bhaiya),BJP,503514,Ajit Jogi,INC,502297,1217,2014,BJP
+92,92,Chhattisgarh,10,Bastar,ST,Dinesh Kashyap,BJP,385829,Deepak Karma (Bunty),INC,261470,124359,2014,BJP
+93,93,Chhattisgarh,11,Kanker,ST,Vikram Dev Usendi,BJP,465215,Foolodevi Netam,INC,430057,35158,2014,BJP
+94,94,Dadar & Nagar Haveli,1,Dadra And Nagar Haveli,ST,Patel Natubhai Gomanbhai,BJP,80790,Delkar Mohanbhai Sanjibhai,INC,74576,6214,2014,BJP
+95,95,Daman & diu,1,Daman And Diu,GEN,Patel Lalubhai Babubhai,BJP,46960,Ketan Dahyabhai Patel,INC,37738,9222,2014,BJP
+96,96,Delhi,1,Chandni Chowk,GEN,Dr. Harsh Vardhan,BJP,437938,Ashutosh,AAP,301618,136320,2014,BJP
+97,97,Delhi,2,North East Delhi,GEN,Manoj Tiwari,BJP,596125,Anand Kumar,AAP,452041,144084,2014,BJP
+98,98,Delhi,3,East Delhi,GEN,Maheish Girri,BJP,572202,Rajmohan Gandhi,AAP,381739,190463,2014,BJP
+99,99,Delhi,4,New Delhi,GEN,Smt. Meenakshi Lekhi,BJP,453350,Ashish Khetan,AAP,290642,162708,2014,BJP
+100,100,Delhi,5,North West Delhi,SC,Udit Raj,BJP,629860,Rakhi Birla,AAP,523058,106802,2014,BJP
+101,101,Delhi,6,West Delhi,GEN,Parvesh Sahib Singh Verma,BJP,651395,Jarnail Singh,AAP,382809,268586,2014,BJP
+102,102,Delhi,7,South Delhi,GEN,Ramesh Bidhuri,BJP,497980,Col Devinder Sehrawat,AAP,390980,107000,2014,BJP
+103,103,Goa,1,North Goa,GEN,Shripad Yesso Naik,BJP,237903,Ravi Naik,INC,132304,105599,2014,BJP
+104,104,Goa,2,South Goa,GEN,Adv. Narendra Keshav Sawaikar,BJP,198776,Aleixo Reginaldo Lourenco,INC,166446,32330,2014,BJP
+105,105,Gujarat,1,Kutch,SC,Chavda Vinod Lakhamashi,BJP,562855,Dr.Dinesh Parmar,INC,308373,254482,2014,BJP
+106,106,Gujarat,2,Banaskantha,GEN,Chaudhary Haribhai Parthibhai,BJP,507856,Patel Joitabhai Kasnabhai,INC,305522,202334,2014,BJP
+107,107,Gujarat,3,Patan,GEN,Liladharbhai Khodaji Vaghela,BJP,518538,Rathod Bhavsinhbhai Dahyabhai,INC,379819,138719,2014,BJP
+108,108,Gujarat,4,Mehsana,GEN,Patel Jayshreeben Kanubhai,BJP,580250,Patel Jivabhai Ambalal,INC,371359,208891,2014,BJP
+109,109,Gujarat,5,Sabarkantha,GEN,Rathod Dipsinh Shankarsinh,BJP,552205,Shankersinh Vaghela Bapu,INC,467750,84455,2014,BJP
+110,110,Gujarat,6,Gandhinagar,GEN,L.K.Advani,BJP,773539,Kiritbhai Ishvarbhai Patel,INC,290418,483121,2014,BJP
+111,111,Gujarat,7,Ahmedabad East,GEN,Paresh Rawal,BJP,633582,Patel Himmatsingh Prahladsingh,INC,306949,326633,2014,BJP
+112,112,Gujarat,8,Ahmedabad West,SC,Dr. Kirit P Solanki,BJP,617104,Ishwarbahi Dhanabhai Makwana,INC,296793,320311,2014,BJP
+113,113,Gujarat,9,Surendranagar,GEN,Fatepara Devajibhai Govindbhai,BJP,529003,Koli Patel Somabhai Gandalal,INC,326096,202907,2014,BJP
+114,114,Gujarat,10,Rajkot,GEN,Kundariya Mohanbhai Kalyanjibhai,BJP,621524,Kunvarjibhai Mohanbhai Bavaliya,INC,375096,246428,2014,BJP
+115,115,Gujarat,11,Porbandar,GEN,Radadiya Vithalbhai Hansrajbhai,BJP,508437,Jadeja Kandhalbhai Sarmanbhai,NCP,240466,267971,2014,BJP
+116,116,Gujarat,12,Jamnagar,GEN,Poonamben Hematbhai Maadam,BJP,484412,Ahir Vikrambhai Arjanbhai Madam,INC,309123,175289,2014,BJP
+117,117,Gujarat,13,Junagadh,GEN,Chudasama Rajeshbhai Naranbhai,BJP,513179,Punjabhai Bhimabhai Vansh,INC,377347,135832,2014,BJP
+118,118,Gujarat,14,Amreli,GEN,Kachhadiya Naranbhai Bhikhabhai,BJP,436715,Thummar Virjibhai Keshavbhai (Virjibhai Thummar),INC,280483,156232,2014,BJP
+119,119,Gujarat,15,Bhavnagar,GEN,Dr. Bharatiben Dhirubhai Shiyal,BJP,549529,Rathod Pravinbhai Jinabhai,INC,254041,295488,2014,BJP
+120,120,Gujarat,16,Anand,GEN,Dilip Patel,BJP,490829,Solanki Bharatbhai Madhavsinh,INC,427403,63426,2014,BJP
+121,121,Gujarat,17,Kheda,GEN,Chauhan Devusinh Jesingbhai (Chauhan Devusinh),BJP,568235,Dinsha Patel,INC,335334,232901,2014,BJP
+122,122,Gujarat,18,Panchmahal,GEN,Chauhan Prabhatsinh Pratapsinh,BJP,508274,Ramsinh Parmar,INC,337678,170596,2014,BJP
+123,123,Gujarat,19,Dahod,ST,Jasvantsinh Sumanbhai Bhabhor,BJP,511111,Taviyad Dr. Prabhaben Kishorsinh,INC,280757,230354,2014,BJP
+124,124,Gujarat,20,Vadodara,GEN,Ranjanaben Dhananjay Bhatt,BJP,526763,Narendra Ravat,INC,197256,329507,2014,BJP
+125,125,Gujarat,21,Chhota Udaipur,ST,Ramsinh Rathwa,BJP,607916,Naranbhai Jemalabhai Rathva,INC,428187,179729,2014,BJP
+126,126,Gujarat,22,Bharuch,GEN,Vasava Mansukhbhai Dhanjibhai,BJP,548902,Patel Jayeshbhai Ambalalbhai (Jayesh Kaka),INC,395629,153273,2014,BJP
+127,127,Gujarat,23,Bardoli,ST,Vasava Parbhubhai Nagarbhai,BJP,622769,Chaudhari Tusharbhai Amarsinhbhai,INC,498885,123884,2014,BJP
+128,128,Gujarat,24,Surat,GEN,Jardosh Darshnaben Vikrambhai,BJP,718412,Desai Naishadhbhai Bhupatbhai,INC,185222,533190,2014,BJP
+129,129,Gujarat,25,Navsari,GEN,C. R. Patil,BJP,820831,Maksud Mirza,INC,262715,558116,2014,BJP
+130,130,Gujarat,26,Valsad,ST,Dr. K.C.Patel,BJP,617772,Kishanbhai Vestabhai Patel,INC,409768,208004,2014,BJP
+131,131,Haryana,1,Ambala,SC,Rattan Lal Kataria,BJP,612121,Raj Kumar Balmiki,INC,272047,340074,2014,BJP
+132,132,Haryana,2,Kurukshetra,GEN,Raj Kumar Saini,BJP,418112,Balbir Singh Saini,INLD,288376,129736,2014,BJP
+133,133,Haryana,3,Sirsa,SC,Charanjeet Singh Rori,INLD,506370,Ashok Tanwar,INC,390634,115736,2014,INLD
+134,134,Haryana,4,Hisar,GEN,Dushyant Chautala,INLD,494478,Kuldeep Bishnoi,HJC (BL),462631,31847,2014,INLD
+135,135,Haryana,5,Karnal,GEN,Ashwini Kumar,BJP,594817,Arvind Kumar Sharma,INC,234670,360147,2014,BJP
+136,136,Haryana,6,Sonipat,GEN,Ramesh Chander,BJP,347203,Jagbir Singh Malik,INC,269789,77414,2014,BJP
+137,137,Haryana,7,Rohtak,GEN,Deepender Singh Hooda,INC,490063,Om Parkash Dhankar,BJP,319436,170627,2014,INC
+138,138,Haryana,8,Bhiwani-Mahendragarh,GEN,Dharambir S/O Bhale Ram,BJP,404542,Bahadur Singh,INLD,275148,129394,2014,BJP
+139,139,Haryana,9,Gurgaon,GEN,Inderjit Singh Rao,BJP,644780,Zakir Hussain,INLD,370058,274722,2014,BJP
+140,140,Haryana,10,Faridabad,GEN,Krishan Pal,BJP,652516,Avtar Singh Bhadana,INC,185643,466873,2014,BJP
+141,141,Himachal Pradesh,1,Kangra,GEN,Shanta Kumar,BJP,456163,Chander Kumar,INC,286091,170072,2014,BJP
+142,142,Himachal Pradesh,2,Mandi,GEN,Ram Swaroop Sharma,BJP,362824,Pratibha Singh,INC,322968,39856,2014,BJP
+143,143,Himachal Pradesh,3,Hamirpur,GEN,Anurag Singh Thakur,BJP,448035,Rajinder Singh Rana,INC,349632,98403,2014,BJP
+144,144,Himachal Pradesh,4,Shimla,SC,Virender Kashyap,BJP,385973,Mohan Lal Brakta,INC,301786,84187,2014,BJP
+145,145,Jammu & Kashmir,1,Baramulla,GEN,Muzaffar Hussain Baig,PDP,175277,Sharief Ud-Din Shariq,JKNPP,146058,29219,2014,PDP
+146,146,Jammu & Kashmir,2,Srinagar,GEN,Tariq Hameed Karra,PDP,157923,Farooq Abdullah,JKNPP,115643,42280,2014,PDP
+147,147,Jammu & Kashmir,3,Anantnag,GEN,Mehbooba Mufti,PDP,200429,Mirza Mehboob Beg,JKNPP,135012,65417,2014,PDP
+148,148,Jammu & Kashmir,4,Ladakh,ST,Thupstan Chhewang,BJP,31111,Ghulam Raza,IND,31075,36,2014,BJP
+149,149,Jammu & Kashmir,5,Udhampur,GEN,Dr. Jitendra Singh,BJP,487369,Ghulam Nabi Azad,INC,426393,60976,2014,BJP
+150,150,Jammu & Kashmir,6,Jammu,GEN,Jugal Kishore,BJP,619995,Madan Lal Sharma,INC,362715,257280,2014,BJP
+151,151,Jharkhand,1,Rajmahal,ST,Vijay Kumar Hansdak,JMM,379507,Hemlal Murmu,BJP,338170,41337,2014,JMM
+152,152,Jharkhand,2,Dumka,ST,Shibu Soren,JMM,335815,Sunil Soren,BJP,296785,39030,2014,JMM
+153,153,Jharkhand,3,Godda,GEN,Nishikant Dubey,BJP,380500,Furkan Ansari,INC,319818,60682,2014,BJP
+154,154,Jharkhand,4,Chatra,GEN,Sunil Kumar Singh,BJP,295862,Dhiraj Prasad Sahu,INC,117836,178026,2014,BJP
+155,155,Jharkhand,5,Kodarma,GEN,Ravindra Kr. Ray,BJP,365410,Rajkumar Yadav,CPI(ML)(L),266756,98654,2014,BJP
+156,156,Jharkhand,6,Giridih,GEN,Ravindra Kumar Pandey,BJP,391913,Jagarnath Mahto,JMM,351600,40313,2014,BJP
+157,157,Jharkhand,7,Dhanbad,GEN,Pashupati Nath Singh,BJP,543491,Ajay Kumar Dubey,INC,250537,292954,2014,BJP
+158,158,Jharkhand,8,Ranchi,GEN,Ram Tahal Choudhary,BJP,448729,Subodh Kant Sahay,INC,249426,199303,2014,BJP
+159,159,Jharkhand,9,Jamshedpur,GEN,Bidyut Baran Mahato,BJP,464153,Ajay Kumar,JVM(P),364277,99876,2014,BJP
+160,160,Jharkhand,10,Singhbhum,SC,Laxman Giluwa,BJP,303131,Geeta Kora,JBSP,215607,87524,2014,BJP
+161,161,Jharkhand,11,Khunti,ST,Karia Munda,BJP,269185,Anosh Ekka,JKP,176937,92248,2014,BJP
+162,162,Jharkhand,12,Lohardaga,ST,Sudarshan Bhagat,BJP,226666,Rameshwar Oraon,INC,220177,6489,2014,BJP
+163,163,Jharkhand,13,Palamu,SC,Vishnu Dayal Ram,BJP,476513,Manoj Kumar,RJD,212571,263942,2014,BJP
+164,164,Jharkhand,14,Hazaribagh,GEN,Jayant Sinha,BJP,406931,Saurabh Narain Singh,INC,247803,159128,2014,BJP
+165,165,Karnataka,1,Chikkodi,GEN,Prakash Babanna Hukkeri,INC,474373,Katti Ramesh Vishwanath,BJP,471370,3003,2014,INC
+166,166,Karnataka,2,Belgaum,GEN,Angadi Suresh Channabasappa,BJP,554417,Laxmi R. Hebbalkar,INC,478557,75860,2014,BJP
+167,167,Karnataka,3,Bagalkot,GEN,Gaddigoudar Parvtagouda Chandanagouda,BJP,571548,Ajay Kumar Sarnaik,INC,454988,116560,2014,BJP
+168,168,Karnataka,4,Bijapur,SC,Ramesh Jigajinagi,BJP,471757,Prakash Rathod,INC,401938,69819,2014,BJP
+169,169,Karnataka,5,Gulbarga,SC,Mallikarjun Kharge,INC,507193,Revunaik Belamagi,BJP,432460,74733,2014,INC
+170,170,Karnataka,6,Raichur,ST,B.V.Nayak,INC,443659,Arakera Shivanagouda Nayak,BJP,442160,1499,2014,INC
+171,171,Karnataka,7,Bidar,GEN,Bhagwanth Khuba,BJP,459290,N. Dharam Singh,INC,367068,92222,2014,BJP
+172,172,Karnataka,8,Koppal,GEN,Karadi Sanganna Amarappa,BJP,486383,Basavaraj Hitnal,INC,453969,32414,2014,BJP
+173,173,Karnataka,9,Bellary,ST,B. Sreeramulu,BJP,534406,N.Y. Hanumantappa,INC,449262,85144,2014,BJP
+174,174,Karnataka,10,Haveri,GEN,Udasi Shivakumar Channabasappa,BJP,566790,Saleem Ahmed,INC,479219,87571,2014,BJP
+175,175,Karnataka,11,Dharwad,GEN,Pralhad Joshi,BJP,545395,Vinay Kulkarni,INC,431738,113657,2014,BJP
+176,176,Karnataka,12,Uttara Kannada,GEN,Anantkumar Hegde,BJP,546939,Prashant R Deshpande,INC,406239,140700,2014,BJP
+177,177,Karnataka,13,Davanagere,GEN,G M Siddeshwara,BJP,518894,S.S. Mallikarjun,INC,501287,17607,2014,BJP
+178,178,Karnataka,14,Shimoga,GEN,B. S. Yeddyurappa,BJP,606216,Manjunath Bhandary,INC,242911,363305,2014,BJP
+179,179,Karnataka,15,Udupi Chikmagalur,GEN,Shobha Karandlaje,BJP,581168,K Jayaprakash Hegde,INC,399525,181643,2014,BJP
+180,180,Karnataka,16,Hassan,GEN,H.D. Devegowda,JD(S),509841,Manju. A.,INC,409379,100462,2014,JD(S)
+181,181,Karnataka,17,Dakshina Kannada,GEN,Nalin Kumar Kateel,BJP,642739,Janardhana Poojary,INC,499030,143709,2014,BJP
+182,182,Karnataka,18,Chitradurga,SC,B.N.Chandrappa,INC,467511,Janardhana Swamy,BJP,366220,101291,2014,INC
+183,183,Karnataka,19,Tumkur,GEN,Muddahanumegowda.S.P.,INC,429868,G.S.Basavaraj,BJP,355827,74041,2014,INC
+184,184,Karnataka,20,Mandya,GEN,C.S.Puttaraju,JD(S),524370,Ramya,INC,518852,5518,2014,JD(S)
+185,185,Karnataka,21,Mysore,GEN,Prathap Simha,BJP,503908,Adagooru H Vishwanath,INC,472300,31608,2014,BJP
+186,186,Karnataka,22,Chamarajanagar,SC,R. Dhruvanarayana,INC,567782,A. R. Krishna Murthy,BJP,426600,141182,2014,INC
+187,187,Karnataka,23,Bangalore Rural,GEN,D K Suresh,INC,652723,Muniraju Gowda . P,BJP,421243,231480,2014,INC
+188,188,Karnataka,24,Bangalore North,GEN,D.V Sadananda Gowda,BJP,718326,C.Narayana Swamy,INC,488562,229764,2014,BJP
+189,189,Karnataka,25,Bangalore Central,GEN,P.C. Mohan,BJP,557130,Rizwan Arshad,INC,419630,137500,2014,BJP
+190,190,Karnataka,26,Bangalore South,GEN,Ananth Kumar,BJP,633816,Nandan Nilekani,INC,405241,228575,2014,BJP
+191,191,Karnataka,27,Chikkaballapur,GEN,M Veerappa Moily,INC,424800,B N Bache Gowda,BJP,415280,9520,2014,INC
+192,192,Karnataka,28,Kolar,GEN,K.H.Muniyappa,INC,418926,Kolar Kesava,JD(S),371076,47850,2014,INC
+193,193,Kerala,1,Kasaragod,GEN,P Karunakaran,CPI,384964,Adv. T Siddique,INC,378043,6921,2014,CPI
+194,194,Kerala,2,Kannur,GEN,P K Sreemathi Teacher,CPI,427622,K Sudhakaran,INC,421056,6566,2014,CPI
+195,195,Kerala,3,Vatakara,GEN,Mullappally Ramachandran,INC,416479,Adv.A.N.Shamseer,CPM,413173,3306,2014,INC
+196,196,Kerala,4,Wayanad,GEN,M I Shanavas,INC,377035,Sathyan Mokeri,CPI,356165,20870,2014,INC
+197,197,Kerala,5,Kozhikode,GEN,M .K Raghavan,INC,397615,A.Vijayaraghavan,CPM,380732,16883,2014,INC
+198,198,Kerala,6,Malappuram,GEN,E. Ahamed,IUML,437723,P.K.Sainaba,CPM,242984,194739,2014,IUML
+199,199,Kerala,7,Ponnani,GEN,E. T. Mohammed Basheer,IUML,378503,V.Abdurahman,IND,353093,25410,2014,IUML
+200,200,Kerala,8,Palakkad,GEN,M B Rajesh,CPI,412897,M P Veerendrakumar,SJ(D),307597,105300,2014,CPI
+201,201,Kerala,9,Alathur,SC,P.K.Biju,CPI,411808,Sheeba K.A,INC,374496,37312,2014,CPI
+202,202,Kerala,10,Thrissur,GEN,C. N. Jayadevan,CPI,389209,K. P. Dhanapalan,INC,350982,38227,2014,CPI
+203,203,Kerala,11,Chalakudy,GEN,Innocent,IND,358440,P C Chacko,INC,344556,13884,2014,IND
+204,204,Kerala,12,Ernakulam,GEN,Prof. K.V. Thomas,INC,353841,Christy Fernandez,IND,266794,87047,2014,INC
+205,205,Kerala,13,Idukki,GEN,Adv.Joice George,IND,382019,Adv.Dean Kuriakose,INC,331477,50542,2014,IND
+206,206,Kerala,14,Kottayam,GEN,Jose K. Mani,KC(M),424194,Adv.Mathew T. Thomas,JD(S),303595,120599,2014,KC(M)
+207,207,Kerala,15,Alappuzha,GEN,K C Venugopal,INC,462525,C B Chandrababu,CPM,443118,19407,2014,INC
+208,208,Kerala,16,Mavelikkara,SC,Kodikunnil Suresh,INC,402432,Chengara Surendran,CPI,369695,32737,2014,INC
+209,209,Kerala,17,Pathanamthitta,GEN,Anto Antony,INC,358842,Adv. Peelipose Thomas,IND,302651,56191,2014,INC
+210,210,Kerala,18,Kollam,GEN,N.K.Premachandran,RSP,408528,M.A. Baby,CPM,370879,37649,2014,RSP
+211,211,Kerala,19,Attingal,GEN,Dr.A .Sampath,CPI,392478,Adv.Bindhu Krishna,INC,323100,69378,2014,CPI
+212,212,Kerala,20,Thiruvananthapuram,GEN,Dr. Shashi Tharoor,INC,297806,Sri. O Rajagopal,BJP,282336,15470,2014,INC
+213,213,Lakshadweep,1,Lakshadweep,ST,Mohammed Faizal P.P.,NCP,21665,Hamdullah Sayeed,INC,20130,1535,2014,NCP
+214,214,Madhya Pradesh,1,Morena,GEN,Anoop Mishra,BJP,375567,Brindawan Singh Sikarwar,BSP,242586,132981,2014,BJP
+215,215,Madhya Pradesh,2,Bhind,SC,Dr. Bhagirath Prasad,BJP,404474,Imarti Devi,INC,244513,159961,2014,BJP
+216,216,Madhya Pradesh,3,Gwalior,GEN,Narendra Singh Tomar,BJP,442796,Ashok Singh,INC,413097,29699,2014,BJP
+217,217,Madhya Pradesh,4,Guna,GEN,Jyotiraditya M Scindia,INC,517036,Jaibhansingh Pawaiya,BJP,396244,120792,2014,INC
+218,218,Madhya Pradesh,5,Sagar,GEN,Laxmi Narayan Yadav,BJP,482580,Govind Singh Rajput,INC,361843,120737,2014,BJP
+219,219,Madhya Pradesh,6,Tikamgarh,SC,Dr. Virendra Kumar,BJP,422979,Ahirwar Dr. Kamlesh Verma,INC,214248,208731,2014,BJP
+220,220,Madhya Pradesh,7,Damoh,GEN,Prahalad Singh Patel,BJP,513079,Choudhary Mahendra Pratap Singh,INC,299780,213299,2014,BJP
+221,221,Madhya Pradesh,8,Khajuraho,GEN,Nagendra Singh,BJP,474966,Raja Pateria,INC,227476,247490,2014,BJP
+222,222,Madhya Pradesh,9,Satna,GEN,Ganesh Singh,BJP,375288,Ajay Singh Rahul Bhaiyya,INC,366600,8688,2014,BJP
+223,223,Madhya Pradesh,10,Rewa,GEN,Janardan Mishra,BJP,383320,Sunderlal Tiwari,INC,214594,168726,2014,BJP
+224,224,Madhya Pradesh,11,Sidhi,GEN,Riti Pathak,BJP,475678,Indrajeet Kumar,INC,367632,108046,2014,BJP
+225,225,Madhya Pradesh,12,Shahdol,ST,Dalpat Singh Paraste,BJP,525419,Rajesh Nandini Singh,INC,284118,241301,2014,BJP
+226,226,Madhya Pradesh,13,Jabalpur,GEN,Rakesh Singh,BJP,564609,Vivek Krishna Tankha,INC,355970,208639,2014,BJP
+227,227,Madhya Pradesh,14,Mandla,ST,Faggan Singh Kulaste,BJP,585720,Omkar Singh Markam,INC,475251,110469,2014,BJP
+228,228,Madhya Pradesh,15,Balaghat,GEN,Bodhsingh Bhagat,BJP,480594,Hina Likhiram Kawre,INC,384553,96041,2014,BJP
+229,229,Madhya Pradesh,16,Chhindwara,GEN,Kamal Nath,INC,559755,Choudhary Chandrabhan Kuber Singh,BJP,443218,116537,2014,INC
+230,230,Madhya Pradesh,17,Hoshangabad,GEN,Uday Pratap Singh,BJP,669128,Devendra Patel (Guddu Bhaiya),INC,279168,389960,2014,BJP
+231,231,Madhya Pradesh,18,Vidisha,GEN,Sushma Swaraj,BJP,714348,Lakshman Singh,INC,303650,410698,2014,BJP
+232,232,Madhya Pradesh,19,Bhopal,GEN,Alok Sanjar,BJP,714178,P C Sharma (Prakash Mangilal Sharma ),INC,343482,370696,2014,BJP
+233,233,Madhya Pradesh,20,Rajgarh,GEN,Rodmal Nagar,BJP,596727,Amlabe Narayan Singh,INC,367990,228737,2014,BJP
+234,234,Madhya Pradesh,21,Dewas,SC,Manohar Untwal,BJP,665646,Sajjan Singh Verma,INC,405333,260313,2014,BJP
+235,235,Madhya Pradesh,22,Ujjain,SC,Prof. Chintamani Malviya,BJP,641101,Premchand Guddu,INC,331438,309663,2014,BJP
+236,236,Madhya Pradesh,23,Mandsaur,GEN,Sudhir Gupta,BJP,698335,Meenakshi Natarajan,INC,394686,303649,2014,BJP
+237,237,Madhya Pradesh,24,Ratlam,ST,Dileepsingh Bhuria,BJP,545970,Kantilal Bhuria,INC,437523,108447,2014,BJP
+238,238,Madhya Pradesh,25,Dhar,ST,Savitri Thakur,BJP,558387,Umang Singhar,INC,454059,104328,2014,BJP
+239,239,Madhya Pradesh,26,Indore,GEN,Sumitra Mahajan (Tai),BJP,854972,Satyanarayan Patel,INC,388071,466901,2014,BJP
+240,240,Madhya Pradesh,27,Khargone,ST,Subhash Patel,BJP,649354,Ramesh Patel,INC,391475,257879,2014,BJP
+241,241,Madhya Pradesh,28,Khandwa,GEN,Nandkumar Singh Chouhan (Nandu Bhaiya),BJP,717357,Arun Subhash Chandra Yadav,INC,457643,259714,2014,BJP
+242,242,Madhya Pradesh,29,Betul,ST,Jyoti Dhurve,BJP,643651,Ajay Shah (Makrai),INC,315037,328614,2014,BJP
+243,243,Maharashtra,1,Nandurbar,ST,Dr.Gavit Heena Vaijaykumar,BJP,579486,Gavit Manikrao Hodlya,INC,472581,106905,2014,BJP
+244,244,Maharashtra,2,Dhule,GEN,Dr. Bhamre Subhash Ramrao,BJP,529450,Amrishbhai Rasiklal Patel,INC,398727,130723,2014,BJP
+245,245,Maharashtra,3,Jalgaon,GEN,A.T. Nana Patil,BJP,647773,Annasaheb Dr.Satish Bhaskarrao Patil,NCP,264248,383525,2014,BJP
+246,246,Maharashtra,4,Raver,GEN,Khadase Raksha Nikhil,BJP,605452,Manishdada Jain,NCP,287384,318068,2014,BJP
+247,247,Maharashtra,5,Buldhana,GEN,Jadhav Prataprao Ganpatrao,SHS,509145,Ingle Krushanarao Ganpatrao,NCP,349566,159579,2014,SHS
+248,248,Maharashtra,6,Akola,GEN,Dhotre Sanjay Shamrao,BJP,456472,Patel Hidayat Ulla Barkat Ulla,INC,253356,203116,2014,BJP
+249,249,Maharashtra,7,Amravati,SC,Adsul Anandrao Vithoba,SHS,467212,Navneet Ravi Rana,NCP,329280,137932,2014,SHS
+250,250,Maharashtra,8,Wardha,GEN,Ramdas Chandrabhanji Tadas,BJP,537518,Meghe Sagar Dattatraya,INC,321735,215783,2014,BJP
+251,251,Maharashtra,9,Ramtek,SC,Krupal Balaji Tumane,SHS,519892,Mukul Wasnik,INC,344101,175791,2014,SHS
+252,252,Maharashtra,10,Nagpur,GEN,Gadkari Nitin Jairam,BJP,587767,Vilas Muttemwar,INC,302939,284828,2014,BJP
+253,253,Maharashtra,11,Bhandara-Gondiya,GEN,Nanabhau Falgunrao Patole,BJP,606129,Patel Praful Manoharbhai,NCP,456875,149254,2014,BJP
+254,254,Maharashtra,12,Gadchiroli-Chimur,ST,Ashok Mahadeorao Nete,BJP,535982,Dr. Namdeo Dalluji Usendi,INC,299112,236870,2014,BJP
+255,255,Maharashtra,13,Chandrapur,GEN,Ahir Hansraj Gangaram,BJP,508049,Deotale Sanjay Wamanrao,INC,271780,236269,2014,BJP
+256,256,Maharashtra,14,Yavatmal-Washim,GEN,Gawali Bhavana Pundlikrao,SHS,477905,Adv.Shivajirao Shivaramji Moghe,INC,384089,93816,2014,SHS
+257,257,Maharashtra,15,Hingoli,GEN,Rajeev Shankarrao Satav,INC,467397,Wankhede Subhash Bapurao,SHS,465765,1632,2014,INC
+258,258,Maharashtra,16,Nanded,GEN,Ashok Shankarrao Chavan,INC,493075,D. B. Patil,BJP,411620,81455,2014,INC
+259,259,Maharashtra,17,Parbhani,GEN,Jadhav Sanjay (Bandu) Haribhau,SHS,578455,Bhambale Vijay Manikrao,NCP,451300,127155,2014,SHS
+260,260,Maharashtra,18,Jalna,GEN,Danve Raosaheb Dadarao,BJP,591428,Autade Vilas Keshavrao,INC,384630,206798,2014,BJP
+261,261,Maharashtra,19,Aurangabad,GEN,Chandrakant Bhaurao Khaire,SHS,520902,Patil Nitin Suresh,INC,358902,162000,2014,SHS
+262,262,Maharashtra,20,Dindori,ST,Chavan Harishchandra Deoram,BJP,542784,Dr. Bharati Pravin Pawar,NCP,295165,247619,2014,BJP
+263,263,Maharashtra,21,Nashik,GEN,Godse Hemant Tukaram,SHS,494735,Chhagan Bhujbal,NCP,307399,187336,2014,SHS
+264,264,Maharashtra,22,Palghar,ST,Adv. Chintaman Navasha Wanga,BJP,533201,Baliram Sukur Jadhav,BVA,293681,239520,2014,BJP
+265,265,Maharashtra,23,Bhiwandi,GEN,Kapil Moreshwar Patil,BJP,411070,Patil Vishwanath Ramchandra,INC,301620,109450,2014,BJP
+266,266,Maharashtra,24,Kalyan,GEN,Dr.Shrikant Eknath Shinde,SHS,440892,Anand Prakash Paranjpe,NCP,190143,250749,2014,SHS
+267,267,Maharashtra,25,Thane,GEN,Vichare Rajan Baburao,SHS,595364,Sanjeev Ganesh Naik,NCP,314065,281299,2014,SHS
+268,268,Maharashtra,26,Mumbai-North,GEN,Gopal Chinayya Shetty,BJP,664004,Sanjay Brijkishorlal Nirupam,INC,217422,446582,2014,BJP
+269,269,Maharashtra,27,Mumbai-North-West,GEN,Gajanan Chandrakant Kirtikar,SHS,464820,Kamat Gurudas Vasant,INC,281792,183028,2014,SHS
+270,270,Maharashtra,28,Mumbai-North-East,GEN,Kirit Somaiya,BJP,525285,Sanjay Dina Patil,NCP,208163,317122,2014,BJP
+271,271,Maharashtra,29,Mumbai-North-Central,GEN,Poonam Mahajan Alias Poonam Vajendla Rao,BJP,478535,Dutt Priya Sunil,INC,291764,186771,2014,BJP
+272,272,Maharashtra,30,Mumbai-South-Central,GEN,Rahul Ramesh Shewale,SHS,381275,Eknath M. Gaikwad,INC,242933,138342,2014,SHS
+273,273,Maharashtra,31,Mumbai-South,GEN,Arvind Sawant,SHS,374780,Deora Milind Murli,INC,246632,128148,2014,SHS
+274,274,Maharashtra,32,Raigad,GEN,Anant Geete,SHS,396178,Tatkare Sunil Dattatrey,NCP,394068,2110,2014,SHS
+275,275,Maharashtra,33,Maval,GEN,Appa Alias Shrirang Chandu Barne,SHS,512226,Jagtap Laxmanbhau Pandurang,PWPI,354829,157397,2014,SHS
+276,276,Maharashtra,34,Pune,GEN,Anil Shirole,BJP,569825,Dr.Vishwajeet Patangrao Kadam,INC,254056,315769,2014,BJP
+277,277,Maharashtra,35,Baramati,GEN,Supriya Sule,NCP,521562,Mahadev Jagannath Jankar,RSP,451843,69719,2014,NCP
+278,278,Maharashtra,36,Shirur,GEN,Adhalrao Shivaji Dattatrey,SHS,643415,Nikam Devdatta Jaywant,NCP,341601,301814,2014,SHS
+279,279,Maharashtra,37,Ahmednagar,GEN,Gandhi Dilipkumar Mansukhlal,BJP,605185,Rajeev Appasaheb Rajale,NCP,396063,209122,2014,BJP
+280,280,Maharashtra,38,Shirdi,SC,Lokhande Sadashiv Kisan,SHS,532936,Bhausaheb Rajaram Wakchaure,INC,333014,199922,2014,SHS
+281,281,Maharashtra,39,Beed,GEN,Pritam Munde,BJP,922416,Ashokrao Shankarrao Patil,INC,226095,696321,2014,BJP
+282,282,Maharashtra,40,Osmanabad,GEN,Gaikwad Ravindra Vishwanath,SHS,607699,Patil Padmasinha Bajirao,NCP,373374,234325,2014,SHS
+283,283,Maharashtra,41,Latur,SC,Dr. Sunil Baliram Gaikwad,BJP,616509,Bansode Dattatray Gunderao,INC,363114,253395,2014,BJP
+284,284,Maharashtra,42,Solapur,SC,Sharad Bansode,BJP,517879,Shinde Sushilkumar Sambhajirao,INC,368205,149674,2014,BJP
+285,285,Maharashtra,43,Madha,GEN,Mohite Patil Vijaysinh Shankarrao,NCP,489989,Sadabhau Ramchandra Khot,SWP,464645,25344,2014,NCP
+286,286,Maharashtra,44,Sangli,GEN,Sanjaykaka Patil,BJP,611563,Patil Pratik Prakashbapu,INC,372271,239292,2014,BJP
+287,287,Maharashtra,45,Satara,GEN,Shrimant Chh. Udayanraje Pratapsinha Bhonsale,NCP,522531,Purushottam Jadhav,IND,155937,366594,2014,NCP
+288,288,Maharashtra,46,Ratnagiri-Sindhudurg,GEN,Vinayak Bhaurao Raut,SHS,493088,Nilesh Narayan Rane,INC,343037,150051,2014,SHS
+289,289,Maharashtra,47,Kolhapur,GEN,Dhananjay Bhimrao Mahadik,NCP,607665,Sanjay Sadashiv Mandalik,SHS,574406,33259,2014,NCP
+290,290,Maharashtra,48,Hatkanangle,GEN,Raju Shetty,SWP,640428,Awade Kallappa Baburao,INC,462618,177810,2014,SWP
+291,291,Manipur,1,Inner Manipur,GEN,Dr. Thokchom Meinya,INC,292102,Moirangthem Nara,CPI,197428,94674,2014,INC
+292,292,Manipur,2,Outer Manipur,ST,Thangso Baite,INC,296770,Soso Lorho,NPF,281133,15637,2014,INC
+293,293,Meghalaya,1,Shillong,ST,Vincent H. Pala,INC,209340,Prechard B. M. Basaiawmoit,IND,168961,40379,2014,INC
+294,294,Meghalaya,2,Tura,ST,Purno Agitok Sangma,NPP,239301,Daryl William Ch Momin,INC,199585,39716,2014,NPP
+295,295,Mizoram,1,Mizoram,ST,C. L. Ruala,INC,210485,Robert Romawia Royte,IND,204331,6154,2014,INC
+296,296,Nagaland,1,Nagaland,ST,Neiphiu Rio,NPF,713372,K. V. Pusa,INC,313147,400225,2014,NPF
+297,297,Odisha,1,Bargarh,GEN,Prabhas Kumar Singh,BJD,383230,Subash Chouhan,BJP,372052,11178,2014,BJD
+298,298,Odisha,2,Sundargarh,ST,Jual (Juel Oram),BJP,340508,Dilip Kumar Tirkey,BJD,321679,18829,2014,BJP
+299,299,Odisha,3,Sambalpur,GEN,Nagendra Kumar Pradhan,BJD,358618,Suresh Pujari,BJP,328042,30576,2014,BJD
+300,300,Odisha,4,Keonjhar,ST,Sakuntala Laguri,BJD,434471,Ananta Nayak,BJP,277154,157317,2014,BJD
+301,301,Odisha,5,Mayurbhanj,ST,Rama Chandra Hansdah,BJD,393779,Nepole Raghu Murmu,BJP,270913,122866,2014,BJD
+302,302,Odisha,6,Balasore,GEN,Rabindra Kumar Jena,BJD,433768,Pratap Chandra Sarangi,BJP,291943,141825,2014,BJD
+303,303,Odisha,7,Bhadrak,SC,Arjun Charan Sethi,BJD,502338,Sangram Keshari Jena,INC,322979,179359,2014,BJD
+304,304,Odisha,8,Jajpur,SC,Rita Tarai,BJD,541349,Asok Das,INC,221078,320271,2014,BJD
+305,305,Odisha,9,Dhenkanal,GEN,Tathagata Satpathy,BJD,453277,Rudra Narayan Pany,BJP,315937,137340,2014,BJD
+306,306,Odisha,10,Bolangir,GEN,Kalikesh Narayan Singh Deo,BJD,453519,Sangeeta Kumari Singh Deo,BJP,349220,104299,2014,BJD
+307,307,Odisha,11,Kalahandi,GEN,Arka Keshari Deo,BJD,370871,Pradipta Kumar Naik,BJP,314524,56347,2014,BJD
+308,308,Odisha,12,Nabarangpur,ST,Balabhadra Majhi,BJD,373887,Pradeep Kumar Majhi,INC,371845,2042,2014,BJD
+309,309,Odisha,13,Kandhamal,GEN,Pratyusha Rajeshwari Singh,BJD,477529,Rudra Madhab Ray,BJP,178661,298868,2014,BJD
+310,310,Odisha,14,Cuttack,GEN,Bhartruhari Mahatab,BJD,526085,Aparajita Mohanty,INC,219323,306762,2014,BJD
+311,311,Odisha,15,Kendrapara,GEN,Baijayant Panda,BJD,601574,Dharanidhar Nayak,INC,392466,209108,2014,BJD
+312,312,Odisha,16,Jagatsinghpur,SC,Kulamani Samal,BJD,624492,Bibhu Prasad Tarai,INC,348098,276394,2014,BJD
+313,313,Odisha,17,Puri,GEN,Pinaki Misra,BJD,523161,Sucharita Mohanty,INC,259800,263361,2014,BJD
+314,314,Odisha,18,Bhubaneswar,GEN,Prasanna Kumar Patasani,BJD,439252,Prithiviraj Harichandan,BJP,249775,189477,2014,BJD
+315,315,Odisha,19,Aska,GEN,Ladu Kishore Swain,BJD,541473,Srilokanath Ratha,INC,229476,311997,2014,BJD
+316,316,Odisha,20,Berhampur,GEN,Sidhant Mohapatra,BJD,398107,Chandra Sekhar Sahu,INC,270387,127720,2014,BJD
+317,317,Odisha,21,Koraput,ST,Jhina Hikaka,BJD,395109,Giridhar Gamang,INC,375781,19328,2014,BJD
+318,318,Puducherry,1,Puducherry,GEN,R. Radhakrishnan,AINRC,255826,V. Narayanasamy,INC,194972,60854,2014,AINRC
+319,319,Punjab,1,Gurdaspur,GEN,Vinod Khanna,BJP,482255,Partap Singh Bajwa,INC,346190,136065,2014,BJP
+320,320,Punjab,2,Amritsar,GEN,Captain Amarinder Singh,INC,482876,Arun Jaitley,BJP,380106,102770,2014,INC
+321,321,Punjab,3,Khadoor Sahib,GEN,Ranjit Singh Brahmpura,SAD,467332,Harminder Singh Gill,INC,366763,100569,2014,SAD
+322,322,Punjab,4,Jalandhar,SC,Santokh Singh Chaudhary,INC,380479,Pawan Kumar Tinu,SAD,309498,70981,2014,INC
+323,323,Punjab,5,Hoshiarpur,SC,Vijay Sampla,BJP,346643,Mohinder Singh Kaypee,INC,333061,13582,2014,BJP
+324,324,Punjab,6,Anandpur Sahib,GEN,Prem Singh Chandumajra,SAD,347394,Ambika Soni,INC,323697,23697,2014,SAD
+325,325,Punjab,7,Ludhiana,GEN,Ravneet Singh Bittu,INC,300459,Harvinder Singh Phoolka,AAP,280750,19709,2014,INC
+326,326,Punjab,8,Fatehgarh Sahib,SC,Harinder Singh Khalsa,AAP,367293,Sadhu Singh,INC,313149,54144,2014,AAP
+327,327,Punjab,9,Faridkot,SC,Prof. Sadhu Singh,AAP,450751,Paramjit Kaur Gulshan,SAD,278235,172516,2014,AAP
+328,328,Punjab,10,Ferozpur,GEN,Sher Singh Ghubaya,SAD,487932,Sunil Jakhar,INC,456512,31420,2014,SAD
+329,329,Punjab,11,Bathinda,GEN,Harsimrat Kaur Badal,SAD,514727,Manpreet Singh Badal S/O Gurdas Singh,INC,495332,19395,2014,SAD
+330,330,Punjab,12,Sangrur,GEN,Bhagwant Mann,AAP,533237,Sukhdev Singh Dhindsa,SAD,321516,211721,2014,AAP
+331,331,Punjab,13,Patiala,GEN,Dr. Dharam Vira Gandhi,AAP,365671,Preneet Kaur,INC,344729,20942,2014,AAP
+332,332,Rajasthan,1,Ganganagar,SC,Nihalchand,BJP,658130,Master Bhanwarlal Meghwal,INC,366389,291741,2014,BJP
+333,333,Rajasthan,2,Bikaner,SC,Arjun Ram Meghwal,BJP,584932,Er. Shankar Pannu,INC,276853,308079,2014,BJP
+334,334,Rajasthan,3,Churu,GEN,Rahul Kaswan,BJP,595756,Abhinesh Maharshi,BSP,301017,294739,2014,BJP
+335,335,Rajasthan,4,Jhunjhunu,GEN,Santosh Ahlawat,BJP,488182,Raj Bala Ola,INC,254347,233835,2014,BJP
+336,336,Rajasthan,5,Sikar,GEN,Sumedhanand Saraswati,BJP,499428,Pratap Singh Jat,INC,260232,239196,2014,BJP
+337,337,Rajasthan,6,Jaipur Rural,GEN,Rajyavardhan Singh Rathore,BJP,632930,Dr. C.P. Joshi,INC,300034,332896,2014,BJP
+338,338,Rajasthan,7,Jaipur,GEN,Ramcharan Bohara,BJP,863358,Dr. Mahesh Joshi,INC,324013,539345,2014,BJP
+339,339,Rajasthan,8,Alwar,GEN,Chand Nath,BJP,642278,Bhanwar Jitendra Singh,INC,358383,283895,2014,BJP
+340,340,Rajasthan,9,Bharatpur,SC,Bahadur Singh,BJP,579825,Dr.Suresh Jatav,INC,334357,245468,2014,BJP
+341,341,Rajasthan,10,Karauli-Dholpur,SC,Manoj Rajoria,BJP,402407,Lakkhiram,INC,375191,27216,2014,BJP
+342,342,Rajasthan,11,Dausa,ST,Harish Chandra Meena,BJP,315059,Dr. Kirodi Lal,NPP,269655,45404,2014,BJP
+343,343,Rajasthan,12,Tonk-Sawai Madhopur,GEN,Sukhbir Singh Jaunapuria,BJP,548179,Mohammed Azharuddin,INC,412868,135311,2014,BJP
+344,344,Rajasthan,13,Ajmer,GEN,Sanwar Lal Jat,BJP,637874,Sachin Pilot,INC,465891,171983,2014,BJP
+345,345,Rajasthan,14,Nagaur,GEN,C R Choudhary,BJP,414791,Dr Jyoti Mirdha,INC,339573,75218,2014,BJP
+346,346,Rajasthan,15,Pali,GEN,P P Choudhary,BJP,711772,Munni Devi Godara,INC,312733,399039,2014,BJP
+347,347,Rajasthan,16,Jodhpur,GEN,Gajendrasingh Shekhawat,BJP,713515,Chandresh Kumari,INC,303464,410051,2014,BJP
+348,348,Rajasthan,17,Barmer,GEN,Col. Sona Ram,BJP,488747,Jaswant Singh,IND,401286,87461,2014,BJP
+349,349,Rajasthan,18,Jalore,SC,Devji Patel,BJP,580508,Anjana Udai Lal,INC,199363,381145,2014,BJP
+350,350,Rajasthan,19,Udaipur,ST,Arjunlal Meena,BJP,660373,Raghuvir Singh,INC,423611,236762,2014,BJP
+351,351,Rajasthan,20,Banswara,ST,Manshankar Ninama,BJP,577433,Resham Malviya,INC,485517,91916,2014,BJP
+352,352,Rajasthan,21,Chittorgarh,GEN,Chandra Prakash Joshi,BJP,703236,Girija Vyas,INC,386379,316857,2014,BJP
+353,353,Rajasthan,22,Rajsamand,GEN,Hariom Singh Rathore,BJP,644794,Gopal Singh Shekhawat,INC,249089,395705,2014,BJP
+354,354,Rajasthan,23,Bhilwara,GEN,Subhash Baheria,BJP,630317,Ashok Chandna,INC,384053,246264,2014,BJP
+355,355,Rajasthan,24,Kota,GEN,Om Birla,BJP,644822,Ijyaraj Singh,INC,444040,200782,2014,BJP
+356,356,Rajasthan,25,Jhalawar-Baran,GEN,Dushyant Singh,BJP,676102,Pramod Bhaya,INC,394556,281546,2014,BJP
+357,357,Sikkim,1,Sikkim,GEN,Prem Das Rai,SDF,163698,Tek Nath Dhakal,SKM,121956,41742,2014,SDF
+358,358,Tamil Nadu,1,Tiruvallur,SC,Venugopal.P.(Dr),AIADMK,628499,Ravikumar.D,VCK,305069,323430,2014,AIADMK
+359,359,Tamil Nadu,2,Chennai North,GEN,Venkatesh Babu .T.G,AIADMK,406704,Girirajan .R,DMK,307000,99704,2014,AIADMK
+360,360,Tamil Nadu,3,Chennai South,GEN,Dr. J. Jayavardhan,AIADMK,438404,T.K.S.Elangovan,DMK,301779,136625,2014,AIADMK
+361,361,Tamil Nadu,4,Chennai Central,GEN,S.R. Vijayakumar,AIADMK,333296,Dayanidhi Maran,DMK,287455,45841,2014,AIADMK
+362,362,Tamil Nadu,5,Sriperumbudur,GEN,"Ramachandran, K.N. Thiru",AIADMK,545820,"Jagathrakshakan, S. Thiru",DMK,443174,102646,2014,AIADMK
+363,363,Tamil Nadu,6,Kancheepuram,SC,Maragatham K,AIADMK,499395,Selvam G,DMK,352529,146866,2014,AIADMK
+364,364,Tamil Nadu,7,Arakkonam,GEN,"Hari, G.",AIADMK,493534,N.R Elango,DMK,252768,240766,2014,AIADMK
+365,365,Tamil Nadu,8,Vellore,GEN,"Senguttuvan, B.",AIADMK,383719,"Shanmugam, A.C.",BJP,324326,59393,2014,AIADMK
+366,366,Tamil Nadu,9,Krishnagiri,GEN,Ashok Kumar.K,AIADMK,480491,Chinna Pillappa.P,DMK,273900,206591,2014,AIADMK
+367,367,Tamil Nadu,10,Dharmapuri,GEN,Anbumani Ramadoss,PMK,468194,Mohan.P.S,AIADMK,391048,77146,2014,PMK
+368,368,Tamil Nadu,11,Tiruvannamalai,GEN,Vanaroja R,AIADMK,500751,Annadurai C N,DMK,332145,168606,2014,AIADMK
+369,369,Tamil Nadu,12,Arani,GEN,V.Elumalai,AIADMK,502721,R.Sivanandam,DMK,258877,243844,2014,AIADMK
+370,370,Tamil Nadu,13,Viluppuram,SC,Rajendran S,AIADMK,482704,Muthaiyan K Dr,DMK,289337,193367,2014,AIADMK
+371,371,Tamil Nadu,14,Kallakurichi,GEN,Kamaraj. K,AIADMK,533383,Manimaran. R,DMK,309876,223507,2014,AIADMK
+372,372,Tamil Nadu,15,Salem,GEN,Pannerselvam.V,AIADMK,556546,Umarani. S,DMK,288936,267610,2014,AIADMK
+373,373,Tamil Nadu,16,Namakkal,GEN,Sundaram P.R,AIADMK,563272,Gandhiselvan.S,DMK,268898,294374,2014,AIADMK
+374,374,Tamil Nadu,17,Erode,GEN,Selvakumara Chinnayan S,AIADMK,466995,Ganeshamurthi.A,MDMK,255432,211563,2014,AIADMK
+375,375,Tamil Nadu,18,Tiruppur,GEN,V.Sathyabama,AIADMK,442778,N.Dineshkumar,DMDK,263463,179315,2014,AIADMK
+376,376,Tamil Nadu,19,Nilgiris,SC,"Gopalakrishnan, C.",AIADMK,463700,"Raja, A.",DMK,358760,104940,2014,AIADMK
+377,377,Tamil Nadu,20,Coimbatore,GEN,"Nagarajan, P.",AIADMK,431717,"Radhakrishnan, C.P.",BJP,389701,42016,2014,AIADMK
+378,378,Tamil Nadu,21,Pollachi,GEN,Mahendran.C,AIADMK,417092,Eswaran.E.R.,BJP,276118,140974,2014,AIADMK
+379,379,Tamil Nadu,22,Dindigul,GEN,Udhaya Kumar .M,AIADMK,510462,Gandhirajan S,DMK,382617,127845,2014,AIADMK
+380,380,Tamil Nadu,23,Karur,GEN,"Thambidurai,M.",AIADMK,540722,"Chinnasamy, M.",DMK,345475,195247,2014,AIADMK
+381,381,Tamil Nadu,24,Tiruchirappalli,GEN,Kumar.P,AIADMK,458478,Anbhalagan.Mu,DMK,308002,150476,2014,AIADMK
+382,382,Tamil Nadu,25,Perambalur,GEN,"Marutharajaa, R.P.",AIADMK,462693,"Seemanur Prabu, S.",DMK,249645,213048,2014,AIADMK
+383,383,Tamil Nadu,26,Cuddalore,GEN,Arunmozhithevan.A,AIADMK,481429,Nandagopalakrishnan.K.,DMK,278304,203125,2014,AIADMK
+384,384,Tamil Nadu,27,Chidambaram,SC,"Chandrakasi, M",AIADMK,429536,"Thirumaavalavan, Thol",VCK,301041,128495,2014,AIADMK
+385,385,Tamil Nadu,28,Mayiladuthurai,GEN,Bharathi Mohan R.K,AIADMK,513729,Hyder Ali.S,MAMAK,236679,277050,2014,AIADMK
+386,386,Tamil Nadu,29,Nagapattinam,SC,Gopal. Dr. K,AIADMK,434174,Vijayan. A.K.S,DMK,328095,106079,2014,AIADMK
+387,387,Tamil Nadu,30,Thanjavur,GEN,Parasuraman.K,AIADMK,510307,Baalu.T.R,DMK,366188,144119,2014,AIADMK
+388,388,Tamil Nadu,31,Sivaganga,GEN,Senthilnathan Pr,AIADMK,475993,Dhurai Raaj Subha,DMK,246608,229385,2014,AIADMK
+389,389,Tamil Nadu,32,Madurai,GEN,R.Gopalakrishnan,AIADMK,454167,V Velusamy,DMK,256731,197436,2014,AIADMK
+390,390,Tamil Nadu,33,Theni,GEN,"Parthipan, R.",AIADMK,571254,Pon. Muthuramalingam,DMK,256722,314532,2014,AIADMK
+391,391,Tamil Nadu,34,Virudhunagar,GEN,Radhakrishnan T,AIADMK,406694,Vaiko,MDMK,261143,145551,2014,AIADMK
+392,392,Tamil Nadu,35,Ramanathapuram,GEN,Anwhar Raajhaa.A,AIADMK,405945,Mohamed Jaleel .S,DMK,286621,119324,2014,AIADMK
+393,393,Tamil Nadu,36,Thoothukkudi,GEN,Jeyasingh Thiyagaraj Natterjee.J,AIADMK,366052,Jegan. P,DMK,242050,124002,2014,AIADMK
+394,394,Tamil Nadu,37,Tenkasi,SC,Vasanthi.M,AIADMK,424586,Dr.Krishnasamy.K.,PT,262812,161774,2014,AIADMK
+395,395,Tamil Nadu,38,Tirunelveli,GEN,Prabakaran.K.R.P,AIADMK,398139,Devadasa Sundaram,DMK,272040,126099,2014,AIADMK
+396,396,Tamil Nadu,39,Kanniyakumari,GEN,Radhakrishnan P.,BJP,372906,Vasantha Kumar H.,INC,244244,128662,2014,BJP
+397,397,Telangana,1,Adilabad,ST,Godam Nagesh,TRS,430847,Naresh,INC,259557,171290,2014,TRS
+398,398,Telangana,2,Peddapalli,SC,Balka Suman,TRS,565496,G. Vivekanand,INC,274338,291158,2014,TRS
+399,399,Telangana,3,Karimnagar,GEN,Vinod Kumar Boinapally,TRS,505783,Ponnam Prabhakar,INC,300706,205077,2014,TRS
+400,400,Telangana,4,Nizamabad,GEN,Kalvakuntla Kavitha,TRS,439307,Madhu Yaskhi Goud,INC,272123,167184,2014,TRS
+401,401,Telangana,5,Zahirabad,GEN,B.B. Patil,TRS,508661,Suresh Kumar Shetkar,INC,364030,144631,2014,TRS
+402,402,Telangana,6,Medak,GEN,Kotha Prabhakar Reddy,TRS,571800,V Sunita Laxma Reddy,INC,210523,361277,2014,TRS
+403,403,Telangana,7,Malkajgiri,GEN,Ch.Malla Reddy,TDP,523336,Hanumanth Rao Mynampally,TRS,494965,28371,2014,TDP
+404,404,Telangana,8,Secunderabad,GEN,Bandaru Dattatreya,BJP,438271,M.Anjan Kumar Yadav,INC,183536,254735,2014,BJP
+405,405,Telangana,9,Hyderabad,GEN,Asaduddin Owaisi,AIMIM,513868,Dr.Bhagavanth Rao,BJP,311414,202454,2014,AIMIM
+406,406,Telangana,10,Chelvella,GEN,Konda Vishweshwar Reddy,TRS,435077,Patlolla Kartik Reddy,INC,362054,73023,2014,TRS
+407,407,Telangana,11,Mahabubnagar,GEN,Ap Jithender Reddy,TRS,334228,Jaipal Reddy Sudini,INC,331638,2590,2014,TRS
+408,408,Telangana,12,Nagarkurnool,SC,Yellaiah Nandi,INC,420075,Dr. Manda Jagannath,TRS,403399,16676,2014,INC
+409,409,Telangana,13,Nalgonda,GEN,Gutha Sukhender Reddy,INC,472093,Tera Chinnapa Reddy,TDP,278937,193156,2014,INC
+410,410,Telangana,14,Bhongir,GEN,Dr. Boora Narsaiah Goud,TRS,448245,Komatireddy Rajgopal Reddy,INC,417751,30494,2014,TRS
+411,411,Telangana,15,Warangal,SC,Kadiyam Srihari,TRS,661639,Rajaiah Siricilla,INC,269065,392574,2014,TRS
+412,412,Telangana,16,Mahabubabad,ST,Prof. Azmeera Seetaram Naik,TRS,320569,P. Balram,INC,285577,34992,2014,TRS
+413,413,Telangana,17,Khammam,GEN,Ponguleti Srinivasa Reddy,YSRCP,421957,Nama Nageswara Rao,TDP,409983,11974,2014,YSRCP
+414,414,Tripura,1,Tripura West,GEN,Sankar Prasad Datta,CPI,671665,Arunoday Saha,INC,168179,503486,2014,CPI
+415,415,Tripura,2,Tripura East,ST,Jitendera Choudhury,CPI,623771,Sachitra Debbarma,INC,139413,484358,2014,CPI
+416,416,Uttar Pradesh,1,Saharanpur,GEN,Raghav Lakhanpal,BJP,472999,Imran Masood,INC,407909,65090,2014,BJP
+417,417,Uttar Pradesh,2,Kairana,GEN,Hukum Singh,BJP,565909,Nahid Hasan,SP,329081,236828,2014,BJP
+418,418,Uttar Pradesh,3,Muzaffarnagar,GEN,(Dr.) Sanjeev Kumar Balyan,BJP,653391,Kadir Rana,BSP,252241,401150,2014,BJP
+419,419,Uttar Pradesh,4,Bijnor,GEN,Kunwar Bhartendra,BJP,486913,Shahnawaz Rana,SP,281139,205774,2014,BJP
+420,420,Uttar Pradesh,5,Nagina,SC,Yashwant Singh,BJP,367825,Yashvir Singh,SP,275435,92390,2014,BJP
+421,421,Uttar Pradesh,6,Moradabad,GEN,Kunwer Sarvesh Kumar,BJP,485224,Dr S T Hasan,SP,397720,87504,2014,BJP
+422,422,Uttar Pradesh,7,Rampur,GEN,Dr. Nepal Singh,BJP,358616,Naseer Ahmad Khan,SP,335181,23435,2014,BJP
+423,423,Uttar Pradesh,8,Sambhal,GEN,Satyapal Singh,BJP,360242,Dr Shafiq Ur Rahman Barq,SP,355068,5174,2014,BJP
+424,424,Uttar Pradesh,9,Amroha,GEN,Kanwar Singh Tanwar,BJP,528880,Humera Akhtar,SP,370666,158214,2014,BJP
+425,425,Uttar Pradesh,10,Meerut,GEN,Rajendra Agarwal,BJP,532981,Mohd.Shahid Akhlak,BSP,300655,232326,2014,BJP
+426,426,Uttar Pradesh,11,Baghpat,GEN,Dr. Satya Pal Singh,BJP,423475,Ghulam Mohammed,SP,213609,209866,2014,BJP
+427,427,Uttar Pradesh,12,Ghaziabad,GEN,Vijay Kumar Singh,BJP,758482,Raj Babbar,INC,191222,567260,2014,BJP
+428,428,Uttar Pradesh,13,Gautam Buddha Nagar,GEN,Dr.Mahesh Sharma,BJP,599702,Narendra Bhati,SP,319490,280212,2014,BJP
+429,429,Uttar Pradesh,14,Bulandshahr,SC,Bhola Singh,BJP,604449,Pradeep Kumar Jatav,BSP,182476,421973,2014,BJP
+430,430,Uttar Pradesh,15,Aligarh,GEN,Satish Kumar,BJP,514622,Dr. Arvind Kumar Singh,BSP,227886,286736,2014,BJP
+431,431,Uttar Pradesh,16,Hathras,SC,Rajesh Kumar Diwaker,BJP,544277,Manoj Kumar Soni,BSP,217891,326386,2014,BJP
+432,432,Uttar Pradesh,17,Mathura,GEN,Hema Malini Dharmendra,BJP,574633,Jayant Chaudhary,RLD,243890,330743,2014,BJP
+433,433,Uttar Pradesh,18,Agra,SC,Dr. Ram Shankar Katheria,BJP,583716,Narayan Singh Suman,BSP,283453,300263,2014,BJP
+434,434,Uttar Pradesh,19,Fatehpur Sikri,GEN,Babulal,BJP,426589,Seema Upadhyay,BSP,253483,173106,2014,BJP
+435,435,Uttar Pradesh,20,Firozabad,GEN,Akshay Yadav,SP,534583,Prof. S.P. Singh Baghel,BJP,420524,114059,2014,SP
+436,436,Uttar Pradesh,21,Mainpuri,GEN,Tej Pratap Singh Yadav,SP,653686,Prem Singh Shakya,BJP,332537,321149,2014,SP
+437,437,Uttar Pradesh,22,Etah,GEN,Rajveer Singh (Raju Bhaiya),BJP,474978,Ku. Devendra Singh Yadav,SP,273977,201001,2014,BJP
+438,438,Uttar Pradesh,23,Badaun,GEN,Dharmendra Yadav,SP,498378,Vagish Pathak,BJP,332031,166347,2014,SP
+439,439,Uttar Pradesh,24,Aonla,GEN,Dharmendra Kumar,BJP,409907,Kunwar Sarvraj Singh,SP,271478,138429,2014,BJP
+440,440,Uttar Pradesh,25,Bareilly,GEN,Santosh Kumar Gangwar,BJP,518258,Ayesha Islam,SP,277573,240685,2014,BJP
+441,441,Uttar Pradesh,26,Pilibhit,GEN,Maneka Sanjay Gandhi,BJP,546934,Budhsen Verma,SP,239882,307052,2014,BJP
+442,442,Uttar Pradesh,27,Shahjahanpur,SC,Krishna Raj,BJP,525132,Umed Singh Kashyap,BSP,289603,235529,2014,BJP
+443,443,Uttar Pradesh,28,Kheri,GEN,Ajay Kumar,BJP,398578,Arvind Giri,BSP,288304,110274,2014,BJP
+444,444,Uttar Pradesh,29,Dhaurahra,GEN,Rekha,BJP,360357,Daud Ahmad,BSP,234682,125675,2014,BJP
+445,445,Uttar Pradesh,30,Sitapur,GEN,Rajesh Verma,BJP,417546,Kaiser Jahan,BSP,366519,51027,2014,BJP
+446,446,Uttar Pradesh,31,Hardoi,SC,Anshul Verma,BJP,360501,Shive Prasad Verma,BSP,279158,81343,2014,BJP
+447,447,Uttar Pradesh,32,Misrikh,SC,Anju Bala,BJP,412575,Ashok Kumar Rawat,BSP,325212,87363,2014,BJP
+448,448,Uttar Pradesh,33,Unnao,GEN,Swami Sachchidanand Hari Sakshi,BJP,518834,Arun Shankar Shukla,SP,208661,310173,2014,BJP
+449,449,Uttar Pradesh,34,Mohanlalganj,SC,Kaushal Kishore,BJP,455274,R.K Chaudhary,BSP,309858,145416,2014,BJP
+450,450,Uttar Pradesh,35,Lucknow,GEN,Raj Nath Singh,BJP,561106,Prof. Rita Bahuguna Joshi,INC,288357,272749,2014,BJP
+451,451,Uttar Pradesh,36,Rae Bareli,GEN,Sonia Gandhi,INC,526434,Ajay Agrawal,BJP,173721,352713,2014,INC
+452,452,Uttar Pradesh,37,Amethi,GEN,Rahul Gandhi,INC,408651,Smriti Zubin Irani,BJP,300748,107903,2014,INC
+453,453,Uttar Pradesh,38,Sultanpur,GEN,Feroze Varun Gandhi,BJP,410348,Pawan Pandey,BSP,231446,178902,2014,BJP
+454,454,Uttar Pradesh,39,Pratapgarh,GEN,Kuwar Harivansh Singh,AD,375789,Asif Nizamuddin Siddique,BSP,207567,168222,2014,AD
+455,455,Uttar Pradesh,40,Farrukhabad,GEN,Mukesh Rajput,BJP,406195,Rameshwar Singh Yadav,SP,255693,150502,2014,BJP
+456,456,Uttar Pradesh,41,Etawah,SC,Ashok Kumar Doharey,BJP,439646,Premdas Kateriya,SP,266700,172946,2014,BJP
+457,457,Uttar Pradesh,42,Kannauj,GEN,Dimple Yadav,SP,489164,Subrat Pathak,BJP,469257,19907,2014,SP
+458,458,Uttar Pradesh,43,Kanpur,GEN,Dr.Murli Manohar Joshi,BJP,474712,Sriprakash Jaiswal,INC,251766,222946,2014,BJP
+459,459,Uttar Pradesh,44,Akbarpur,GEN,Devendra Singh (Bhole Singh),BJP,481584,Anil Shukla Warsi,BSP,202587,278997,2014,BJP
+460,460,Uttar Pradesh,45,Jalaun,SC,Bhanu Pratap Singh Verma,BJP,548631,Brijlal Khabri,BSP,261429,287202,2014,BJP
+461,461,Uttar Pradesh,46,Jhansi,GEN,Uma Bharti,BJP,575889,Dr. Chandrapal Singh Yadav,SP,385422,190467,2014,BJP
+462,462,Uttar Pradesh,47,Hamirpur,GEN,Kunwar Pushpendra Singh Chandel,BJP,453884,Bishambhar Prasad Nishad,SP,187096,266788,2014,BJP
+463,463,Uttar Pradesh,48,Banda,GEN,Bhairon Prasad Mishra,BJP,342066,R. K. Singh Patel,BSP,226278,115788,2014,BJP
+464,464,Uttar Pradesh,49,Fatehpur,GEN,Sadhavi Niranjan Jyoti,BJP,485994,Afzal Siddiqui,BSP,298788,187206,2014,BJP
+465,465,Uttar Pradesh,50,Kaushambi,SC,Vinod Kumar Sonkar,BJP,331593,Shailendra Kumar,SP,288746,42847,2014,BJP
+466,466,Uttar Pradesh,51,Phulpur,GEN,Keshav Prasad Maurya,BJP,503564,Dharam Raj Singh Patel,SP,195256,308308,2014,BJP
+467,467,Uttar Pradesh,52,Allahabad,GEN,Shyama Charan Gupta,BJP,313772,Kunwar Rewati Raman Singh Alias Mani,SP,251763,62009,2014,BJP
+468,468,Uttar Pradesh,53,Barabanki,SC,Priyanka Singh Rawat,BJP,454214,P. L. Punia,INC,242336,211878,2014,BJP
+469,469,Uttar Pradesh,54,Faizabad,GEN,Lallu Singh,BJP,491761,Mitrasen Yadav,SP,208986,282775,2014,BJP
+470,470,Uttar Pradesh,55,Ambedkar Nagar,GEN,Hari Om Pandey,BJP,432104,Rakesh Pandey,BSP,292675,139429,2014,BJP
+471,471,Uttar Pradesh,56,Bahraich,SC,Sadhvi Savitri Bai Foole,BJP,432392,Shabbir Ahmad,SP,336747,95645,2014,BJP
+472,472,Uttar Pradesh,57,Kaiserganj,GEN,Brij Bhusan Sharan Singh,BJP,381500,Vinod Kumar Alias Pandit Singh,SP,303282,78218,2014,BJP
+473,473,Uttar Pradesh,58,Shravasti,GEN,Daddan Mishra,BJP,345964,Atiq Ahmad,SP,260051,85913,2014,BJP
+474,474,Uttar Pradesh,59,Gonda,GEN,Kirti Vardhan Singh,BJP,359643,Nandita Shukla,SP,199227,160416,2014,BJP
+475,475,Uttar Pradesh,60,Domariyaganj,GEN,Jagdambika Pal,BJP,298845,Muhammad Muqeem,BSP,195257,103588,2014,BJP
+476,476,Uttar Pradesh,61,Basti,GEN,Harish Chandra Alias Harish Dwivedi,BJP,357680,Brij Kishor Singh (Dimpal),SP,324118,33562,2014,BJP
+477,477,Uttar Pradesh,62,Sant Kabir Nagar,GEN,Sharad Tripathi,BJP,348892,Bhism Shankar Alias Kushal Tiwari,BSP,250914,97978,2014,BJP
+478,478,Uttar Pradesh,63,Maharajganj,GEN,Pankaj,BJP,471542,Kashi Nath Shukla,BSP,231084,240458,2014,BJP
+479,479,Uttar Pradesh,64,Gorakhpur,GEN,Adityanath,BJP,539127,Rajmati Nishad,SP,226344,312783,2014,BJP
+480,480,Uttar Pradesh,65,Kushi Nagar,GEN,Rajesh Pandey Urf Guddu,BJP,370051,Kunwar Ratanjit Pratap Narain Singh,INC,284511,85540,2014,BJP
+481,481,Uttar Pradesh,66,Deoria,GEN,Kalraj Mishra,BJP,496500,Niyaj Ahmad,BSP,231114,265386,2014,BJP
+482,482,Uttar Pradesh,67,Bansgaon,SC,Kamlesh Paswan,BJP,417959,Sadal Prasad,BSP,228443,189516,2014,BJP
+483,483,Uttar Pradesh,68,Lalganj,SC,Neelam Sonkar,BJP,324016,Bechai Saroj,SP,260930,63086,2014,BJP
+484,484,Uttar Pradesh,69,Azamgarh,GEN,Mulayam Singh Yadav,SP,340306,Ramakant Yadav,BJP,277102,63204,2014,SP
+485,485,Uttar Pradesh,70,Ghosi,GEN,Harinarayan Rajbhar,BJP,379797,Dara Singh Chauhan,BSP,233782,146015,2014,BJP
+486,486,Uttar Pradesh,71,Salempur,GEN,Ravindra Kushawaha,BJP,392213,Ravi Shanker Singh (Pappu),BSP,159871,232342,2014,BJP
+487,487,Uttar Pradesh,72,Ballia,GEN,Bharat Singh,BJP,359758,Neeraj Shekhar,SP,220324,139434,2014,BJP
+488,488,Uttar Pradesh,73,Jaunpur,GEN,Krishna Pratap (K.P.),BJP,367149,Subhash Pandey,BSP,220839,146310,2014,BJP
+489,489,Uttar Pradesh,74,Machhlishahr,SC,Ram Charitra Nishad,BJP,438210,Bholanath Alias B.P. Saroj,BSP,266055,172155,2014,BJP
+490,490,Uttar Pradesh,75,Ghazipur,GEN,Manoj Sinha,BJP,306929,Smt Shivkanya Kushwaha,SP,274477,32452,2014,BJP
+491,491,Uttar Pradesh,76,Chandauli,GEN,Dr Mahendra Nath Pandey,BJP,414135,Anil Kumar Maurya,BSP,257379,156756,2014,BJP
+492,492,Uttar Pradesh,77,Varanasi,GEN,Narendra Modi,BJP,581022,Arvind Kejriwal,AAP,209238,371784,2014,BJP
+493,493,Uttar Pradesh,78,Bhadohi,GEN,Virendra Singh,BJP,403544,Rakesh Dhar Tripathi,BSP,245505,158039,2014,BJP
+494,494,Uttar Pradesh,79,Mirzapur,GEN,Anupriya Singh Patel,AD,436536,Samudra Bind,BSP,217457,219079,2014,AD
+495,495,Uttar Pradesh,80,Robertsganj,SC,Chhotelal,BJP,378211,Sharada Prasad,BSP,187725,190486,2014,BJP
+496,496,Uttarakhand,1,Tehri Garhwal,GEN,Mala Rajya Laxmi Shah,BJP,446733,Saket Bahuguna,INC,254230,192503,2014,BJP
+497,497,Uttarakhand,2,Garhwal,GEN,(Maj Gen (Retd.) ) Bhuwan Chandra Khanduri (Avsm),BJP,405690,(Dr) Harak Singh Rawat,INC,221164,184526,2014,BJP
+498,498,Uttarakhand,3,Almora,SC,Ajay Tamta,BJP,348186,Pradeep Tamta,INC,252496,95690,2014,BJP
+499,499,Uttarakhand,4,Nainital-Udhamsingh Nagar,GEN,Bhagat Singh Koshyari,BJP,636769,K.C.Singh Baba,INC,352052,284717,2014,BJP
+500,500,Uttarakhand,5,Hardwar,GEN,Ramesh Pokhriyal Nishank,BJP,592320,Renuka Rawat,INC,414498,177822,2014,BJP
+501,501,West Bengal,1,Cooch Behar,SC,Renuka Sinha,AITC,526499,Dipak Kumar Roy,AIFB,439392,87107,2014,AITC
+502,502,West Bengal,2,Alipurduars,SC,Dasrath Tirkey,AITC,362453,Manohar Tirkey,RSP,341056,21397,2014,AITC
+503,503,West Bengal,3,Jalpaiguri,SC,Bijoy Chandra Barman,AITC,494773,Mahendra Kumar Roy,CPM,425167,69606,2014,AITC
+504,504,West Bengal,4,Darjeeling,GEN,S.S.Ahluwalia,BJP,488257,Bhai Chung Bhutia,AITC,291018,197239,2014,BJP
+505,505,West Bengal,5,Raiganj,GEN,Md. Salim,CPI,317515,Deepa Dasmunsi,INC,315881,1634,2014,CPI
+506,506,West Bengal,6,Balurghat,GEN,Arpita Ghosh,AITC,409641,Bimalendu Sarkar (Bimal),RSP,302677,106964,2014,AITC
+507,507,West Bengal,7,Maldaha Uttar,GEN,Mausam Noor,INC,388609,Khagen Murmu,CPM,322904,65705,2014,INC
+508,508,West Bengal,8,Maldaha Dakshin,GEN,Abu Hasem Khan Chowdhury,INC,380291,Bisnu Pada Roy,BJP,216180,164111,2014,INC
+509,509,West Bengal,9,Jangipur,GEN,Abhijit Mukherjee,INC,378201,Muzaffar Hossain,CPM,370040,8161,2014,INC
+510,510,West Bengal,10,Baharampur,GEN,Adhir Ranjan Chowdhury,INC,583549,Indranil Sen,AITC,226982,356567,2014,INC
+511,511,West Bengal,11,Murshidabad,GEN,Badaruddoza Khan,CPI,426947,Abdul Mannan Hossain,INC,408494,18453,2014,CPI
+512,512,West Bengal,12,Krishnanagar,GEN,Tapas Paul,AITC,438789,Jha Shantanu,CPM,367534,71255,2014,AITC
+513,513,West Bengal,13,Ranaghat,SC,Tapas Mandal,AITC,590451,Archana Biswas,CPM,388684,201767,2014,AITC
+514,514,West Bengal,14,Bangaon,SC,Mamata Thakur,AITC,539999,Debesh Das,CPM,328214,211785,2014,AITC
+515,515,West Bengal,15,Barrackpore,GEN,Dinesh Trivedi,AITC,479206,Subhashini Ali,CPM,272433,206773,2014,AITC
+516,516,West Bengal,16,Dum Dum,GEN,Saugata Roy,AITC,483244,Asim Kumar Dasgupta,CPM,328310,154934,2014,AITC
+517,517,West Bengal,17,Barasat,GEN,Dr. Kakali Ghoshdostidar,AITC,525387,Dr. Mortoza Hossain,AIFB,352246,173141,2014,AITC
+518,518,West Bengal,18,Basirhat,GEN,Idris Ali,AITC,492326,Nurul Huda,CPI,382667,109659,2014,AITC
+519,519,West Bengal,19,Joynagar,SC,Pratima Mondal,AITC,494746,Subhas Naskar,RSP,386362,108384,2014,AITC
+520,520,West Bengal,20,Mathurapur,SC,Choudhury Mohan Jatua,AITC,627761,Rinku Naskar,CPM,489325,138436,2014,AITC
+521,521,West Bengal,21,Diamond Harbour,GEN,Abhishek Banerjee,AITC,508481,Dr. Abul Hasnat,CPM,437183,71298,2014,AITC
+522,522,West Bengal,22,Jadavpur,GEN,Sugata Bose,AITC,584244,Sujan Chakraborty,CPM,459041,125203,2014,AITC
+523,523,West Bengal,23,Kolkata Dakshin,GEN,Subrata Bakshi,AITC,431715,Tathagata Roy,BJP,295376,136339,2014,AITC
+524,524,West Bengal,24,Kolkata Uttar,GEN,Sudip Bandyopadhyay,AITC,343687,Rahul (Biswajit) Sinha,BJP,247461,96226,2014,AITC
+525,525,West Bengal,25,Howrah,GEN,Prasun Banerjee,AITC,488461,Sridip Bhattacharya,CPM,291505,196956,2014,AITC
+526,526,West Bengal,26,Uluberia,GEN,Sultan Ahmed,AITC,570785,Sabir Uddin Molla,CPM,369563,201222,2014,AITC
+527,527,West Bengal,27,Serampore,GEN,Kalyan Banerjee,AITC,514933,Tirthankar Ray,CPM,362407,152526,2014,AITC
+528,528,West Bengal,28,Hooghly,GEN,Dr. Ratna De (Nag),AITC,614312,Pradip Saha,CPM,425228,189084,2014,AITC
+529,529,West Bengal,29,Arambagh,SC,Aparupa Poddar (Afrin Ali),AITC,748764,Saktimohan Malik,CPM,401919,346845,2014,AITC
+530,530,West Bengal,30,Tamluk,GEN,Adhikari Suvendu,AITC,716928,Sekh Ibrahim Ali,CPM,470447,246481,2014,AITC
+531,531,West Bengal,31,Kanthi,GEN,Adhikari Sisir Kumar,AITC,676749,Sinha Tapas,CPM,447259,229490,2014,AITC
+532,532,West Bengal,32,Ghatal,GEN,Adhikari Deepak (Dev),AITC,685696,Santosh Rana,CPI,424805,260891,2014,AITC
+533,533,West Bengal,33,Jhargram,ST,Uma Saren,AITC,674504,Dr. Pulin Bihari Baske,CPM,326621,347883,2014,AITC
+534,534,West Bengal,34,Medinipur,GEN,Sandhya Roy,AITC,579860,Prabodh Panda,CPI,395194,184666,2014,AITC
+535,535,West Bengal,35,Purulia,GEN,Dr. Mriganka Mahato,AITC,468277,Narahari Mahato,AIFB,314400,153877,2014,AITC
+536,536,West Bengal,36,Bankura,GEN,Sreemati Dev Varma (Moon Moon Sen),AITC,483455,Acharia Basudeb,CPM,384949,98506,2014,AITC
+537,537,West Bengal,37,Bishnupur,SC,Khan Saumitra,AITC,578870,Susmita Bauri,CPM,429185,149685,2014,AITC
+538,538,West Bengal,38,Bardhaman Purba,SC,Sunil Kumar Mondal,AITC,574660,Iswar Chandra Das,CPM,460181,114479,2014,AITC
+539,539,West Bengal,39,Bardhaman-Durgapur,GEN,Dr. Mamtaz Sanghamita,AITC,554521,Sk. Saidul Haque,CPM,447190,107331,2014,AITC
+540,540,West Bengal,40,Asansol,GEN,Babul Supriya Baral (Babul Supriyo),BJP,419983,Dola Sen,AITC,349503,70480,2014,BJP
+541,541,West Bengal,41,Bolpur,SC,Anupam Hazra,AITC,630693,Dome Ramchandra,CPM,394581,236112,2014,AITC
+542,542,West Bengal,42,Birbhum,GEN,Satabdi Roy (Banerjee),AITC,460568,Dr. Elahi Kamre Muhammad,CPM,393305,67263,2014,AITC
